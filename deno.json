@@ -1,0 +1,19 @@
+{
+    "tasks": {
+        "build": "deno run -A ./main.ts"
+    },
+    "imports": {
+        "@std/assert": "jsr:@std/assert@^1.0.19",
+        "feed": "npm:feed@^6.0.0",
+        "happy-dom": "npm:happy-dom@^20.14.5"
+    },
+    "fmt": {
+        "indentWidth": 4,
+        "lineWidth": 100,
+        "exclude": ["./dist"]
+    },
+    "compilerOptions": {
+        "noUncheckedIndexedAccess": true,
+        "verbatimModuleSyntax": true
+    }
+}
