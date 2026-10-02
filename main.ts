@@ -52,7 +52,7 @@ function extractCategoryNames(...imgs: HTMLImageElement[]): ReadonlySet<string> 
     }));
 }
 
-const FEED_PATH = "./dist/feed.xml";
+const FEED_PATH = "./docs/feed.xml";
 
 const ZENKYOMU_NEWS_URL = "https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/index.html";
 

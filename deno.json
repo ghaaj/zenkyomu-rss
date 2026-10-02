@@ -10,7 +10,7 @@
     "fmt": {
         "indentWidth": 4,
         "lineWidth": 100,
-        "exclude": ["./dist"]
+        "exclude": ["./docs"]
     },
     "compilerOptions": {
         "noUncheckedIndexedAccess": true,
