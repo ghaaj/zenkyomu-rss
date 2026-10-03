@@ -4,6 +4,7 @@
     },
     "imports": {
         "@std/assert": "jsr:@std/assert@^1.0.19",
+        "@std/path": "jsr:@std/path@^1.1.6",
         "feed": "npm:feed@^6.0.0",
         "happy-dom": "npm:happy-dom@^20.14.5"
     },

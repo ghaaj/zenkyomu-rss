@@ -1,6 +1,7 @@
 import { type HTMLImageElement, Window } from "happy-dom";
 import { assert, assertExists, assertInstanceOf } from "@std/assert";
 import { type Category, Feed } from "feed";
+import * as path from "@std/path";
 
 function* take<T>(iterator: Iterator<T>, n: number) {
     for (let i = 0; i < n; i++) {
@@ -43,24 +44,25 @@ const filenameToCategory: Record<string, string | string[]> = {
 
 function extractCategoryNames(...imgs: HTMLImageElement[]): ReadonlySet<string> {
     return new Set(imgs.flatMap((img) => {
-        const filename = stripPrefix(
-            new URL(img.src).pathname,
-            "/zenki/news/kyoumu/images/common/",
-        );
+        const filename = new URL(img.src).pathname.split("/").at(-1)!;
         return filenameToCategory[filename] ??
             (console.warn("Unknown asset filename:", filename), []);
     }));
 }
 
-const FEED_PATH = "./docs/feed.xml";
+interface Source {
+    path: string;
+    url: string;
+}
 
-const ZENKYOMU_NEWS_URL = "https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/index.html";
+const window = new Window();
+const domParser = new window.DOMParser();
 
-async function main() {
-    const window = new Window();
-    const domParser = new window.DOMParser();
+async function emitNewsFeed(source: Source) {
+    const feedFileDir = path.join("./docs", source.path);
+    const feedFile = path.join(feedFileDir, "feed.xml");
 
-    const prevEtag = await Deno.readTextFile(FEED_PATH).then((content) => {
+    const prevEtag = await Deno.readTextFile(feedFile).then((content) => {
         const link = domParser
             .parseFromString(content, "text/xml")
             .querySelector("rss > channel > link");
@@ -71,19 +73,19 @@ async function main() {
         else throw e;
     });
 
-    const zenkyomu_news = await fetch(ZENKYOMU_NEWS_URL, {
+    const newsRes = await fetch(source.url, {
         headers: prevEtag !== undefined ? { "If-None-Match": `W/${prevEtag}` } : undefined,
     });
-    if (zenkyomu_news.status === 304) {
+    if (newsRes.status === 304) {
         console.log("No changes detected");
         return;
     }
-    assert(zenkyomu_news.ok);
+    assert(newsRes.ok);
 
-    const etag = zenkyomu_news.headers.get("ETag");
-    const document = domParser.parseFromString(await zenkyomu_news.text(), "text/html");
+    const etag = newsRes.headers.get("ETag");
+    const document = domParser.parseFromString(await newsRes.text(), "text/html");
 
-    const link = new URL(ZENKYOMU_NEWS_URL);
+    const link = new URL(source.url);
     if (etag !== null) link.hash = encodeURIComponent(etag.replace(/-gzip(?="$)/, ""));
 
     const feed = new Feed({
@@ -123,7 +125,39 @@ async function main() {
         });
     }
 
-    await Deno.writeTextFile(FEED_PATH, feed.rss2());
+    await Deno.mkdir(feedFileDir, { recursive: true });
+    await Deno.writeTextFile(feedFile, feed.rss2());
 }
 
-await main();
+const SOURCES: readonly Source[] = [
+    {
+        path: "news",
+        url: "https://www.c.u-tokyo.ac.jp/zenki/news/index.html",
+    },
+    {
+        path: "news/kyoumu",
+        url: "https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/index.html",
+    },
+    {
+        path: "news/kyoumu/firstyear",
+        url: "https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/firstyear/index.html",
+    },
+    {
+        path: "news/kyoumu/secondyear",
+        url: "https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/secondyear/index.html",
+    },
+    {
+        path: "news/others",
+        url: "https://www.c.u-tokyo.ac.jp/zenki/news/others/index.html",
+    },
+    {
+        path: "news/others/firstyear",
+        url: "https://www.c.u-tokyo.ac.jp/zenki/news/others/firstyear/index.html",
+    },
+    {
+        path: "news/others/secondyear",
+        url: "https://www.c.u-tokyo.ac.jp/zenki/news/others/secondyear/index.html",
+    },
+];
+
+await Promise.all(SOURCES.map(emitNewsFeed));

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
     <channel>
-        <title>前期課程（1・2年生）教務課からのお知らせ - 前期課程（1・2年生）- 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/index.html#%22b8b3-65cd8c07163f7%22</link>
+        <title>教務課からのお知らせ（1年生） - 前期課程（1・2年生）- 東京大学 大学院総合文化研究科・教養学部</title>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/firstyear/index.html#%22b884-65cd8c0c0ac95%22</link>
         <description></description>
-        <lastBuildDate>Fri, 02 Oct 2026 20:27:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Oct 2026 17:36:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -17,15 +17,6 @@
             <category>2年生</category>
             <category>PDF</category>
             <category>重要</category>
-        </item>
-        <item>
-            <title><![CDATA[(10/5・16時〆切)【2026A1】英語一列②の他クラス聴講・工学部編入生の履修登録について（9/15公開）]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026A1_eigo1_touroku.pdf</link>
-            <guid isPermaLink="false">https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026A1_eigo1_touroku.pdf</guid>
-            <pubDate>Thu, 01 Oct 2026 15:00:00 GMT</pubDate>
-            <category>履修</category>
-            <category>2年生</category>
-            <category>PDF</category>
         </item>
         <item>
             <title><![CDATA[【降年者対象】学生証の交換について（初回掲載：10/2）]]></title>
@@ -117,29 +108,13 @@
             <category>PDF</category>
         </item>
         <item>
-            <title><![CDATA[2年次専門科目について（工学部、文学部・一部追加修正）（初回掲載：9/25）]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/secondyear/2026/0930092528.html</link>
-            <guid isPermaLink="false">https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/secondyear/2026/0930092528.html</guid>
-            <pubDate>Tue, 29 Sep 2026 15:00:00 GMT</pubDate>
-            <category>履修</category>
-            <category>2年生</category>
-        </item>
-        <item>
-            <title><![CDATA[【2026A】A1ターム・A2ターム基礎実験を未取得の2年理科生へ（補修について）]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026A_kisojikken_hoshu.pdf</link>
-            <guid isPermaLink="false">https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026A_kisojikken_hoshu.pdf</guid>
-            <pubDate>Mon, 28 Sep 2026 15:00:00 GMT</pubDate>
-            <category>履修</category>
-            <category>2年生</category>
-            <category>PDF</category>
-        </item>
-        <item>
-            <title><![CDATA[【注意喚起】進学選択が可能となる条件の確認について（数理科学）]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/chuuikanki_surikagaku_s2s3.pdf</link>
-            <guid isPermaLink="false">https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/chuuikanki_surikagaku_s2s3.pdf</guid>
+            <title><![CDATA[【注意喚起】既修・初修外国語の平均合格の確認について]]></title>
+            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/chuuikanki_heikingoukaku.pdf</link>
+            <guid isPermaLink="false">https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/chuuikanki_heikingoukaku.pdf</guid>
             <pubDate>Sun, 27 Sep 2026 15:00:00 GMT</pubDate>
             <category>成績</category>
             <category>1年生</category>
+            <category>2年生</category>
             <category>PDF</category>
             <category>重要</category>
         </item>
@@ -154,13 +129,12 @@
             <category>重要</category>
         </item>
         <item>
-            <title><![CDATA[【注意喚起】既修・初修外国語の平均合格の確認について]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/chuuikanki_heikingoukaku.pdf</link>
-            <guid isPermaLink="false">https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/chuuikanki_heikingoukaku.pdf</guid>
+            <title><![CDATA[【注意喚起】進学選択が可能となる条件の確認について（数理科学）]]></title>
+            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/chuuikanki_surikagaku_s2s3.pdf</link>
+            <guid isPermaLink="false">https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/chuuikanki_surikagaku_s2s3.pdf</guid>
             <pubDate>Sun, 27 Sep 2026 15:00:00 GMT</pubDate>
             <category>成績</category>
             <category>1年生</category>
-            <category>2年生</category>
             <category>PDF</category>
             <category>重要</category>
         </item>
@@ -184,24 +158,6 @@
             <category>1年生</category>
             <category>2年生</category>
             <category>PDF</category>
-        </item>
-        <item>
-            <title><![CDATA[（再掲）【進学選択】2027年度進学内定者　各学部ガイダンス日程（9/3法学部追記）]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/secondyear/2026/0925170000.html</link>
-            <guid isPermaLink="false">https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/secondyear/2026/0925170000.html</guid>
-            <pubDate>Thu, 24 Sep 2026 15:00:00 GMT</pubDate>
-            <category>進学</category>
-            <category>2年生</category>
-        </item>
-        <item>
-            <title><![CDATA[2Sセメスター終了後に降年する学生のクラス変更（9/25初回掲載）]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/kounen260925.pdf</link>
-            <guid isPermaLink="false">https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/kounen260925.pdf</guid>
-            <pubDate>Thu, 24 Sep 2026 15:00:00 GMT</pubDate>
-            <category>学籍</category>
-            <category>2年生</category>
-            <category>PDF</category>
-            <category>重要</category>
         </item>
         <item>
             <title><![CDATA[【窓口】2026年10～11月窓口業務時間]]></title>
@@ -232,15 +188,6 @@
             <category>2年生</category>
         </item>
         <item>
-            <title><![CDATA[【教育学部より】2027年4月教育学部進学後の学生証用写真データの提出について（〆10/14）]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/09_Education-20260924.pdf</link>
-            <guid isPermaLink="false">https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/09_Education-20260924.pdf</guid>
-            <pubDate>Wed, 23 Sep 2026 15:00:00 GMT</pubDate>
-            <category>進学</category>
-            <category>2年生</category>
-            <category>PDF</category>
-        </item>
-        <item>
             <title><![CDATA[【2026A】日本語一列②〔基礎科目・１年次必修科目〕の履修について〈基礎科目の外国語として日本語を選択している学生対象〉]]></title>
             <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/japanese_2026A.pdf</link>
             <guid isPermaLink="false">https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/japanese_2026A.pdf</guid>
@@ -248,16 +195,6 @@
             <category>履修</category>
             <category>1年生</category>
             <category>PDF</category>
-        </item>
-        <item>
-            <title><![CDATA[【2026A】微分積分学②・線型代数学②を他クラス聴講する方へ〈対象科類に注意〉]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/takura_biseki2_senkei2_2026A.pdf</link>
-            <guid isPermaLink="false">https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/takura_biseki2_senkei2_2026A.pdf</guid>
-            <pubDate>Thu, 17 Sep 2026 15:00:00 GMT</pubDate>
-            <category>履修</category>
-            <category>2年生</category>
-            <category>PDF</category>
-            <category>重要</category>
         </item>
         <item>
             <title><![CDATA[【試験】2026年度Ｓセメスター・S2ターム追試験について（追試験登録）（7/2初回掲載・9/17更新）]]></title>
@@ -278,16 +215,6 @@
             <category>1年生</category>
             <category>2年生</category>
             <category>PDF</category>
-        </item>
-        <item>
-            <title><![CDATA[【進学選択】2027年度進学選択 第三段階進学内定者発表について]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/daisan_naitei_20260916.pdf</link>
-            <guid isPermaLink="false">https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/daisan_naitei_20260916.pdf</guid>
-            <pubDate>Tue, 15 Sep 2026 15:00:00 GMT</pubDate>
-            <category>進学</category>
-            <category>2年生</category>
-            <category>PDF</category>
-            <category>重要</category>
         </item>
         <item>
             <title><![CDATA[【2026A1】英語一列②グループのお知らせ]]></title>
@@ -337,16 +264,6 @@
             <category>1年生</category>
             <category>2年生</category>
             <category>PDF</category>
-        </item>
-        <item>
-            <title><![CDATA[【進学選択】2027年度進学選択 第三段階進学定数（確定版）について]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/daisan_teisu_20260915_aXJR6zfBm5lcZ7e.pdf</link>
-            <guid isPermaLink="false">https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/daisan_teisu_20260915_aXJR6zfBm5lcZ7e.pdf</guid>
-            <pubDate>Mon, 14 Sep 2026 15:00:00 GMT</pubDate>
-            <category>進学</category>
-            <category>2年生</category>
-            <category>PDF</category>
-            <category>重要</category>
         </item>
         <item>
             <title><![CDATA[【2026A1・A2】英語一列②を受講する皆さんへ]]></title>
@@ -408,16 +325,6 @@
             <category>重要</category>
         </item>
         <item>
-            <title><![CDATA[【進学選択】2027年度進学選択 第二段階進学内定者発表 及び 第三段階志望登録(9/16正午〆)について]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/daininaiteihappyou_20260911.pdf</link>
-            <guid isPermaLink="false">https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/daininaiteihappyou_20260911.pdf</guid>
-            <pubDate>Thu, 10 Sep 2026 15:00:00 GMT</pubDate>
-            <category>進学</category>
-            <category>2年生</category>
-            <category>PDF</category>
-            <category>重要</category>
-        </item>
-        <item>
             <title><![CDATA[（再掲）【2026】セメスター毎の履修登録単位数の上限（キャップ制）の解除について]]></title>
             <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026_CreditLimitExemption.pdf</link>
             <guid isPermaLink="false">https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026_CreditLimitExemption.pdf</guid>
@@ -433,23 +340,6 @@
             <pubDate>Mon, 07 Sep 2026 15:00:00 GMT</pubDate>
             <category>成績</category>
             <category>1年生</category>
-        </item>
-        <item>
-            <title><![CDATA[【進学選択】学部・学科別 面接・志望理由書等について（9/8薬学部掲載、/4農学部掲載、5/25医学部掲載）]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/secondyear/2026/0908100000.html</link>
-            <guid isPermaLink="false">https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/secondyear/2026/0908100000.html</guid>
-            <pubDate>Mon, 07 Sep 2026 15:00:00 GMT</pubDate>
-            <category>進学</category>
-            <category>2年生</category>
-        </item>
-        <item>
-            <title><![CDATA[憲法、民法第1部、刑法第1部の追加登録・削除について（法学部より）]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026_Law_tsunen_tsuikasakujo_20260903.pdf</link>
-            <guid isPermaLink="false">https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026_Law_tsunen_tsuikasakujo_20260903.pdf</guid>
-            <pubDate>Wed, 02 Sep 2026 15:00:00 GMT</pubDate>
-            <category>履修</category>
-            <category>2年生</category>
-            <category>PDF</category>
         </item>
         <item>
             <title><![CDATA[【先進科学部会より】アドバンスト理科基礎科目「基礎実験Ⅰ(物理学)α」「基礎実験Ⅱ(物理学)α」「基礎実験Ⅰ(化学)α」「基礎実験Ⅱ(化学)α」履修希望者へのお知らせ]]></title>
@@ -473,24 +363,140 @@
             <category>NEW</category>
         </item>
         <item>
-            <title><![CDATA[ 【進学選択】2027年度進学選択 第二段階進学定数（確定版）について]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2027_sentaku_teisu2_20260827_PmW5vjAPHm3h.pdf</link>
-            <guid isPermaLink="false">https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2027_sentaku_teisu2_20260827_PmW5vjAPHm3h.pdf</guid>
-            <pubDate>Wed, 26 Aug 2026 15:00:00 GMT</pubDate>
-            <category>進学</category>
+            <title><![CDATA[【2026A】「基礎実験」グループ分け抽選結果について（理科一類）]]></title>
+            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026A_kisojikken_NS1group.pdf</link>
+            <guid isPermaLink="false">https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026A_kisojikken_NS1group.pdf</guid>
+            <pubDate>Wed, 19 Aug 2026 15:00:00 GMT</pubDate>
+            <category>履修</category>
+            <category>1年生</category>
+            <category>PDF</category>
+            <category>重要</category>
+        </item>
+        <item>
+            <title><![CDATA[成績表の閲覧停止期間（1年生）]]></title>
+            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/firstyear/2026/0820100000.html</link>
+            <guid isPermaLink="false">https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/firstyear/2026/0820100000.html</guid>
+            <pubDate>Wed, 19 Aug 2026 15:00:00 GMT</pubDate>
+            <category>成績</category>
+            <category>1年生</category>
+        </item>
+        <item>
+            <title><![CDATA[アドバンスト理科・アドバンスト⽂理融合 合同イベントのご案内（8/24(月)11：30～）]]></title>
+            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/Ad_Sci_ArtSci_2026.pdf</link>
+            <guid isPermaLink="false">https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/Ad_Sci_ArtSci_2026.pdf</guid>
+            <pubDate>Sun, 26 Jul 2026 15:00:00 GMT</pubDate>
+            <category>その他</category>
+            <category>1年生</category>
+            <category>2年生</category>
+        </item>
+        <item>
+            <title><![CDATA[【窓口】2026年8～10月窓口業務時間]]></title>
+            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/officehour202608.pdf</link>
+            <guid isPermaLink="false">https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/officehour202608.pdf</guid>
+            <pubDate>Tue, 21 Jul 2026 15:00:00 GMT</pubDate>
+            <category>窓口</category>
+            <category>1年生</category>
+            <category>2年生</category>
+        </item>
+        <item>
+            <title><![CDATA[★まとめ★2026S前期課程ウェブサイト「お知らせ」掲載中の履修と授業に関する通知一覧表（初回掲載：3/23、最終更新：7/13）]]></title>
+            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026S_rishuu_summary.pdf</link>
+            <guid isPermaLink="false">https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026S_rishuu_summary.pdf</guid>
+            <pubDate>Sun, 12 Jul 2026 15:00:00 GMT</pubDate>
+            <category>履修</category>
+            <category>1年生</category>
             <category>2年生</category>
             <category>PDF</category>
             <category>重要</category>
         </item>
         <item>
-            <title><![CDATA[【進学選択】【重要】2027年度進学選択　第一段階進学内定者発表及び第二段階進学志望登録変更等について]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/daiichinaiteihappyou_20260825.pdf</link>
-            <guid isPermaLink="false">https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/daiichinaiteihappyou_20260825.pdf</guid>
-            <pubDate>Mon, 24 Aug 2026 15:00:00 GMT</pubDate>
-            <category>進学</category>
+            <title><![CDATA[【教育学部より】教育学部開講（S1S2、S2、夏季集中）_修了試験等実施方法一覧]]></title>
+            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026S2_exam_education.pdf</link>
+            <guid isPermaLink="false">https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026S2_exam_education.pdf</guid>
+            <pubDate>Tue, 07 Jul 2026 15:00:00 GMT</pubDate>
+            <category>教職</category>
+            <category>1年生</category>
+            <category>2年生</category>
+            <category>PDF</category>
+        </item>
+        <item>
+            <title><![CDATA[（再掲）【2026Ａ】「基礎実験α」(アドバンスト理科)の履修を希望する際の「基礎実験」グループ分け抽選登録における注意点について（初回掲載：6/30、再掲：7/8）]]></title>
+            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/kisojikken_advancedrika_2026A.pdf</link>
+            <guid isPermaLink="false">https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/kisojikken_advancedrika_2026A.pdf</guid>
+            <pubDate>Tue, 07 Jul 2026 15:00:00 GMT</pubDate>
+            <category>履修</category>
+            <category>1年生</category>
+            <category>PDF</category>
+            <category>重要</category>
+        </item>
+        <item>
+            <title><![CDATA[（再掲）【2026Ａ】「基礎実験」のグループ分け抽選登録方法について（１年次理科一類生対象）（初回掲載：6/30、再掲：7/8）]]></title>
+            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/kisojikken_chuusen_touroku_2026A.pdf</link>
+            <guid isPermaLink="false">https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/kisojikken_chuusen_touroku_2026A.pdf</guid>
+            <pubDate>Tue, 07 Jul 2026 15:00:00 GMT</pubDate>
+            <category>履修</category>
+            <category>1年生</category>
+            <category>PDF</category>
+            <category>重要</category>
+        </item>
+        <item>
+            <title><![CDATA[【7月7日(火)】1S1ターム成績表の確認]]></title>
+            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/firstyear/2026/0706150000.html</link>
+            <guid isPermaLink="false">https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/firstyear/2026/0706150000.html</guid>
+            <pubDate>Sun, 05 Jul 2026 15:00:00 GMT</pubDate>
+            <category>成績</category>
+            <category>1年生</category>
+        </item>
+        <item>
+            <title><![CDATA[【試験】2026年度Sセメスター（S1・S2ターム）定期試験について（4/24初掲、7/2更新）]]></title>
+            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/all/2026/0702200000.html</link>
+            <guid isPermaLink="false">https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/all/2026/0702200000.html</guid>
+            <pubDate>Wed, 01 Jul 2026 15:00:00 GMT</pubDate>
+            <category>試験</category>
+            <category>1年生</category>
+            <category>2年生</category>
+            <category>重要</category>
+        </item>
+        <item>
+            <title><![CDATA[【試験】2026年度S1ターム「数理科学基礎」「物性化学」「生命科学」追試験登録について（5/29初掲・7/2, 7/31更新）]]></title>
+            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/all/2026/0702190000.html</link>
+            <guid isPermaLink="false">https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/all/2026/0702190000.html</guid>
+            <pubDate>Wed, 01 Jul 2026 15:00:00 GMT</pubDate>
+            <category>試験</category>
+            <category>1年生</category>
+            <category>2年生</category>
+            <category>重要</category>
+        </item>
+        <item>
+            <title><![CDATA[＜重要＞本日6/16(火)、明日6/17(水)のみ【要受診】【保健センター健康管理室より】2026年度学生定期健康診断Ⅱについて（Web問診・予約 開始予定日：4/2(木））（初回掲載：3/25）]]></title>
+            <link>https://www.hc.u-tokyo.ac.jp/checkups/students-2/schedule-2/</link>
+            <guid isPermaLink="false">https://www.hc.u-tokyo.ac.jp/checkups/students-2/schedule-2/</guid>
+            <pubDate>Mon, 15 Jun 2026 15:00:00 GMT</pubDate>
+            <category>その他</category>
+            <category>1年生</category>
+            <category>2年生</category>
+            <category>重要</category>
+        </item>
+        <item>
+            <title><![CDATA[【注意喚起】履修登録の内容をあらためて確認してください！（2026S2ターム）（初回掲載：6/12）　]]></title>
+            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026S2_Courseregistration.pdf</link>
+            <guid isPermaLink="false">https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026S2_Courseregistration.pdf</guid>
+            <pubDate>Thu, 11 Jun 2026 15:00:00 GMT</pubDate>
+            <category>履修</category>
+            <category>1年生</category>
             <category>2年生</category>
             <category>PDF</category>
             <category>重要</category>
+        </item>
+        <item>
+            <title><![CDATA[（6/4再掲）【2026S】時間割の都合で、自科類・自クラスを対象としない授業を履修する手続きについて（3/26初掲）]]></title>
+            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026S_courseregistration_special.pdf</link>
+            <guid isPermaLink="false">https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026S_courseregistration_special.pdf</guid>
+            <pubDate>Wed, 03 Jun 2026 15:00:00 GMT</pubDate>
+            <category>履修</category>
+            <category>1年生</category>
+            <category>2年生</category>
+            <category>PDF</category>
         </item>
     </channel>
 </rss>
