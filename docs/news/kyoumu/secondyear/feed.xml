@@ -2,11 +2,21 @@
 <rss version="2.0">
     <channel>
         <title>教務課からのお知らせ（2年生）- 前期課程（1・2年生） - 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/secondyear/index.html#%22b933-65cd8c115f06f%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/secondyear/index.html#%22b958-65d0d47a8cc9d%22</link>
         <description></description>
-        <lastBuildDate>Sat, 03 Oct 2026 17:36:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Oct 2026 01:00:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[（再掲）【柏サイエンスキャンプ事務局より】全学体験ゼミナール 柏キャンパスサイエンスキャンプ2026 ガイダンスのお知らせ（10/5(月)6限18:45～20:30）（初回掲載：9/14）]]></title>
+            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/KashiwaCampusSceinceCamp2026.pdf</link>
+            <guid isPermaLink="false">https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/KashiwaCampusSceinceCamp2026.pdf</guid>
+            <pubDate>Sun, 04 Oct 2026 15:00:00 GMT</pubDate>
+            <category>授業</category>
+            <category>1年生</category>
+            <category>2年生</category>
+            <category>PDF</category>
+        </item>
         <item>
             <title><![CDATA[【UTAS】UTASシラバス「学科・コース別検索」利用マニュアル]]></title>
             <link>https://www.c.u-tokyo.ac.jp/zenki/UTAS_Search_Syllabus_by_Department_manual.pdf</link>
@@ -316,16 +326,6 @@
             <guid isPermaLink="false">https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026A_EnglishLanguage.pdf</guid>
             <pubDate>Mon, 14 Sep 2026 15:00:00 GMT</pubDate>
             <category>履修</category>
-            <category>1年生</category>
-            <category>2年生</category>
-            <category>PDF</category>
-        </item>
-        <item>
-            <title><![CDATA[【柏サイエンスキャンプ事務局より】全学体験ゼミナール 柏キャンパスサイエンスキャンプ2026 ガイダンスのお知らせ（10/5(月)6限18:45～20:30）]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/KashiwaCampusSceinceCamp2026.pdf</link>
-            <guid isPermaLink="false">https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/KashiwaCampusSceinceCamp2026.pdf</guid>
-            <pubDate>Sun, 13 Sep 2026 15:00:00 GMT</pubDate>
-            <category>授業</category>
             <category>1年生</category>
             <category>2年生</category>
             <category>PDF</category>
