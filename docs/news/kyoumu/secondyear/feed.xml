@@ -2,11 +2,21 @@
 <rss version="2.0">
     <channel>
         <title>教務課からのお知らせ（2年生）- 前期課程（1・2年生） - 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/secondyear/index.html#%22ba16-65d141ca05fa2%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/secondyear/index.html#%22ba26-65d14ac3124d7%22</link>
         <description></description>
-        <lastBuildDate>Mon, 05 Oct 2026 09:00:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Oct 2026 09:40:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[【2026A】英語中級・上級の抽選結果公開および追加募集について（更新：10/5、初回掲載：9/30）]]></title>
+            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026A_english_intermediate_advanced_result.pdf</link>
+            <guid isPermaLink="false">https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026A_english_intermediate_advanced_result.pdf</guid>
+            <pubDate>Sun, 04 Oct 2026 15:00:00 GMT</pubDate>
+            <category>履修</category>
+            <category>1年生</category>
+            <category>2年生</category>
+            <category>PDF</category>
+        </item>
         <item>
             <title><![CDATA[【法学部より】（202704法学部進学内定者対象）学生証用顔写真データの提出について（10/30〆）]]></title>
             <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/01_Law-20261005.pdf</link>
@@ -105,16 +115,6 @@
             <category>その他</category>
             <category>1年生</category>
             <category>2年生</category>
-        </item>
-        <item>
-            <title><![CDATA[【2026A】英語中級・上級の抽選結果公開および追加募集について（初回掲載：9/30）]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026A_english_intermediate_advanced_result.pdf</link>
-            <guid isPermaLink="false">https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026A_english_intermediate_advanced_result.pdf</guid>
-            <pubDate>Tue, 29 Sep 2026 15:00:00 GMT</pubDate>
-            <category>履修</category>
-            <category>1年生</category>
-            <category>2年生</category>
-            <category>PDF</category>
         </item>
         <item>
             <title><![CDATA[★まとめ★2026A前期課程ウェブサイト「お知らせ」掲載中の履修と授業に関する通知一覧表（初回掲載：9/14、最終更新：9/30）　]]></title>
