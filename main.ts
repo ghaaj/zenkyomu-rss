@@ -55,7 +55,10 @@ interface Source {
     url: string;
 }
 
+await using disposable = new AsyncDisposableStack();
+
 const window = new Window();
+disposable.adopt(window, (w) => w.happyDOM.close());
 const domParser = new window.DOMParser();
 
 async function emitNewsFeed(source: Source) {
