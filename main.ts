@@ -1,7 +1,8 @@
-import { type HTMLImageElement, Window } from "happy-dom";
+import { JSDOM } from "jsdom";
 import { assert, assertExists, assertInstanceOf } from "@std/assert";
 import { type Category, Feed } from "feed";
 import * as path from "@std/path";
+import { generateMeta, type ItemMeta } from "./meta.ts";
 
 function* take<T>(iterator: Iterator<T>, n: number) {
     for (let i = 0; i < n; i++) {
@@ -55,29 +56,46 @@ interface Source {
     url: string;
 }
 
-await using disposable = new AsyncDisposableStack();
-
-const window = new Window();
-disposable.adopt(window, (w) => w.happyDOM.close());
+const jsdom = new JSDOM();
+const { window } = jsdom;
 const domParser = new window.DOMParser();
+
+function lookupFeedEtag(feed: Document) {
+    const link = feed.querySelector("rss > channel > link");
+    assertExists(link);
+    return decodeURIComponent(stripPrefix(new URL(link.textContent).hash, "#"));
+}
+
+function deserializeItemMeta(feed: Document, guid: string): ItemMeta | undefined {
+    for (const item of feed.querySelectorAll("rss > channel > item")) {
+        const guidEl = item.querySelector("guid");
+        if (guidEl?.textContent !== guid) continue;
+        const image = item.querySelector("enclosure")?.getAttribute("url") ?? undefined;
+        const description = item.querySelector("description")?.textContent;
+        return { image, description };
+    }
+}
 
 async function emitNewsFeed(source: Source) {
     const feedFileDir = path.join("./docs", source.path);
     const feedFile = path.join(feedFileDir, "feed.xml");
 
-    const prevEtag = await Deno.readTextFile(feedFile).then((content) => {
-        const link = domParser
-            .parseFromString(content, "text/xml")
-            .querySelector("rss > channel > link");
-        assertExists(link);
-        return decodeURIComponent(stripPrefix(new URL(link.textContent).hash, "#"));
-    }).catch((e) => {
-        if (e instanceof Deno.errors.NotFound) return undefined;
-        else throw e;
-    });
+    const restoredFeed = await Deno.readTextFile(feedFile).then((content) => {
+        const feed = domParser.parseFromString(content, "text/xml");
+        const error = feed.querySelector("parsererror");
+        if (error) throw new Error(`XML Parsing Failed: ${error.textContent}`);
+        return feed;
+    }).catch(
+        (e) => {
+            if (e instanceof Deno.errors.NotFound) return undefined;
+            else throw e;
+        },
+    );
 
     const newsRes = await fetch(source.url, {
-        headers: prevEtag !== undefined ? { "If-None-Match": `W/${prevEtag}` } : undefined,
+        headers: restoredFeed
+            ? { "If-None-Match": `W/${lookupFeedEtag(restoredFeed)}` }
+            : undefined,
     });
     if (newsRes.status === 304) {
         console.log(`${source.path}: No changes detected`);
@@ -119,12 +137,19 @@ async function emitNewsFeed(source: Source) {
             ...tags.map((t) => (assertInstanceOf(t, window.HTMLImageElement), t)),
         ).values().map((name): Category => ({ name })).toArray();
 
+        const link = anchor.href;
+        const guid = `${+date}+${link}`;
+
+        const restoredMeta = restoredFeed && deserializeItemMeta(restoredFeed, guid);
+        const meta = restoredMeta ?? await generateMeta(new URL(link), domParser);
+
         feed.addItem({
             title: anchor.textContent,
-            id: anchor.href,
-            link: anchor.href,
+            guid,
+            link,
             date,
             category: categories,
+            ...meta,
         });
     }
 

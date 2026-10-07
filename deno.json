@@ -3,10 +3,19 @@
         "build": "deno run -A ./main.ts"
     },
     "imports": {
+        "@metascraper/helpers": "npm:@metascraper/helpers@^5.56.2",
+        "@mozilla/readability": "npm:@mozilla/readability@^0.6.0",
         "@std/assert": "jsr:@std/assert@^1.0.19",
         "@std/path": "jsr:@std/path@^1.1.6",
+        "@types/jsdom": "npm:@types/jsdom@^30.0.0",
+        "@types/probe-image-size": "npm:@types/probe-image-size@^7.2.5",
+        "cheerio": "npm:cheerio@^1.2.0",
         "feed": "npm:feed@^6.0.0",
-        "happy-dom": "npm:happy-dom@^20.14.5"
+        "jsdom": "npm:jsdom@^30.1.2",
+        "metascraper": "npm:metascraper@^5.58.1",
+        "metascraper-description": "npm:metascraper-description@^5.56.2",
+        "pdf-parse": "npm:pdf-parse@^2.4.5",
+        "probe-image-size": "npm:probe-image-size@^7.4.0"
     },
     "fmt": {
         "indentWidth": 4,
@@ -16,5 +25,7 @@
     "compilerOptions": {
         "noUncheckedIndexedAccess": true,
         "verbatimModuleSyntax": true
-    }
+    },
+    "nodeModulesDir": "auto",
+    "allowScripts": ["npm:re2@1.26.1"]
 }
