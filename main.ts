@@ -77,7 +77,7 @@ async function emitNewsFeed(source: Source) {
         headers: prevEtag !== undefined ? { "If-None-Match": `W/${prevEtag}` } : undefined,
     });
     if (newsRes.status === 304) {
-        console.log("No changes detected");
+        console.log(`${source.path}: No changes detected`);
         return;
     }
     assert(newsRes.ok);
