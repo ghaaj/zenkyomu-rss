@@ -2,14 +2,22 @@
 <rss version="2.0">
     <channel>
         <title>前期課程（1・2年生） - 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/index.html#%22b51d-65d3c64dbc549%22</link>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/index.html#%22b51d-65d3c64dbc549%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/index.html#%22b4ab-65d4c6757e220%22</link>
         <description></description>
-        <lastBuildDate>Wed, 07 Oct 2026 12:08:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Oct 2026 04:11:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[【2026A】英語中級・上級の抽選結果公開および追加募集について（更新：10/7、初回掲載：9/30）]]></title>
+            <title><![CDATA[【グローバル教育センター駒場支部より】「ドッヂビー大会&交流会」スポーツ×国際交流イベントのお知らせ（10/16㈮）]]></title>
+            <link>https://www.globalkomaba.c.u-tokyo.ac.jp/event/nid00002298.html</link>
+            <guid isPermaLink="false">1791385200000+https://www.globalkomaba.c.u-tokyo.ac.jp/event/nid00002298.html</guid>
+            <pubDate>Wed, 07 Oct 2026 15:00:00 GMT</pubDate>
+            <description><![CDATA[グローバル駒場サイトは東京大学 大学院総合文化研究科・教養学部によるグローバルサイトです。駒場キャンパスで学ばれる方、駒場キャンパスから留学したい方、国際交流を希望の方へ向けた情報発信や国際関連リソースを配信しております。]]></description>
+            <category>その他</category>
+            <category>1年生</category>
+            <category>2年生</category>
+        </item>
+        <item>
             <title><![CDATA[【2026A】英語中級・上級の抽選結果公開および追加募集について（更新：10/7、初回掲載：9/30）]]></title>
             <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026A_english_intermediate_advanced_result.pdf</link>
             <guid isPermaLink="false">1791298800000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026A_english_intermediate_advanced_result.pdf</guid>
@@ -904,30 +912,6 @@ PEAK合計
             <category>2年生</category>
             <category>PDF</category>
             <category>重要</category>
-        </item>
-        <item>
-            <title><![CDATA[【2026A】スポーツ・身体運動部会が開講する実習科目の履修について（身体運動・健康科学実習Ⅱの履修削除フォーム含む）]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026A_shintai_rishu.pdf</link>
-            <guid isPermaLink="false">1789311600000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026A_shintai_rishu.pdf</guid>
-            <pubDate>Sun, 13 Sep 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[1 / 3
-2026年9月14日
-学部前期課程学生 各位
-スポーツ・身体運動部会
-教養学部等教務課前期課程チーム
-スポーツ・身体運動部会が開講する実習科目の履修について
-〔2026年度Ａセメスター〕
-１ 基礎科目「身体運動・健康科学実習Ⅱ」について
-注意：第１回目の授業については別途前期課程ウェブサイトに案内を掲載する。
-１）１年生（降年生含む）の履修について
-初回授業日までに、「身体運動・健康科学実習Ⅱ」が自動的に履修登録され
-る。ただし、過年度入学者で、すでに当該科目の単位を取得している者は除く。
-希望者、対象者は以下のとおり履修の削除ができる。なお、メディカルケア
-コースを受講する場合は…]]></description>
-            <category>履修</category>
-            <category>1年生</category>
-            <category>2年生</category>
-            <category>PDF</category>
         </item>
     </channel>
 </rss>

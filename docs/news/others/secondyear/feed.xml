@@ -2,11 +2,21 @@
 <rss version="2.0">
     <channel>
         <title>その他のお知らせ（2年生） - 前期課程（1・2年生）- 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/secondyear/index.html#%22a91c-65cd607b2301e%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/secondyear/index.html#%22a92b-65d4c68481e0e%22</link>
         <description></description>
-        <lastBuildDate>Wed, 07 Oct 2026 12:06:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Oct 2026 04:11:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[【グローバル教育センター駒場支部より】「ドッヂビー大会&交流会」スポーツ×国際交流イベントのお知らせ（10/16㈮）]]></title>
+            <link>https://www.globalkomaba.c.u-tokyo.ac.jp/event/nid00002298.html</link>
+            <guid isPermaLink="false">1791385200000+https://www.globalkomaba.c.u-tokyo.ac.jp/event/nid00002298.html</guid>
+            <pubDate>Wed, 07 Oct 2026 15:00:00 GMT</pubDate>
+            <description><![CDATA[グローバル駒場サイトは東京大学 大学院総合文化研究科・教養学部によるグローバルサイトです。駒場キャンパスで学ばれる方、駒場キャンパスから留学したい方、国際交流を希望の方へ向けた情報発信や国際関連リソースを配信しております。]]></description>
+            <category>その他</category>
+            <category>1年生</category>
+            <category>2年生</category>
+        </item>
         <item>
             <title><![CDATA[【学生支援課学生支援チームより】令和8 年台風18 号で被災した世帯の学生の皆さんへ]]></title>
             <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/261002typhoon18.pdf</link>
@@ -586,15 +596,6 @@ Eco-System
             <category>1年生</category>
             <category>2年生</category>
             <enclosure url="https://www.a.u-tokyo.ac.jp/wp-content/themes/autokyo/images/ogp.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[【駒場アカデミック・ライティング・センターより】「ライティング カフェ」開催のごあんない（ZOOM）]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/all/2026/0527091320.html</link>
-            <guid isPermaLink="false">1779807600000+https://www.c.u-tokyo.ac.jp/zenki/news/others/all/2026/0527091320.html</guid>
-            <pubDate>Tue, 26 May 2026 15:00:00 GMT</pubDate>
-            <category>その他</category>
-            <category>1年生</category>
-            <category>2年生</category>
         </item>
     </channel>
 </rss>
