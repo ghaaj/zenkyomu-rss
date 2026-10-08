@@ -2,14 +2,21 @@
 <rss version="2.0">
     <channel>
         <title>教務課からのお知らせ（2年生）- 前期課程（1・2年生） - 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/secondyear/index.html#%22ba26-65d3c6661d97f%22</link>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/secondyear/index.html#%22ba26-65d3c6661d97f%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/secondyear/index.html#%22bb02-65d4c6da55891%22</link>
         <description></description>
-        <lastBuildDate>Wed, 07 Oct 2026 12:06:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Oct 2026 04:21:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[【2026A】英語中級・上級の抽選結果公開および追加募集について（更新：10/7、初回掲載：9/30）]]></title>
+            <title><![CDATA[【進学選択】2027年度 進学先所属登録について《対象：法学部・経済学部・文学部（A群・G群）・教養学部（教養学科・学際科学科A群）内定者》（初掲10/8）]]></title>
+            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/secondyear/2026/1008130638.html</link>
+            <guid isPermaLink="false">1791385200000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/secondyear/2026/1008130638.html</guid>
+            <pubDate>Wed, 07 Oct 2026 15:00:00 GMT</pubDate>
+            <category>進学</category>
+            <category>2年生</category>
+            <category>重要</category>
+        </item>
+        <item>
             <title><![CDATA[【2026A】英語中級・上級の抽選結果公開および追加募集について（更新：10/7、初回掲載：9/30）]]></title>
             <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026A_english_intermediate_advanced_result.pdf</link>
             <guid isPermaLink="false">1791298800000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026A_english_intermediate_advanced_result.pdf</guid>
@@ -996,23 +1003,6 @@ PEAK合計
             <category>2年生</category>
             <category>PDF</category>
             <category>重要</category>
-        </item>
-        <item>
-            <title><![CDATA[アドバンスト理科・アドバンスト⽂理融合 合同イベントのご案内（8/24(月)11：30～）]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/Ad_Sci_ArtSci_2026.pdf</link>
-            <guid isPermaLink="false">1785078000000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/Ad_Sci_ArtSci_2026.pdf</guid>
-            <pubDate>Sun, 26 Jul 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[アドバンスト理科・アドバンスト⽂理融合 合同イベントのご案内
-東京⼤学教養学部では新しい授業の取り組みとして、2019 年度からアドバンスト理科
-（基礎科⽬・総合科⽬・研究⼊⾨）、2021 年度からアドバンスト⽂理融合を開講しています。
-この度、アドバンスト理科とアドバンスト⽂理融合について前期課程の学⽣に知っていた
-だくため、2026 年 8 ⽉ 24 ⽇（⽉）に合同イベントを開催いたします。特に、2026 年度 A
-セメスターに開講されるアドバンスト理科・構造化学α、アドバンスト理科・研究⼊⾨（基
-礎実験科⽬の単位互換科⽬）、アドバンスト⽂理融合の履修を検討している 1 年⽣の皆様の
-]]></description>
-            <category>その他</category>
-            <category>1年生</category>
-            <category>2年生</category>
         </item>
     </channel>
 </rss>

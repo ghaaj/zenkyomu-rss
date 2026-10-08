@@ -2,9 +2,9 @@
 <rss version="2.0">
     <channel>
         <title>前期課程（1・2年生） - 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/index.html#%22b4ab-65d4c6757e220%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/index.html#%22b4c1-65d4c6c79e864%22</link>
         <description></description>
-        <lastBuildDate>Thu, 08 Oct 2026 04:11:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Oct 2026 04:21:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,6 +16,15 @@
             <category>その他</category>
             <category>1年生</category>
             <category>2年生</category>
+        </item>
+        <item>
+            <title><![CDATA[【進学選択】2027年度 進学先所属登録について《対象：法学部・経済学部・文学部（A群・G群）・教養学部（教養学科・学際科学科A群）内定者》（初掲10/8）]]></title>
+            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/secondyear/2026/1008130638.html</link>
+            <guid isPermaLink="false">1791385200000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/secondyear/2026/1008130638.html</guid>
+            <pubDate>Wed, 07 Oct 2026 15:00:00 GMT</pubDate>
+            <category>進学</category>
+            <category>2年生</category>
+            <category>重要</category>
         </item>
         <item>
             <title><![CDATA[【2026A】英語中級・上級の抽選結果公開および追加募集について（更新：10/7、初回掲載：9/30）]]></title>
@@ -887,31 +896,6 @@ PEAK合計
 ]]></description>
             <category>授業</category>
             <category>1年生</category>
-        </item>
-        <item>
-            <title><![CDATA[【重要】2026年度Ａセメスター（A1・A2ターム）履修登録についてのお知らせ]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026A_rishuu_flyer.pdf</link>
-            <guid isPermaLink="false">1789311600000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026A_rishuu_flyer.pdf</guid>
-            <pubDate>Sun, 13 Sep 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[１・2 年生 各位
-２０２6 年 A セメスター（A1・A2 ターム）
-履修登録について
-履修登録について
-前期課程ホームページおよび UTAS 掲示板に「履修登録についてのお知ら
-せ」を掲載しました。各自ダウンロードし、『履修の手引き』を参照した上で、所
-定の期日および時刻までに履修登録に必要な手続きを行ってください。期間
-外の履修登録は受け付けられませんので注意してください。
-＜注意事項＞
-「履修登録についてのお知らせ」は必ず自身の該当する年次のお知らせを参
-照してください。２年生と１年生では履修登録期間が異なるので注意してくだ
-さい。
-※降年生の各種手続は１年生対象のお知らせを参照してください。
-]]></description>
-            <category>履修</category>
-            <category>1年生</category>
-            <category>2年生</category>
-            <category>PDF</category>
-            <category>重要</category>
         </item>
     </channel>
 </rss>

@@ -2,14 +2,21 @@
 <rss version="2.0">
     <channel>
         <title>前期課程（1・2年生）教務課からのお知らせ - 前期課程（1・2年生）- 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/index.html#%22b85c-65d3c65bf7ea7%22</link>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/index.html#%22b85c-65d3c65bf7ea7%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/index.html#%22b85a-65d4c6d0d009a%22</link>
         <description></description>
-        <lastBuildDate>Wed, 07 Oct 2026 12:06:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Oct 2026 04:21:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[【2026A】英語中級・上級の抽選結果公開および追加募集について（更新：10/7、初回掲載：9/30）]]></title>
+            <title><![CDATA[【進学選択】2027年度 進学先所属登録について《対象：法学部・経済学部・文学部（A群・G群）・教養学部（教養学科・学際科学科A群）内定者》（初掲10/8）]]></title>
+            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/secondyear/2026/1008130638.html</link>
+            <guid isPermaLink="false">1791385200000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/secondyear/2026/1008130638.html</guid>
+            <pubDate>Wed, 07 Oct 2026 15:00:00 GMT</pubDate>
+            <category>進学</category>
+            <category>2年生</category>
+            <category>重要</category>
+        </item>
+        <item>
             <title><![CDATA[【2026A】英語中級・上級の抽選結果公開および追加募集について（更新：10/7、初回掲載：9/30）]]></title>
             <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026A_english_intermediate_advanced_result.pdf</link>
             <guid isPermaLink="false">1791298800000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026A_english_intermediate_advanced_result.pdf</guid>
@@ -906,57 +913,6 @@ UTAS の「志望内容確認」画面から、内定/未内定を確認でき�
             <category>PDF</category>
             <category>重要</category>
             <category>NEW</category>
-        </item>
-        <item>
-            <title><![CDATA[ 【進学選択】2027年度進学選択 第二段階進学定数（確定版）について]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2027_sentaku_teisu2_20260827_PmW5vjAPHm3h.pdf</link>
-            <guid isPermaLink="false">1787756400000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2027_sentaku_teisu2_20260827_PmW5vjAPHm3h.pdf</guid>
-            <pubDate>Wed, 26 Aug 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[2026年8月27日
-文一 文二・三 理科
-80 2 2
-超域文化科学
-地域文化研究
-理科 総合社会科学
-3 教養学部
-（文系）合計
-Ａ群
-（思想文化） 数理自然科学
-Ｂ群
-（歴史文化_日本史学） 物質基礎科学
-Ｃ群
-（歴史文化_東洋史学） 統合生命科学
-Ｄ群
-（歴史文化_西洋史学） 認知行動科学
-Ｅ群
-（歴史文化_考古学） スポーツ科学
-Ｆ群
-（歴史文化_美術史学）
-Ｇ群
-（言語文化）
-Ａ 群
-科学技術論
-地理・空間
-Ｈ群
-（心理学）
-Ｂ 群
-総合情報学
-広域システム
-Ｉ群
-（社会心理学）
-教養学部
-（理系）合計
-Ｊ群
-（社会学）
-文学部合計
-理科
-教育学 --- 教養学部
-PEAK合計
-]]></description>
-            <category>進学</category>
-            <category>2年生</category>
-            <category>PDF</category>
-            <category>重要</category>
         </item>
     </channel>
 </rss>
