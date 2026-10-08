@@ -2,11 +2,19 @@
 <rss version="2.0">
     <channel>
         <title>前期課程（1・2年生） - 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/index.html#%22b4c1-65d4ca1a630de%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/index.html#%22b4c9-65d4cbc4836e8%22</link>
         <description></description>
-        <lastBuildDate>Thu, 08 Oct 2026 04:31:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Oct 2026 04:41:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[【試験】2026年度Aセメスター（A1・A2ターム）専門科目試験について（10/8初回掲示）]]></title>
+            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/secondyear/2026/1008133000.html</link>
+            <guid isPermaLink="false">1791385200000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/secondyear/2026/1008133000.html</guid>
+            <pubDate>Wed, 07 Oct 2026 15:00:00 GMT</pubDate>
+            <category>試験</category>
+            <category>2年生</category>
+        </item>
         <item>
             <title><![CDATA[【グローバル教育センター駒場支部より】「ドッヂビー大会&交流会」スポーツ×国際交流イベントのお知らせ（10/16㈮）]]></title>
             <link>https://www.globalkomaba.c.u-tokyo.ac.jp/event/nid00002298.html</link>
@@ -880,22 +888,6 @@ PEAK合計
             <category>1年生</category>
             <category>2年生</category>
             <category>PDF</category>
-        </item>
-        <item>
-            <title><![CDATA[【工学部より】2026年度Aセメスター化学・生命系３学科全学自由研究ゼミナールについて]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/chembio_2026A.pdf</link>
-            <guid isPermaLink="false">1789311600000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/chembio_2026A.pdf</guid>
-            <pubDate>Sun, 13 Sep 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[2026 年度 A セメスター
-化学・生命系３学科全学自由研究ゼミナール
-本ゼミナールは工学部の化学・生命系 3 学科（化学生命工学科、応用化学科、化学システム工学科）の研究室の協力
-により実施する全学体験ゼミナールで、各研究室において最先端の研究を体験し、化学・生命系分野に関する理解を
-深めてもらうことを目的としています。最先端研究を体験できる貴重な機会ですので、多くの皆さんの参加をお待ち
-しています。本ゼミは入門編ですので、高度な専門知識は必要ありません。日程は、原則として受講生と受け入れ研
-究室の相談で決定します（3～４日間）。実施方法は、原則教養学部の講義と重ならない日程、時間帯に、各研究室に
-]]></description>
-            <category>授業</category>
-            <category>1年生</category>
         </item>
     </channel>
 </rss>

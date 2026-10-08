@@ -2,11 +2,19 @@
 <rss version="2.0">
     <channel>
         <title>教務課からのお知らせ（2年生）- 前期課程（1・2年生） - 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/secondyear/index.html#%22bb02-65d4c6da55891%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/secondyear/index.html#%22ba31-65d4cbdb6caf8%22</link>
         <description></description>
-        <lastBuildDate>Thu, 08 Oct 2026 04:21:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Oct 2026 04:41:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[【試験】2026年度Aセメスター（A1・A2ターム）専門科目試験について（10/8初回掲示）]]></title>
+            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/secondyear/2026/1008133000.html</link>
+            <guid isPermaLink="false">1791385200000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/secondyear/2026/1008133000.html</guid>
+            <pubDate>Wed, 07 Oct 2026 15:00:00 GMT</pubDate>
+            <category>試験</category>
+            <category>2年生</category>
+        </item>
         <item>
             <title><![CDATA[【進学選択】2027年度 進学先所属登録について《対象：法学部・経済学部・文学部（A群・G群）・教養学部（教養学科・学際科学科A群）内定者》（初掲10/8）]]></title>
             <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/secondyear/2026/1008130638.html</link>
@@ -978,27 +986,6 @@ PEAK合計
 ・理科二類、理科三類 ・・・・・・・１１：００より
 ・文科一類、文科二類、文科三類 ・・１２：００より
 ]]></description>
-            <category>進学</category>
-            <category>2年生</category>
-            <category>PDF</category>
-            <category>重要</category>
-        </item>
-        <item>
-            <title><![CDATA[【進学選択】2027年度進学選択　第二段階の志望登録について(8/31 12:00〆切）]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2027_shingakusentaku_dainitouroku.pdf</link>
-            <guid isPermaLink="false">1785423600000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2027_shingakusentaku_dainitouroku.pdf</guid>
-            <pubDate>Thu, 30 Jul 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[前期課程２年生 各位
-[重要]２０２７年度進学選択（２０２６年実施）
-第二段階の志望登録について
-◆ 第二段階の志望登録について
-進学志望・不志望登録の期間は次のとおりです。UTAS の「進学志望届登録・修正」
-から行います。登録方法は「２０２７年度進学選択の手引き」および｢UTAS 利用者マニ
-ュアル｣を参照してください。
-８月３日（月）１１：００ ～ ８月３１日（月）１２：００【厳守】
-第二段階は受入保留アルゴリズムにより内定先が決定するため、志望する全ての進学
-単位（群、専修課程、学科・部門・分科、コース等）を単願または志望順に複願で登録
-することができます。なお、登録がない場合は不志望…]]></description>
             <category>進学</category>
             <category>2年生</category>
             <category>PDF</category>

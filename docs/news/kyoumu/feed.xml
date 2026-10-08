@@ -2,11 +2,19 @@
 <rss version="2.0">
     <channel>
         <title>前期課程（1・2年生）教務課からのお知らせ - 前期課程（1・2年生）- 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/index.html#%22b85a-65d4c6d0d009a%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/index.html#%22b72a-65d4cbd1ed097%22</link>
         <description></description>
-        <lastBuildDate>Thu, 08 Oct 2026 04:21:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Oct 2026 04:41:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[【試験】2026年度Aセメスター（A1・A2ターム）専門科目試験について（10/8初回掲示）]]></title>
+            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/secondyear/2026/1008133000.html</link>
+            <guid isPermaLink="false">1791385200000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/secondyear/2026/1008133000.html</guid>
+            <pubDate>Wed, 07 Oct 2026 15:00:00 GMT</pubDate>
+            <category>試験</category>
+            <category>2年生</category>
+        </item>
         <item>
             <title><![CDATA[【進学選択】2027年度 進学先所属登録について《対象：法学部・経済学部・文学部（A群・G群）・教養学部（教養学科・学際科学科A群）内定者》（初掲10/8）]]></title>
             <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/secondyear/2026/1008130638.html</link>
@@ -889,30 +897,6 @@ UTAS の「志望内容確認」画面から、内定/未内定を確認でき�
             <category>履修</category>
             <category>1年生</category>
             <category>重要</category>
-        </item>
-        <item>
-            <title><![CDATA[【重要】2026年度Aセメスター（A1ターム・A2ターム）の授業形態について（初回掲載：8/3）]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/2026A_jugyoukeitai_forStudent.pdf</link>
-            <guid isPermaLink="false">1787756400000+https://www.c.u-tokyo.ac.jp/zenki/2026A_jugyoukeitai_forStudent.pdf</guid>
-            <pubDate>Wed, 26 Aug 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[1
-2026 年度 A セメスター（A1 ターム・A2 ターム）の授業形態について
-前期課程学生各位
-2026 年度 A セメスター（A1 ターム・A2 ターム）の授業実施形態は、科目によって 2 種類に分かれます。
-1. 事前に履修人数が判明している科目、少人数での授業形式で実施する科目
-以下の科目は、担当教員の判断で第 1 週（10/２～１０/８）授業を対面で実施するかを担当教員が決定します。
-なお、第 2 週以降は、原則対面実施となります。
-・基礎科目（「社会科学」・「人文科学」科目は除く）
-・総合科目 D 系列の「スポーツ・身体運動実習」
-・総合科目 L 系列科目
-・展開科目
-2. ]]></description>
-            <category>授業</category>
-            <category>1年生</category>
-            <category>2年生</category>
-            <category>PDF</category>
-            <category>重要</category>
-            <category>NEW</category>
         </item>
     </channel>
 </rss>
