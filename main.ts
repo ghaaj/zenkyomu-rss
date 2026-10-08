@@ -1,4 +1,4 @@
-import { JSDOM } from "jsdom";
+import { domParser, window } from "./window.ts";
 import { assert, assertExists, assertInstanceOf } from "@std/assert";
 import { type Category, Feed } from "feed";
 import * as path from "@std/path";
@@ -55,10 +55,6 @@ interface Source {
     path: string;
     url: string;
 }
-
-const jsdom = new JSDOM();
-const { window } = jsdom;
-const domParser = new window.DOMParser();
 
 function lookupFeedEtag(feed: Document) {
     const link = feed.querySelector("rss > channel > link");
@@ -141,7 +137,7 @@ async function emitNewsFeed(source: Source) {
         const guid = `${+date}+${link}`;
 
         const restoredMeta = restoredFeed && deserializeItemMeta(restoredFeed, guid);
-        const meta = restoredMeta ?? await generateMeta(new URL(link), domParser);
+        const meta = restoredMeta ?? await generateMeta(new URL(link));
 
         feed.addItem({
             title: anchor.textContent,

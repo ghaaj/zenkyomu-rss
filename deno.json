@@ -15,7 +15,8 @@
         "metascraper": "npm:metascraper@^5.58.1",
         "metascraper-description": "npm:metascraper-description@^5.56.2",
         "pdf-parse": "npm:pdf-parse@^2.4.5",
-        "probe-image-size": "npm:probe-image-size@^7.4.0"
+        "probe-image-size": "npm:probe-image-size@^7.4.0",
+        "styleless-innertext": "npm:styleless-innertext@^1.1.5"
     },
     "fmt": {
         "indentWidth": 4,

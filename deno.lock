@@ -15,7 +15,9 @@
     "npm:metascraper-description@^5.56.2": "5.56.2_debug@4.4.3",
     "npm:metascraper@^5.58.1": "5.58.1_debug@4.4.3",
     "npm:pdf-parse@^2.4.5": "2.4.5",
-    "npm:probe-image-size@^7.4.0": "7.4.0"
+    "npm:probe-image-size@^7.4.0": "7.4.0",
+    "npm:styleless-innertext@*": "1.1.5",
+    "npm:styleless-innertext@^1.1.5": "1.1.5"
   },
   "jsr": {
     "@std/assert@1.0.19": {
@@ -798,6 +800,9 @@
         "debug@2.6.9"
       ]
     },
+    "styleless-innertext@1.1.5": {
+      "integrity": "sha512-fb5YuTKZFRPDuTU5Xltmq4iQvhnpFlspdxkkG6uOuslGFkArTdP4DutoyRI1KGSvOA1Z6IpEpCGidc4w6WNvNw=="
+    },
     "symbol-tree@3.2.4": {
       "integrity": "sha512-9QNk5KwDF+Bvz+PyObkmSYjI5ksVUYtjW7AU22r2NKcfLJcXp96hkDWU3+XndOsUb+AQ9QhfzfCT2O+CNWT5Tw=="
     },
@@ -958,7 +963,8 @@
       "npm:metascraper-description@^5.56.2",
       "npm:metascraper@^5.58.1",
       "npm:pdf-parse@^2.4.5",
-      "npm:probe-image-size@^7.4.0"
+      "npm:probe-image-size@^7.4.0",
+      "npm:styleless-innertext@^1.1.5"
     ]
   }
 }

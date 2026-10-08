@@ -2,8 +2,10 @@ import { Readability } from "@mozilla/readability";
 import metascraper from "metascraper";
 import { metascraperImage } from "./metascraper-image.ts";
 import metascraperDescription from "metascraper-description";
+import innerText from "styleless-innertext";
 import { PDFParse } from "pdf-parse";
 import type { Item } from "feed";
+import { domParser, window } from "./window.ts";
 
 const graphemeSegmenter = new Intl.Segmenter("ja", { granularity: "grapheme" });
 const sentenceSegmenter = new Intl.Segmenter("ja", { granularity: "sentence" });
@@ -58,7 +60,7 @@ function generateMetaDescription(url: URL, document: Document): string | undefin
                 if (el.matches("h2")) break;
             }
             batchRemove.forEach((el) => el.remove());
-            return excerptFromContent(newslist.innerText);
+            return excerptFromContent(innerText(newslist, window));
         }
     }
     document.querySelectorAll("br").forEach((br) => br.replaceWith("\n"));
@@ -80,7 +82,7 @@ function memoize<A extends readonly unknown[], R, K>(
 }
 
 export const generateMeta = memoize(
-    async function (url: URL, domParser: DOMParser): Promise<ItemMeta> {
+    async function (url: URL): Promise<ItemMeta> {
         try {
             const res = await fetch(url);
 
@@ -102,7 +104,8 @@ export const generateMeta = memoize(
                 meta.description ||= generateMetaDescription(url, document);
                 return meta;
             }
-        } catch (_) {
+        } catch (e) {
+            console.warn(`An error occurred while generating item metadata for ${url.href}: `, e);
             return {};
         }
     },
