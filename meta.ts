@@ -52,10 +52,12 @@ function generateMetaDescription(url: URL, document: Document): string | undefin
             // newslist.querySelectorAll(
             //     ":scope > :not(h2:first-of-type ~ *)",
             // ).forEach((el) => el.remove());
+            const batchRemove: Element[] = [];
             for (const el of newslist.children) {
-                el.remove();
+                batchRemove.push(el);
                 if (el.matches("h2")) break;
             }
+            batchRemove.forEach((el) => el.remove());
             return excerptFromContent(newslist.innerText);
         }
     }
