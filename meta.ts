@@ -71,29 +71,40 @@ export interface ItemMeta extends Pick<Item, "image" | "description"> {
     description?: string;
 }
 
-export async function generateMeta(url: URL, domParser: DOMParser): Promise<ItemMeta> {
-    try {
-        const res = await fetch(url);
-
-        if (url.pathname.endsWith(".pdf")) {
-            const stack = new AsyncDisposableStack();
-            const pdfParser = new PDFParse({ data: await res.arrayBuffer() });
-            stack.adopt(pdfParser, (p) => p.destroy());
-            const result = await pdfParser.getText({ first: 1, pageJoiner: "" });
-            const description = excerptFromContent(result.text);
-            return { description };
-        } else {
-            const rawHTML = await res.text();
-            // 一部のページ（グローバリゼーションオフィスなど）は CSR だけど対応しない
-            const meta: ItemMeta = await scrape({
-                url: url.href,
-                html: rawHTML,
-            });
-            const document = domParser.parseFromString(rawHTML, "text/html");
-            meta.description ||= generateMetaDescription(url, document);
-            return meta;
-        }
-    } catch (_) {
-        return {};
-    }
+function memoize<A extends readonly unknown[], R, K>(
+    fn: (...args: A) => R,
+    computeKey: (...args: A) => K,
+) {
+    const cache = new Map<K, R>();
+    return (...args: A): R => cache.getOrInsertComputed(computeKey(...args), () => fn(...args));
 }
+
+export const generateMeta = memoize(
+    async function (url: URL, domParser: DOMParser): Promise<ItemMeta> {
+        try {
+            const res = await fetch(url);
+
+            if (url.pathname.endsWith(".pdf")) {
+                const stack = new AsyncDisposableStack();
+                const pdfParser = new PDFParse({ data: await res.arrayBuffer() });
+                stack.adopt(pdfParser, (p) => p.destroy());
+                const result = await pdfParser.getText({ first: 1, pageJoiner: "" });
+                const description = excerptFromContent(result.text);
+                return { description };
+            } else {
+                const rawHTML = await res.text();
+                // 一部のページ（グローバリゼーションオフィスなど）は CSR だけど対応しない
+                const meta: ItemMeta = await scrape({
+                    url: url.href,
+                    html: rawHTML,
+                });
+                const document = domParser.parseFromString(rawHTML, "text/html");
+                meta.description ||= generateMetaDescription(url, document);
+                return meta;
+            }
+        } catch (_) {
+            return {};
+        }
+    },
+    (url) => url.href,
+);
