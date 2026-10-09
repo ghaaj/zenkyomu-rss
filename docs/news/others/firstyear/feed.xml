@@ -2,11 +2,21 @@
 <rss version="2.0">
     <channel>
         <title>その他のお知らせ（1年生） - 前期課程（1・2年生） - 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/firstyear/index.html#%22a913-65d4c680a2ab2%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/firstyear/index.html#%22a979-65d6276ab7bec%22</link>
         <description></description>
-        <lastBuildDate>Thu, 08 Oct 2026 08:25:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Oct 2026 06:31:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[【 グローバリゼーションオフィスより  】 10/13（火）英語講演会「英国の国教会、国家、君主政 ～ ヘンリー8世からチャールズ3世まで」  のお知らせ]]></title>
+            <link>https://www.globalkomaba.c.u-tokyo.ac.jp/event/nid00002324.html</link>
+            <guid isPermaLink="false">1791471600000+https://www.globalkomaba.c.u-tokyo.ac.jp/event/nid00002324.html</guid>
+            <pubDate>Thu, 08 Oct 2026 15:00:00 GMT</pubDate>
+            <description><![CDATA[グローバル駒場サイトは東京大学 大学院総合文化研究科・教養学部によるグローバルサイトです。駒場キャンパスで学ばれる方、駒場キャンパスから留学したい方、国際交流を希望の方へ向けた情報発信や国際関連リソースを配信しております。]]></description>
+            <category>その他</category>
+            <category>1年生</category>
+            <category>2年生</category>
+        </item>
         <item>
             <title><![CDATA[【グローバル教育センター駒場支部より】「ドッヂビー大会&交流会」スポーツ×国際交流イベントのお知らせ（10/16㈮）]]></title>
             <link>https://www.globalkomaba.c.u-tokyo.ac.jp/event/nid00002298.html</link>
@@ -787,17 +797,6 @@ Eco-System
             <category>1年生</category>
             <category>2年生</category>
             <category>PDF</category>
-        </item>
-        <item>
-            <title><![CDATA[【農学部より】第70回東京大学農学部公開セミナー「野生生物と人間社会」の開催（6/20開催）]]></title>
-            <link>https://www.a.u-tokyo.ac.jp/seminar/</link>
-            <guid isPermaLink="false">1780239600000+https://www.a.u-tokyo.ac.jp/seminar/</guid>
-            <pubDate>Sun, 31 May 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[農学部公開セミナー]]></description>
-            <category>その他</category>
-            <category>1年生</category>
-            <category>2年生</category>
-            <enclosure url="https://www.a.u-tokyo.ac.jp/wp-content/themes/autokyo/images/ogp.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
