@@ -2,11 +2,31 @@
 <rss version="2.0">
     <channel>
         <title>前期課程（1・2年生）教務課からのお知らせ - 前期課程（1・2年生）- 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/index.html#%22b72a-65d5d1e5a0437%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/index.html#%22b759-65d5ddf82819f%22</link>
         <description></description>
-        <lastBuildDate>Fri, 09 Oct 2026 00:11:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Oct 2026 01:01:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[【2年生対象・注意喚起】履修登録の内容をあらためて確認してください！（2026Ａセメスター／A1・A2ターム）（10/9公開）]]></title>
+            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/Caution_2026AA1A2_risyu_2nd_grade.pdf</link>
+            <guid isPermaLink="false">1791471600000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/Caution_2026AA1A2_risyu_2nd_grade.pdf</guid>
+            <pubDate>Thu, 08 Oct 2026 15:00:00 GMT</pubDate>
+            <description><![CDATA[1 | 2
+2026 年 10 月 9 日
+２年生 各位（PEAK 生除く）
+教養学部等教務課前期課程チーム
+【注意喚起】履修登録の内容をあらためて確認してください！
+（Ａセメスター／A1・A2 ターム）
+近年、履修登録等の手続きの不備により、	「前期課程修了要件」を満たせずに留年をしてしまう学生が多く見受
+けられます。今一度、『履修の手引き』の「前期課程修了要件」と自身の成績表を参照し、単位取得すべき科目と
+履修科目の確認を行ってください。期限後の提出や登録は一切認められません。また、履修登録・訂正を行った
+後は、PC 版 UTAS の履修登録画面の左下部「履修科目控出力」より履修科目控をプ…]]></description>
+            <category>履修</category>
+            <category>2年生</category>
+            <category>PDF</category>
+            <category>重要</category>
+        </item>
         <item>
             <title><![CDATA[【2026A】英語中級・上級の抽選結果公開および追加募集について（更新：10/9、初回掲載：9/30）]]></title>
             <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026A_english_intermediate_advanced_result.pdf</link>
@@ -1041,29 +1061,6 @@ Sセメスターの追試験成績発表日は10月20日（火）の予定です
             <category>履修</category>
             <category>2年生</category>
             <category>PDF</category>
-        </item>
-        <item>
-            <title><![CDATA[【先進科学部会より】アドバンスト理科基礎科目「基礎実験Ⅰ(物理学)α」「基礎実験Ⅱ(物理学)α」「基礎実験Ⅰ(化学)α」「基礎実験Ⅱ(化学)α」履修希望者へのお知らせ]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/firstyear/2026/0902090000.html</link>
-            <guid isPermaLink="false">1788274800000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/firstyear/2026/0902090000.html</guid>
-            <pubDate>Tue, 01 Sep 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[理科一類1年生の皆様
-
-先進科学部会がA1, A2タームに開講する基礎実験α(物理学)と基礎実験α(化学)の
-受講者の選抜に関する各研究室からの案内を以下のページに掲載いたしました。
-
-https://kis.c.u-tokyo.ac.jp/ADRK_kenkyu.html
-
-この科目は通常の基礎実験の代わりに、研究室で最先端の研究に
-取り組むことで、基礎実験の単位を取得する授業となります。
-
-興味のある研究室がありましたら、各研究室の「詳細はこちら」の
-PDFファイルをご確認の上、受講者の選抜に応募してください。
-研究室によって応募の締切や選抜のスケジュールが異なりますので、
-必ず応募したい…]]></description>
-            <category>履修</category>
-            <category>1年生</category>
-            <category>重要</category>
         </item>
     </channel>
 </rss>
