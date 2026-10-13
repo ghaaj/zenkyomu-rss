@@ -2,11 +2,30 @@
 <rss version="2.0">
     <channel>
         <title>前期課程（1・2年生）教務課からのお知らせ - 前期課程（1・2年生）- 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/index.html#%22b759-65d5e05620c4b%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/index.html#%22b72d-65db0891e0bb3%22</link>
         <description></description>
-        <lastBuildDate>Fri, 09 Oct 2026 01:11:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Oct 2026 03:41:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[【法学部より】＜重要＞早期卒業予定者の認定に関する申請手続きについて（2027年4月進学者対象）]]></title>
+            <link>https://www.j.u-tokyo.ac.jp/undergraduate/wp-content/uploads/sites/16/2026/10/20262Asoukiyoteisyashinsei.pdf</link>
+            <guid isPermaLink="false">1791817200000+https://www.j.u-tokyo.ac.jp/undergraduate/wp-content/uploads/sites/16/2026/10/20262Asoukiyoteisyashinsei.pdf</guid>
+            <pubDate>Mon, 12 Oct 2026 15:00:00 GMT</pubDate>
+            <description><![CDATA[【重要】
+早期卒業予定者の認定に関する申請手続きについて
+（２０２７年４月進学者対象）
+本学部では、法学部規則第１０条の２及び法学部早期卒業制度規則（以後、「早
+期規則」）に基づき、「進学した年度の３月」又は「進学した年度の翌年度の９月」
+での早期卒業を申請に基づき認めています。
+２０２７年４月進学予定者の中で早期卒業を希望する者は、法学部便覧掲載の
+早期規則を熟読し、要件（早期規則第２条第２項）を満たしているか確認したう
+えで、様式（計画書【２Ａ終了時用】）に必要事項を記入し、以下の申請期間内に以
+下の「提出フォーム」にアップロードしてください。
+■申請期間 ： ２０２７年３月１７日(水)９…]]></description>
+            <category>進学</category>
+            <category>2年生</category>
+        </item>
         <item>
             <title><![CDATA[【2年生対象・注意喚起】履修登録の内容をあらためて確認してください！（2026Ａセメスター／A1・A2ターム）（10/9公開）]]></title>
             <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/Caution_2026AA1A2_risyu_2nd_grade.pdf</link>
@@ -1040,27 +1059,6 @@ Sセメスターの追試験成績発表日は10月20日（火）の予定です
 ]]></description>
             <category>進学</category>
             <category>2年生</category>
-        </item>
-        <item>
-            <title><![CDATA[憲法、民法第1部、刑法第1部の追加登録・削除について（法学部より）]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026_Law_tsunen_tsuikasakujo_20260903.pdf</link>
-            <guid isPermaLink="false">1788361200000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026_Law_tsunen_tsuikasakujo_20260903.pdf</guid>
-            <pubDate>Wed, 02 Sep 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[通年で開講される法学部専門科目
-（憲法、民法第 1 部、刑法第 1 部）の
-追加登録・削除について
-法学部で通年科目として開講している２年次専門科目の追加登録または削除
-を希望する場合は、下記の内容を確認のうえ期限内に指定のフォームから申請を
-すること。なお、履修科目登録をしていない授業科目については、２月上旬に実
-施される定期試験の受験は認められない。
-○対象科目：憲法、民法第 1 部、刑法第 1 部
-※Ｓセメスターで講義が終了する法社会学は、対象外となる。
-○対象者：法学部内定者（追加登録）、他学部内定者（削除）
-※教養学部２年生のみを対象とするため、３年生以上の申請は受け付けない。
-]]></description>
-            <category>履修</category>
-            <category>2年生</category>
-            <category>PDF</category>
         </item>
     </channel>
 </rss>
