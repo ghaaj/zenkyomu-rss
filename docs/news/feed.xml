@@ -2,11 +2,31 @@
 <rss version="2.0">
     <channel>
         <title>前期課程（1・2年生） - 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/index.html#%22b54f-65db097facd52%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/index.html#%22b3d1-65dc305ae40a9%22</link>
         <description></description>
-        <lastBuildDate>Tue, 13 Oct 2026 03:52:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Oct 2026 01:41:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[【学生相談所より】＜要事前申込＞2026年11月～12月開催　再出発を考える「リスタートグループ」」のお知らせ]]></title>
+            <link>https://dcs.adm.u-tokyo.ac.jp/information/2633/</link>
+            <guid isPermaLink="false">1791903600000+https://dcs.adm.u-tokyo.ac.jp/information/2633/</guid>
+            <pubDate>Tue, 13 Oct 2026 15:00:00 GMT</pubDate>
+            <category>その他</category>
+            <category>1年生</category>
+            <category>2年生</category>
+        </item>
+        <item>
+            <title><![CDATA[【公共政策学務チームより】GraSPPキャリアセミナー「移民政策とメディア」10/21（水）12:20-13:00]]></title>
+            <link>https://www.pp.u-tokyo.ac.jp/events/2026-09-17-56730/</link>
+            <guid isPermaLink="false">1791903600000+https://www.pp.u-tokyo.ac.jp/events/2026-09-17-56730/</guid>
+            <pubDate>Tue, 13 Oct 2026 15:00:00 GMT</pubDate>
+            <description><![CDATA[外国人受け入れをめぐる議論が活発化し、移民政策が日本社会の重要な争点になってきた。 こうしたなか、メディアは何]]></description>
+            <category>その他</category>
+            <category>1年生</category>
+            <category>2年生</category>
+            <enclosure url="https://www.pp.u-tokyo.ac.jp/wp-content/uploads/2025/04/GraSPP-Career-Talk202506-2.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[【法学部より】＜重要＞早期卒業予定者の認定に関する申請手続きについて（2027年4月進学者対象）]]></title>
             <link>https://www.j.u-tokyo.ac.jp/undergraduate/wp-content/uploads/sites/16/2026/10/20262Asoukiyoteisyashinsei.pdf</link>
@@ -945,40 +965,6 @@ https://sites.google.com/g.ecc.u-tokyo.ac.jp/zenzemi2026a
             <category>授業</category>
             <category>1年生</category>
             <category>2年生</category>
-        </item>
-        <item>
-            <title><![CDATA[（再掲）【2026A】基礎実験ガイダンスについて（9/15物理学更新）]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/Introductory_Experiments_2026A.pdf</link>
-            <guid isPermaLink="false">1789398000000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/Introductory_Experiments_2026A.pdf</guid>
-            <pubDate>Mon, 14 Sep 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[2026 年 8 月 21 日
-(2026 年 9 月 15 日最終更新)
-理科各類の１年生（未取得の降年生含む）
-及び基礎実験補修対象者２年生 各位
-教養学部等教務課前期課程チーム
-2026 年度Ａセメスター基礎実験ガイダンスについて
-各分野の基礎実験のガイダンスについては、以下それぞれのリンクのとおり
-となります（随時更新予定）。
-■「基礎実験Ⅰ(物理学)」	「基礎実験Ⅱ(物理学)」	「基礎物理学実験」	（9/15 掲載）
-■「基礎実験Ⅰ(化学)」「基礎実験Ⅱ(化学)」「基礎化学実験」 （8/21 掲載）
-≪参考≫
-【2026A】「基礎実験」グループ分け抽選結果について（理科一類）
-以上]]></description>
-            <category>履修</category>
-            <category>1年生</category>
-            <category>2年生</category>
-            <category>PDF</category>
-            <category>重要</category>
-        </item>
-        <item>
-            <title><![CDATA[＜学術フロンティア講義＞　(アジアでがんを生き延びる困難がひらく邂逅――困難は世界を分断するのか、つなぐのか)／Academic Frontier Lecture Series]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/lecture_poster_13_sessions_51452.pdf</link>
-            <guid isPermaLink="false">1789398000000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/lecture_poster_13_sessions_51452.pdf</guid>
-            <pubDate>Mon, 14 Sep 2026 15:00:00 GMT</pubDate>
-            <category>授業</category>
-            <category>1年生</category>
-            <category>2年生</category>
-            <category>PDF</category>
         </item>
     </channel>
 </rss>

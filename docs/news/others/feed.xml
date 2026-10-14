@@ -2,11 +2,31 @@
 <rss version="2.0">
     <channel>
         <title>前期課程（1・2年生）その他のお知らせ - 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/index.html#%22a7f0-65d699c0842d7%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/index.html#%22a795-65dc306215d4b%22</link>
         <description></description>
-        <lastBuildDate>Fri, 09 Oct 2026 15:01:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Oct 2026 01:41:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[【学生相談所より】＜要事前申込＞2026年11月～12月開催　再出発を考える「リスタートグループ」」のお知らせ]]></title>
+            <link>https://dcs.adm.u-tokyo.ac.jp/information/2633/</link>
+            <guid isPermaLink="false">1791903600000+https://dcs.adm.u-tokyo.ac.jp/information/2633/</guid>
+            <pubDate>Tue, 13 Oct 2026 15:00:00 GMT</pubDate>
+            <category>その他</category>
+            <category>1年生</category>
+            <category>2年生</category>
+        </item>
+        <item>
+            <title><![CDATA[【公共政策学務チームより】GraSPPキャリアセミナー「移民政策とメディア」10/21（水）12:20-13:00]]></title>
+            <link>https://www.pp.u-tokyo.ac.jp/events/2026-09-17-56730/</link>
+            <guid isPermaLink="false">1791903600000+https://www.pp.u-tokyo.ac.jp/events/2026-09-17-56730/</guid>
+            <pubDate>Tue, 13 Oct 2026 15:00:00 GMT</pubDate>
+            <description><![CDATA[外国人受け入れをめぐる議論が活発化し、移民政策が日本社会の重要な争点になってきた。 こうしたなか、メディアは何]]></description>
+            <category>その他</category>
+            <category>1年生</category>
+            <category>2年生</category>
+            <enclosure url="https://www.pp.u-tokyo.ac.jp/wp-content/uploads/2025/04/GraSPP-Career-Talk202506-2.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[【 グローバリゼーションオフィスより  】 10/13（火）英語講演会「英国の国教会、国家、君主政 ～ ヘンリー8世からチャールズ3世まで」  のお知らせ]]></title>
             <link>https://www.globalkomaba.c.u-tokyo.ac.jp/event/nid00002324.html</link>
@@ -755,37 +775,6 @@ Eco-System
             <category>その他</category>
             <category>1年生</category>
             <category>2年生</category>
-        </item>
-        <item>
-            <title><![CDATA[【法学部より】実務法曹に関心のある皆さんへ「法律家への招待2025」オンデマンド配信について ]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/Law_Lecture_od_202605.pdf</link>
-            <guid isPermaLink="false">1780326000000+https://www.c.u-tokyo.ac.jp/zenki/news/others/Law_Lecture_od_202605.pdf</guid>
-            <pubDate>Mon, 01 Jun 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[実務法曹に関心のある皆さんへ
-「法律家への招待 2026」 オンデマンド配信について
-主催：東京大学法学部、東京大学大学院法学政治学研究科法曹養成専攻（法科大学院）
-2026 年 5 月 19 日（火）午後 5 時から駒場キャンパスにおいて、講演会「法律家への招
-待 2026」を開催しました。この講演会は、駒場 1、2 年生のみなさんを対象として、将来の
-進路選択の一助としてもらうため、職業としての法律家についてお話しする目的で開催した
-ものです。
-夕刻からの開催であったにもかかわらず、当日は約 70 名の参加があり、アンケートの結
-果、参加者からは、下記のような好意的な感想が多数寄せられました。
-]]></description>
-            <category>その他</category>
-            <category>1年生</category>
-            <category>2年生</category>
-            <category>PDF</category>
-        </item>
-        <item>
-            <title><![CDATA[【農学部より】第70回東京大学農学部公開セミナー「野生生物と人間社会」の開催（6/20開催）]]></title>
-            <link>https://www.a.u-tokyo.ac.jp/seminar/</link>
-            <guid isPermaLink="false">1780239600000+https://www.a.u-tokyo.ac.jp/seminar/</guid>
-            <pubDate>Sun, 31 May 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[農学部公開セミナー]]></description>
-            <category>その他</category>
-            <category>1年生</category>
-            <category>2年生</category>
-            <enclosure url="https://www.a.u-tokyo.ac.jp/wp-content/themes/autokyo/images/ogp.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
