@@ -2,11 +2,36 @@
 <rss version="2.0">
     <channel>
         <title>教務課からのお知らせ（2年生）- 前期課程（1・2年生） - 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/secondyear/index.html#%22b9af-65db09984f7c4%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/secondyear/index.html#%22ba37-65dc812f559a4%22</link>
         <description></description>
-        <lastBuildDate>Tue, 13 Oct 2026 03:52:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Oct 2026 07:51:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[【試験】2026年度Ａセメスター（A1・A2ターム）定期試験実施について（10/14掲載）]]></title>
+            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/all/2026/1014163000.html</link>
+            <guid isPermaLink="false">1791903600000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/all/2026/1014163000.html</guid>
+            <pubDate>Tue, 13 Oct 2026 15:00:00 GMT</pubDate>
+            <description><![CDATA[2026年度Ａセメスター（A1・A2ターム）定期試験（本試験）に関する情報を公開しました。
+
+試験時間割等の情報は、今後変更される可能性があります。
+必ず、試験直前に最新の情報を確認してください。
+
+定期試験実施対象である前期課程科目の評価方法の確認（後日開示予定）：
+UTASログイン後「成績・定期試験」→「定期試験（前期課程）」→「評価方法内容確認」
+
+自身が受験予定の定期試験情報の確認（1/14公開）：
+UTASログイン後「成績・定期試験」→「定期試験（前期課程）」→「定期試験情報確認」
+
+- - - - - - - - -
+
+＜Aセメスター（A1・A2ターム）本試験情報（対面試験）＞
+]]></description>
+            <category>試験</category>
+            <category>1年生</category>
+            <category>2年生</category>
+            <category>重要</category>
+        </item>
         <item>
             <title><![CDATA[【法学部より】＜重要＞早期卒業予定者の認定に関する申請手続きについて（2027年4月進学者対象）]]></title>
             <link>https://www.j.u-tokyo.ac.jp/undergraduate/wp-content/uploads/sites/16/2026/10/20262Asoukiyoteisyashinsei.pdf</link>
@@ -1114,28 +1139,6 @@ PEAK合計
             <category>2年生</category>
             <category>PDF</category>
             <category>重要</category>
-        </item>
-        <item>
-            <title><![CDATA[【8月18日(火)】2Sセメスター/2S2ターム成績表の確認]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/secondyear/2026/0817150000.html</link>
-            <guid isPermaLink="false">1786892400000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/secondyear/2026/0817150000.html</guid>
-            <pubDate>Sun, 16 Aug 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[※UTASの混雑を避けるため、発表時刻が科類によって異なります※
-理科一類：10時～発表
-理科二類・三類：11時～発表
-文科各類：12時～発表
-
-・進学選択が可能となる条件を満たしている者満たしていない者の発表
-UTASの「進学選択」→「進学選択 可/不可 確認」画面から確認できます。
-第一段階の進学志望・不志望の登録は第一段階の進学志望登録の変更期間に限り修正が可能です。
-
-・成績表の確認
-UTASの「成績・定期試験」→「成績状況確認」画面から確認できます。
-必要に応じ各自プリントアウトして保管してください。
-※2S1ターム「物性化学」「生命科学（理科一類生対象）」の追試験成績も反映されています。
-]]></description>
-            <category>成績</category>
-            <category>2年生</category>
         </item>
     </channel>
 </rss>

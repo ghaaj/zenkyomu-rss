@@ -2,11 +2,36 @@
 <rss version="2.0">
     <channel>
         <title>前期課程（1・2年生）教務課からのお知らせ - 前期課程（1・2年生）- 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/index.html#%22b795-65db098eda951%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/index.html#%22b7d3-65dc81250204c%22</link>
         <description></description>
-        <lastBuildDate>Tue, 13 Oct 2026 03:52:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Oct 2026 07:51:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[【試験】2026年度Ａセメスター（A1・A2ターム）定期試験実施について（10/14掲載）]]></title>
+            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/all/2026/1014163000.html</link>
+            <guid isPermaLink="false">1791903600000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/all/2026/1014163000.html</guid>
+            <pubDate>Tue, 13 Oct 2026 15:00:00 GMT</pubDate>
+            <description><![CDATA[2026年度Ａセメスター（A1・A2ターム）定期試験（本試験）に関する情報を公開しました。
+
+試験時間割等の情報は、今後変更される可能性があります。
+必ず、試験直前に最新の情報を確認してください。
+
+定期試験実施対象である前期課程科目の評価方法の確認（後日開示予定）：
+UTASログイン後「成績・定期試験」→「定期試験（前期課程）」→「評価方法内容確認」
+
+自身が受験予定の定期試験情報の確認（1/14公開）：
+UTASログイン後「成績・定期試験」→「定期試験（前期課程）」→「定期試験情報確認」
+
+- - - - - - - - -
+
+＜Aセメスター（A1・A2ターム）本試験情報（対面試験）＞
+]]></description>
+            <category>試験</category>
+            <category>1年生</category>
+            <category>2年生</category>
+            <category>重要</category>
+        </item>
         <item>
             <title><![CDATA[【法学部より】＜重要＞早期卒業予定者の認定に関する申請手続きについて（2027年4月進学者対象）]]></title>
             <link>https://www.j.u-tokyo.ac.jp/undergraduate/wp-content/uploads/sites/16/2026/10/20262Asoukiyoteisyashinsei.pdf</link>
@@ -1045,21 +1070,6 @@ Sセメスターの追試験成績発表日は10月20日（火）の予定です
 ]]></description>
             <category>成績</category>
             <category>1年生</category>
-        </item>
-        <item>
-            <title><![CDATA[【進学選択】学部・学科別 面接・志望理由書等について（9/8薬学部掲載、/4農学部掲載、5/25医学部掲載）]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/secondyear/2026/0908100000.html</link>
-            <guid isPermaLink="false">1788793200000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/secondyear/2026/0908100000.html</guid>
-            <pubDate>Mon, 07 Sep 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[2027年度進学選択（2026年度実施）において面接・志望理由書を課す学部・学科等については、『2027年度進学選択の手引き』の「学部・学科別 面接・志望理由書一覧」のページに記載がありますので必ず確認してください。
-
-上記「学部・学科別 面接・志望理由書一覧」のページに加えて各学部からの通知がある場合は、以下に掲載していきます。面接・志望理由書を課す学部・学科等への進学を希望する方は併せて確認してください。
-（学部毎に通知があり次第、随時更新予定。）
-※進学を希望する学部からの連絡事項をよく確認し、その指示に従ってください。
- また、不明な点がある場合は、当該学部の教務担当へ問い合わせてください。
-]]></description>
-            <category>進学</category>
-            <category>2年生</category>
         </item>
     </channel>
 </rss>

@@ -2,11 +2,36 @@
 <rss version="2.0">
     <channel>
         <title>教務課からのお知らせ（1年生） - 前期課程（1・2年生）- 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/firstyear/index.html#%22b8b9-65db0992ff219%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/firstyear/index.html#%22b886-65dc8129fd6c6%22</link>
         <description></description>
-        <lastBuildDate>Tue, 13 Oct 2026 03:52:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Oct 2026 07:51:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[【試験】2026年度Ａセメスター（A1・A2ターム）定期試験実施について（10/14掲載）]]></title>
+            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/all/2026/1014163000.html</link>
+            <guid isPermaLink="false">1791903600000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/all/2026/1014163000.html</guid>
+            <pubDate>Tue, 13 Oct 2026 15:00:00 GMT</pubDate>
+            <description><![CDATA[2026年度Ａセメスター（A1・A2ターム）定期試験（本試験）に関する情報を公開しました。
+
+試験時間割等の情報は、今後変更される可能性があります。
+必ず、試験直前に最新の情報を確認してください。
+
+定期試験実施対象である前期課程科目の評価方法の確認（後日開示予定）：
+UTASログイン後「成績・定期試験」→「定期試験（前期課程）」→「評価方法内容確認」
+
+自身が受験予定の定期試験情報の確認（1/14公開）：
+UTASログイン後「成績・定期試験」→「定期試験（前期課程）」→「定期試験情報確認」
+
+- - - - - - - - -
+
+＜Aセメスター（A1・A2ターム）本試験情報（対面試験）＞
+]]></description>
+            <category>試験</category>
+            <category>1年生</category>
+            <category>2年生</category>
+            <category>重要</category>
+        </item>
         <item>
             <title><![CDATA[★まとめ★2026A前期課程ウェブサイト「お知らせ」掲載中の履修と授業に関する通知一覧表（初回掲載：9/14、最終更新：10/9）　]]></title>
             <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026A_rishuu_summary.pdf</link>
@@ -1014,26 +1039,6 @@ S2 ターム
             <category>2年生</category>
             <category>PDF</category>
             <category>重要</category>
-        </item>
-        <item>
-            <title><![CDATA[（6/4再掲）【2026S】時間割の都合で、自科類・自クラスを対象としない授業を履修する手続きについて（3/26初掲）]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026S_courseregistration_special.pdf</link>
-            <guid isPermaLink="false">1780498800000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026S_courseregistration_special.pdf</guid>
-            <pubDate>Wed, 03 Jun 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[2026 年度 S セメスター
-時間割の都合で自科類・自クラスを対象としない授業を履修する手続きについて
-初回掲載日：2026/3/26 更新日：－
-以下のように、時間割の都合でクラス指定の曜限で授業を受けることができない場合には、クラス指定外の
-曜限で履修することができます（一部の科目のみ）。
-「2 年次の必修科目の曜限が、他クラス聴講したい科目のすべての開講曜限と重複してしまう」
-「数理科学の他クラス聴講で、自分の科類を対象とした曜限がすべて 2 年次の必修科目と重複してしまう」
-「その他、特別な事情がある場合」
-希望者は、下記の申請フォームから申請してください。
-なお、本手続きは「履修認…]]></description>
-            <category>履修</category>
-            <category>1年生</category>
-            <category>2年生</category>
-            <category>PDF</category>
         </item>
     </channel>
 </rss>
