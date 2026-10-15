@@ -2,11 +2,21 @@
 <rss version="2.0">
     <channel>
         <title>その他のお知らせ（2年生） - 前期課程（1・2年生）- 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/secondyear/index.html#%22a8f8-65dd655a2a159%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/secondyear/index.html#%22a839-65dd88b426212%22</link>
         <description></description>
-        <lastBuildDate>Thu, 15 Oct 2026 00:46:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Oct 2026 03:31:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[【グローバリゼーションオフィスより】10/19（月）「GS/GSA 昼休みの交流会- Lunchtime Gathering -」開催のお知らせ]]></title>
+            <link>https://www.globalkomaba.c.u-tokyo.ac.jp/event/nid00002360.html</link>
+            <guid isPermaLink="false">1791990000000+https://www.globalkomaba.c.u-tokyo.ac.jp/event/nid00002360.html</guid>
+            <pubDate>Wed, 14 Oct 2026 15:00:00 GMT</pubDate>
+            <description><![CDATA[グローバル駒場サイトは東京大学 大学院総合文化研究科・教養学部によるグローバルサイトです。駒場キャンパスで学ばれる方、駒場キャンパスから留学したい方、国際交流を希望の方へ向けた情報発信や国際関連リソースを配信しております。]]></description>
+            <category>その他</category>
+            <category>1年生</category>
+            <category>2年生</category>
+        </item>
         <item>
             <title><![CDATA[【本部社会連携企画課より】東京大学創立150周年記念デザインマンホール デザイン募集（10/14(水)～12/7(木)）]]></title>
             <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/150th_Anniversary_UTokyoMaenhol.pdf</link>
@@ -757,33 +767,6 @@ TOEFL（Test of English as a Foreign Language）は留学だけではなく、�
             <category>その他</category>
             <category>1年生</category>
             <category>2年生</category>
-        </item>
-        <item>
-            <title><![CDATA[【情報理工学教育研究センターより】参加者募集 データサイエンスコンテスト ～企業が提供する実社会データを使って あなたのデータ分析の腕を試してみませんか？～]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/2026MDSContestPoster.pdf</link>
-            <guid isPermaLink="false">1780844400000+https://www.c.u-tokyo.ac.jp/zenki/news/others/2026MDSContestPoster.pdf</guid>
-            <pubDate>Sun, 07 Jun 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[主催：数理・情報教育研究センター 産業界コンソーシアム
-Work Style
-Insurance
-Finance
-Safer Cities &
-Public Services Quality of Life
-Communication
-Industry
-Eco-System
-参加者募集
-データサイエンスコンテスト
-～企業が提供する実社会データを使って
-あなたのデータ分析の腕を試してみませんか？～
-【コンテストの概要】
-数理・情報教育研究センターは，東京大学内外における数理・情報の新しい教育体系を整備する連携
-研究機構であり，「産業界コンソーシアム」はこの理念に賛同する協力企業と東京大学により編成した
-]]></description>
-            <category>その他</category>
-            <category>1年生</category>
-            <category>2年生</category>
-            <category>PDF</category>
         </item>
     </channel>
 </rss>
