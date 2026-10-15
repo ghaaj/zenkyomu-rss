@@ -2,11 +2,21 @@
 <rss version="2.0">
     <channel>
         <title>前期課程（1・2年生） - 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/index.html#%22b5bb-65dd69206c763%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/index.html#%22b514-65dd88a548727%22</link>
         <description></description>
-        <lastBuildDate>Thu, 15 Oct 2026 01:01:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Oct 2026 03:21:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[【グローバリゼーションオフィスより】10/19（月）「GS/GSA 昼休みの交流会- Lunchtime Gathering -」開催のお知らせ]]></title>
+            <link>https://www.globalkomaba.c.u-tokyo.ac.jp/event/nid00002360.html</link>
+            <guid isPermaLink="false">1791990000000+https://www.globalkomaba.c.u-tokyo.ac.jp/event/nid00002360.html</guid>
+            <pubDate>Wed, 14 Oct 2026 15:00:00 GMT</pubDate>
+            <description><![CDATA[グローバル駒場サイトは東京大学 大学院総合文化研究科・教養学部によるグローバルサイトです。駒場キャンパスで学ばれる方、駒場キャンパスから留学したい方、国際交流を希望の方へ向けた情報発信や国際関連リソースを配信しております。]]></description>
+            <category>その他</category>
+            <category>1年生</category>
+            <category>2年生</category>
+        </item>
         <item>
             <title><![CDATA[【1年生対象・注意喚起】履修登録の内容をあらためて確認してください！（2026Ａセメスター／A1・A2ターム）（10/15公開）]]></title>
             <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/Caution_2026AA1A2_risyu_1st_grade.pdf</link>
@@ -951,25 +961,6 @@ UTASの「成績・定期試験」→「成績（前期課程）」→「成績�
             <category>1年生</category>
             <category>2年生</category>
             <enclosure url="https://storage.googleapis.com/production-os-assets/assets/fcdb9f5c-1ae0-40c1-a8e8-086358978bbc" length="0" type="image//production-os-assets/assets/fcdb9f5c-1ae0-40c1-a8e8-086358978bbc"/>
-        </item>
-        <item>
-            <title><![CDATA[【進学選択】2027年度進学選択 第三段階進学内定者発表について]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/daisan_naitei_20260916.pdf</link>
-            <guid isPermaLink="false">1789484400000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/daisan_naitei_20260916.pdf</guid>
-            <pubDate>Tue, 15 Sep 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[前期課程２年生 各位
-（第一段階・第二段階内定者を除く）
-[重要]２０２７年度進学選択（２０２６年実施）
-第三段階 進学内定者発表 について
-◆ 第三段階 進学内定者の発表について
-第三段階進学内定者の発表は、９月２５日（金）１０：００より行います。
-UTAS の「志望内容確認」画面から、内定/未内定を確認できます（内定した場合
-は内定先の学科・コースが緑色で表示されます）。
-２０２６年９月１６日 教養学部前期課程]]></description>
-            <category>進学</category>
-            <category>2年生</category>
-            <category>PDF</category>
-            <category>重要</category>
         </item>
     </channel>
 </rss>
