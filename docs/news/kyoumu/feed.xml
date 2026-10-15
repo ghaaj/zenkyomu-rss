@@ -2,11 +2,31 @@
 <rss version="2.0">
     <channel>
         <title>前期課程（1・2年生）教務課からのお知らせ - 前期課程（1・2年生）- 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/index.html#%22b7d3-65dc84a1d4e40%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/index.html#%22b911-65dd69288b93c%22</link>
         <description></description>
-        <lastBuildDate>Wed, 14 Oct 2026 08:01:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Oct 2026 01:01:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[【1年生対象・注意喚起】履修登録の内容をあらためて確認してください！（2026Ａセメスター／A1・A2ターム）（10/15公開）]]></title>
+            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/Caution_2026AA1A2_risyu_1st_grade.pdf</link>
+            <guid isPermaLink="false">1791990000000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/Caution_2026AA1A2_risyu_1st_grade.pdf</guid>
+            <pubDate>Wed, 14 Oct 2026 15:00:00 GMT</pubDate>
+            <description><![CDATA[1 | 2
+2026 年 10 月 15 日
+１年生 各位（PEAK 生除く）
+教養学部等教務課前期課程チーム
+【注意喚起】履修登録の内容をあらためて確認してください！
+（Ａセメスター／A1・A2 ターム）
+近年、履修登録等の手続きの不備により、「進学選択が可能となる条件」や「前期課程修了要件」を満たせずに
+留年や降年をしてしまう学生が多く見受けられます。今一度、	『履修の手引き』の「進学選択が可能となる条件」
+及び「前期課程修了要件」と自身の成績表を参照し、単位取得すべき科目と履修科目の確認を行ってください。
+期限後の提出や登録は一切認められません。また、履修登録・訂正を行った後は、PC 版…]]></description>
+            <category>履修</category>
+            <category>1年生</category>
+            <category>PDF</category>
+            <category>重要</category>
+        </item>
         <item>
             <title><![CDATA[【試験】2026年度Ａセメスター（A1・A2ターム）定期試験実施について（10/14掲載）]]></title>
             <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/all/2026/1014163000.html</link>
@@ -1046,30 +1066,6 @@ UTAS の「志望内容確認」画面から、内定/未内定を確認でき�
             <category>履修</category>
             <category>1年生</category>
             <category>PDF</category>
-        </item>
-        <item>
-            <title><![CDATA[【9月9日(水)】1Sセメスター/1S2ターム成績表の確認]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/firstyear/2026/0908140000.html</link>
-            <guid isPermaLink="false">1788793200000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/firstyear/2026/0908140000.html</guid>
-            <pubDate>Mon, 07 Sep 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[※UTASの混雑を避けるため、発表時刻が科類によって異なります※
-理科各類：10時～発表
-文科各類：11時～発表
-
-・成績表の確認
-UTASの「成績・定期試験」→「成績状況確認」画面から確認できます。
-必要に応じ各自プリントアウトして保管してください。
-※Sセメスターの追試験で受験資格Aを申請し許可された学生は、追試験の指示に従ってください。
-Sセメスターの追試験成績発表日は10月20日（火）の予定です。
-
-※1S1ターム「数理科学基礎」の追試験成績も反映されています。
-受験資格Ａによる追試験で受験した場合、その成績が対応する数理科学基礎演習の
-評価に反映されることがあります。
-
-・成績表の見方
-]]></description>
-            <category>成績</category>
-            <category>1年生</category>
         </item>
     </channel>
 </rss>

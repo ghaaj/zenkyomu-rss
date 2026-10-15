@@ -2,11 +2,31 @@
 <rss version="2.0">
     <channel>
         <title>教務課からのお知らせ（1年生） - 前期課程（1・2年生）- 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/firstyear/index.html#%22b886-65dc84a6bfaef%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/firstyear/index.html#%22b8b3-65dd692d7565d%22</link>
         <description></description>
-        <lastBuildDate>Wed, 14 Oct 2026 08:01:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Oct 2026 01:01:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[【1年生対象・注意喚起】履修登録の内容をあらためて確認してください！（2026Ａセメスター／A1・A2ターム）（10/15公開）]]></title>
+            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/Caution_2026AA1A2_risyu_1st_grade.pdf</link>
+            <guid isPermaLink="false">1791990000000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/Caution_2026AA1A2_risyu_1st_grade.pdf</guid>
+            <pubDate>Wed, 14 Oct 2026 15:00:00 GMT</pubDate>
+            <description><![CDATA[1 | 2
+2026 年 10 月 15 日
+１年生 各位（PEAK 生除く）
+教養学部等教務課前期課程チーム
+【注意喚起】履修登録の内容をあらためて確認してください！
+（Ａセメスター／A1・A2 ターム）
+近年、履修登録等の手続きの不備により、「進学選択が可能となる条件」や「前期課程修了要件」を満たせずに
+留年や降年をしてしまう学生が多く見受けられます。今一度、	『履修の手引き』の「進学選択が可能となる条件」
+及び「前期課程修了要件」と自身の成績表を参照し、単位取得すべき科目と履修科目の確認を行ってください。
+期限後の提出や登録は一切認められません。また、履修登録・訂正を行った後は、PC 版…]]></description>
+            <category>履修</category>
+            <category>1年生</category>
+            <category>PDF</category>
+            <category>重要</category>
+        </item>
         <item>
             <title><![CDATA[【試験】2026年度Ａセメスター（A1・A2ターム）定期試験実施について（10/14掲載）]]></title>
             <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/all/2026/1014163000.html</link>
@@ -1015,29 +1035,6 @@ UTASログイン後「成績・定期試験」→「定期試験（前期課程�
             <category>その他</category>
             <category>1年生</category>
             <category>2年生</category>
-            <category>重要</category>
-        </item>
-        <item>
-            <title><![CDATA[【注意喚起】履修登録の内容をあらためて確認してください！（2026S2ターム）（初回掲載：6/12）　]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026S2_Courseregistration.pdf</link>
-            <guid isPermaLink="false">1781190000000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026S2_Courseregistration.pdf</guid>
-            <pubDate>Thu, 11 Jun 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[1 | 3
-2026 年 6 月 12 日
-１・２年生 各位（PEAK 生除く）
-教務課前期課程チーム
-【注意喚起】履修登録の内容をあらためて確認してください！
-S2 ターム
-近年、履修登録等の手続きの不備により、	「進学選択が可能となる条件」や「前
-期課程修了要件」を満たせずに留年や降年をしてしまう学生が多く見受けられ
-ます。今一度、『履修の手引き』の「進学選択が可能となる条件」（p. 8）及び
-「前期課程修了要件」(p. 9)と自身の成績表を参照し、単位取得すべき科目と
-履修科目の確認を行ってください。期限後の提出や登録は一切認められません。
-また、履修登録を行った後は、UTAS（PC 版…]]></description>
-            <category>履修</category>
-            <category>1年生</category>
-            <category>2年生</category>
-            <category>PDF</category>
             <category>重要</category>
         </item>
     </channel>

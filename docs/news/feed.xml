@@ -2,11 +2,31 @@
 <rss version="2.0">
     <channel>
         <title>前期課程（1・2年生） - 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/index.html#%22b4cc-65dd654b284b9%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/index.html#%22b5bb-65dd69206c763%22</link>
         <description></description>
-        <lastBuildDate>Thu, 15 Oct 2026 00:46:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Oct 2026 01:01:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[【1年生対象・注意喚起】履修登録の内容をあらためて確認してください！（2026Ａセメスター／A1・A2ターム）（10/15公開）]]></title>
+            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/Caution_2026AA1A2_risyu_1st_grade.pdf</link>
+            <guid isPermaLink="false">1791990000000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/Caution_2026AA1A2_risyu_1st_grade.pdf</guid>
+            <pubDate>Wed, 14 Oct 2026 15:00:00 GMT</pubDate>
+            <description><![CDATA[1 | 2
+2026 年 10 月 15 日
+１年生 各位（PEAK 生除く）
+教養学部等教務課前期課程チーム
+【注意喚起】履修登録の内容をあらためて確認してください！
+（Ａセメスター／A1・A2 ターム）
+近年、履修登録等の手続きの不備により、「進学選択が可能となる条件」や「前期課程修了要件」を満たせずに
+留年や降年をしてしまう学生が多く見受けられます。今一度、	『履修の手引き』の「進学選択が可能となる条件」
+及び「前期課程修了要件」と自身の成績表を参照し、単位取得すべき科目と履修科目の確認を行ってください。
+期限後の提出や登録は一切認められません。また、履修登録・訂正を行った後は、PC 版…]]></description>
+            <category>履修</category>
+            <category>1年生</category>
+            <category>PDF</category>
+            <category>重要</category>
+        </item>
         <item>
             <title><![CDATA[【本部社会連携企画課より】東京大学創立150周年記念デザインマンホール デザイン募集（10/14(水)～12/7(木)）]]></title>
             <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/150th_Anniversary_UTokyoMaenhol.pdf</link>
@@ -950,26 +970,6 @@ UTAS の「志望内容確認」画面から、内定/未内定を確認でき�
             <category>2年生</category>
             <category>PDF</category>
             <category>重要</category>
-        </item>
-        <item>
-            <title><![CDATA[【2026A1】英語一列②グループのお知らせ]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026A1_EnglishGroup.pdf</link>
-            <guid isPermaLink="false">1789484400000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026A1_EnglishGroup.pdf</guid>
-            <pubDate>Tue, 15 Sep 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[英語一列②
-時間割コード 	教員名 	グループ 	時間割コード 	教員名 	グループ
-A１火3 	A１火4
-50292 	Hammond 	G1 	50362 	オデイ ジョン 	G1
-50293 	サーギル 	G1 	50363 	サーギル 	G1
-50294 	杉本 	文四郎 	G3 	50364 	杉本 	文四郎 	G3
-50295 	鷲塚 	奈保 	G3 	50365 	三浦 	あゆみ 	G3
-50296 	落合 	一樹 	G3 	50366 	鷲塚 	奈保 	G3
-50297 	加治屋 	健司 	G3 	50367 	落合 	一樹 	G3
-50298 	大橋 	理枝 	G2 	503…]]></description>
-            <category>履修</category>
-            <category>1年生</category>
-            <category>2年生</category>
-            <category>PDF</category>
         </item>
     </channel>
 </rss>
