@@ -2,11 +2,30 @@
 <rss version="2.0">
     <channel>
         <title>前期課程（1・2年生） - 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/index.html#%22b41d-65dc859d3887f%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/index.html#%22b4cc-65dd654b284b9%22</link>
         <description></description>
-        <lastBuildDate>Wed, 14 Oct 2026 08:11:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Oct 2026 00:46:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[【本部社会連携企画課より】東京大学創立150周年記念デザインマンホール デザイン募集（10/14(水)～12/7(木)）]]></title>
+            <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/150th_Anniversary_UTokyoMaenhol.pdf</link>
+            <guid isPermaLink="false">1791990000000+https://www.c.u-tokyo.ac.jp/zenki/news/others/150th_Anniversary_UTokyoMaenhol.pdf</guid>
+            <pubDate>Wed, 14 Oct 2026 15:00:00 GMT</pubDate>
+            <description><![CDATA[創立 150 周年記念デザインマンホールのデザインを募集します！
+2027 年、東京大学は創立 150 周年を迎えます。
+この節目を記念し、本郷キャンパス内に「150 周年記念デザインマンホール」を設置します。そこで、マンホール
+を彩るデザインを募集します。
+テーマは「東京大学創立 150 周年」。
+赤門や安田講堂、イチョウ並木などのキャンパスの風景から、東京大学の歴史、教育・研究、未来への思いま
+で。皆さんが思い描く「東大の 150 周年」を、自由な発想で表現してください。
+★応募 Forms：https://forms.cloud.microsoft/r/0dGKGb26aA
+応募できるの…]]></description>
+            <category>その他</category>
+            <category>1年生</category>
+            <category>2年生</category>
+            <category>PDF</category>
+        </item>
         <item>
             <title><![CDATA[【試験】2026年度Ａセメスター（A1・A2ターム）定期試験実施について（10/14掲載）]]></title>
             <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/all/2026/1014163000.html</link>
@@ -951,25 +970,6 @@ A１火3 	A１火4
             <category>1年生</category>
             <category>2年生</category>
             <category>PDF</category>
-        </item>
-        <item>
-            <title><![CDATA[【農学部より】2026年度Aセメスター主題科目・総合科目のご紹介]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/all/2026/0916102438.html</link>
-            <guid isPermaLink="false">1789484400000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/all/2026/0916102438.html</guid>
-            <pubDate>Tue, 15 Sep 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[農学部教員が開講している総合科目、主題科目
-（全学自由研究ゼミナール・全学体験ゼミナール）について、
-各教員がHPでご紹介をしています。
-
-履修を検討している方、農学部の講義科目に少しでもご興味のある方は
-ぜひご覧ください。
-
-★主題科目・総合科目紹介HP
-https://sites.google.com/g.ecc.u-tokyo.ac.jp/zenzemi2026a
-※閲覧には東大ECCSアカウント（@g.ecc.u-tokyo.ac.jp）でのログインが必要です。]]></description>
-            <category>授業</category>
-            <category>1年生</category>
-            <category>2年生</category>
         </item>
     </channel>
 </rss>
