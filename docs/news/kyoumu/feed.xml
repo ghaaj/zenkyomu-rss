@@ -2,11 +2,30 @@
 <rss version="2.0">
     <channel>
         <title>前期課程（1・2年生）教務課からのお知らせ - 前期課程（1・2年生）- 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/index.html#%22b924-65ddcfe79fcb4%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/index.html#%22b88c-65df00f725b36%22</link>
         <description></description>
-        <lastBuildDate>Thu, 15 Oct 2026 08:41:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Oct 2026 07:31:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[【教職】令和９年度介護等体験講習会の開催日程について]]></title>
+            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/R9kaigotoukoushuukai.pdf</link>
+            <guid isPermaLink="false">1792076400000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/R9kaigotoukoushuukai.pdf</guid>
+            <pubDate>Thu, 15 Oct 2026 15:00:00 GMT</pubDate>
+            <description><![CDATA[令和９年度介護等体験講習会について
+下記のとおり令和９年度介護等体験の講習会（事前指導・オリエンテーション）
+を開催します。令和９年度の介護等体験に申込をしており、介護等体験に参加を希望する学
+生は、必ず出席してください。
+本講習会に欠席・遅刻した場合、介護等体験に参加できませんので十分注意してください。
+講習会当日は東京都社会福祉協議会が出版している「介護等体験マニュアルノート」を使用
+しますので、事前にご購入のうえ、当日は必ず手元にご用意ください。「介護等体験マニュアル
+ノート」については、各自東京都社会福祉協議会の HP 等で、最新の「2024 年 11 月改訂版」を
+購入してください。
+]]></description>
+            <category>教職</category>
+            <category>1年生</category>
+            <category>2年生</category>
+        </item>
         <item>
             <title><![CDATA[【降年者対象】学生証の交換について（初回掲載：10/2、更新：10/15）]]></title>
             <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026A_gakuseishoukoukan_2.pdf</link>
@@ -1044,26 +1063,6 @@ UTAS の「志望内容確認」画面から、内定/未内定を確認でき�
             <category>2年生</category>
             <category>PDF</category>
             <category>重要</category>
-        </item>
-        <item>
-            <title><![CDATA[（再掲）【2026】セメスター毎の履修登録単位数の上限（キャップ制）の解除について]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026_CreditLimitExemption.pdf</link>
-            <guid isPermaLink="false">1788879600000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026_CreditLimitExemption.pdf</guid>
-            <pubDate>Tue, 08 Sep 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[2026年8月20日
-対象者 各位
-教養学部等教務課前期課程チーム
-セメスター毎の履修登録単位数の上限（キャップ制）の解除について
-教養学部前期課程では、学生が個々の履修科目に対して十分な学習時間を確保で
-きるようにするため、１Ｓセメスター、１Ａセメスター、２Ｓセメスターにおいて、
-セメスター毎に履修登録単位数の上限（３０単位）を設けています。
-『履修の手引き』p. 10に記載されているとおり、入学後（再入学を除く。）の最
-初のＳセメスター（※）において以下の要件①②を両方満たした学生は、所定の方
-法で申請することで、例外措置として、次のＡセメスターから履修登録単位数の上
-限を超えて履修登録を…]]></description>
-            <category>履修</category>
-            <category>1年生</category>
-            <category>PDF</category>
         </item>
     </channel>
 </rss>

@@ -2,11 +2,30 @@
 <rss version="2.0">
     <channel>
         <title>教務課からのお知らせ（1年生） - 前期課程（1・2年生）- 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/firstyear/index.html#%22b8c6-65ddcfec80cf9%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/firstyear/index.html#%22b79d-65df00fc220f6%22</link>
         <description></description>
-        <lastBuildDate>Thu, 15 Oct 2026 08:41:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Oct 2026 07:31:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[【教職】令和９年度介護等体験講習会の開催日程について]]></title>
+            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/R9kaigotoukoushuukai.pdf</link>
+            <guid isPermaLink="false">1792076400000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/R9kaigotoukoushuukai.pdf</guid>
+            <pubDate>Thu, 15 Oct 2026 15:00:00 GMT</pubDate>
+            <description><![CDATA[令和９年度介護等体験講習会について
+下記のとおり令和９年度介護等体験の講習会（事前指導・オリエンテーション）
+を開催します。令和９年度の介護等体験に申込をしており、介護等体験に参加を希望する学
+生は、必ず出席してください。
+本講習会に欠席・遅刻した場合、介護等体験に参加できませんので十分注意してください。
+講習会当日は東京都社会福祉協議会が出版している「介護等体験マニュアルノート」を使用
+しますので、事前にご購入のうえ、当日は必ず手元にご用意ください。「介護等体験マニュアル
+ノート」については、各自東京都社会福祉協議会の HP 等で、最新の「2024 年 11 月改訂版」を
+購入してください。
+]]></description>
+            <category>教職</category>
+            <category>1年生</category>
+            <category>2年生</category>
+        </item>
         <item>
             <title><![CDATA[【降年者対象】学生証の交換について（初回掲載：10/2、更新：10/15）]]></title>
             <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026A_gakuseishoukoukan_2.pdf</link>
@@ -1020,17 +1039,6 @@ UTASログイン後「成績・定期試験」→「定期試験（前期課程�
 注）交通機関の事故･遅延を理由に追試験を申請する場合は､欠席した試験の実施日から2営業日(土日祝除く)以内に
  申請を完了する必要…]]></description>
             <category>試験</category>
-            <category>1年生</category>
-            <category>2年生</category>
-            <category>重要</category>
-        </item>
-        <item>
-            <title><![CDATA[＜重要＞本日6/16(火)、明日6/17(水)のみ【要受診】【保健センター健康管理室より】2026年度学生定期健康診断Ⅱについて（Web問診・予約 開始予定日：4/2(木））（初回掲載：3/25）]]></title>
-            <link>https://www.hc.u-tokyo.ac.jp/checkups/students-2/schedule-2/</link>
-            <guid isPermaLink="false">1781535600000+https://www.hc.u-tokyo.ac.jp/checkups/students-2/schedule-2/</guid>
-            <pubDate>Mon, 15 Jun 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[東京大学　保健センター]]></description>
-            <category>その他</category>
             <category>1年生</category>
             <category>2年生</category>
             <category>重要</category>
