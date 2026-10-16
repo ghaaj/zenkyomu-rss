@@ -2,9 +2,9 @@
 <rss version="2.0">
     <channel>
         <title>前期課程（1・2年生）その他のお知らせ - 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/index.html#%22a731-65dd88ac6e88b%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/index.html#%22a739-65df66ce4068d%22</link>
         <description></description>
-        <lastBuildDate>Thu, 15 Oct 2026 03:31:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Oct 2026 15:01:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -95,30 +95,6 @@
             <category>その他</category>
             <category>1年生</category>
             <category>2年生</category>
-        </item>
-        <item>
-            <title><![CDATA[【学生支援課学生支援チームより】令和8 年台風18 号で被災した世帯の学生の皆さんへ]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/261002typhoon18.pdf</link>
-            <guid isPermaLink="false">1790866800000+https://www.c.u-tokyo.ac.jp/zenki/news/others/261002typhoon18.pdf</guid>
-            <pubDate>Thu, 01 Oct 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[2026 年 10 月 2 日
-令和 8 年台風 18 号で
-被災した世帯の学生の皆さんへ
-東京大学教養学部等事務部
-令和 8 年台風 18 号により、各地に甚大な被害が発生しています。本学の学生の中にも、該当する地域ご出身
-の方がいらっしゃることと思います。皆様とそのご家族がご無事であることを切に願っております。
-大雨による災害が発生している地域ご出身の在学生の皆様におかれましては、以下により現在の状況について
-ご連絡いただけますようお願いいたします。
-○ お知らせいただきたい情報
-・ご自身の状況について
-※帰省中である場合は、ご自身の被災状況についてご連絡ください。
-・ご実家の状況について
-]]></description>
-            <category>その他</category>
-            <category>1年生</category>
-            <category>2年生</category>
-            <category>PDF</category>
-            <category>重要</category>
         </item>
         <item>
             <title><![CDATA[【国際工学教育推進機構より】東京大学スペシャル・イングリッシュ・レッスン（SEL）のお知らせ]]></title>
@@ -767,6 +743,33 @@ TOEFL（Test of English as a Foreign Language）は留学だけではなく、�
             <category>その他</category>
             <category>1年生</category>
             <category>2年生</category>
+        </item>
+        <item>
+            <title><![CDATA[【情報理工学教育研究センターより】参加者募集 データサイエンスコンテスト ～企業が提供する実社会データを使って あなたのデータ分析の腕を試してみませんか？～]]></title>
+            <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/2026MDSContestPoster.pdf</link>
+            <guid isPermaLink="false">1780844400000+https://www.c.u-tokyo.ac.jp/zenki/news/others/2026MDSContestPoster.pdf</guid>
+            <pubDate>Sun, 07 Jun 2026 15:00:00 GMT</pubDate>
+            <description><![CDATA[主催：数理・情報教育研究センター 産業界コンソーシアム
+Work Style
+Insurance
+Finance
+Safer Cities &
+Public Services Quality of Life
+Communication
+Industry
+Eco-System
+参加者募集
+データサイエンスコンテスト
+～企業が提供する実社会データを使って
+あなたのデータ分析の腕を試してみませんか？～
+【コンテストの概要】
+数理・情報教育研究センターは，東京大学内外における数理・情報の新しい教育体系を整備する連携
+研究機構であり，「産業界コンソーシアム」はこの理念に賛同する協力企業と東京大学により編成した
+]]></description>
+            <category>その他</category>
+            <category>1年生</category>
+            <category>2年生</category>
+            <category>PDF</category>
         </item>
     </channel>
 </rss>
