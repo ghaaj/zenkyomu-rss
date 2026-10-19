@@ -2,11 +2,36 @@
 <rss version="2.0">
     <channel>
         <title>前期課程（1・2年生）教務課からのお知らせ - 前期課程（1・2年生）- 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/index.html#%22b88c-65df00f725b36%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/index.html#%22b772-65e27e079d33b%22</link>
         <description></description>
-        <lastBuildDate>Fri, 16 Oct 2026 07:31:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Oct 2026 02:01:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[【10月20日(火)】2026年度Sセメスター・S2ターム追試験の成績]]></title>
+            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/all/2026/1019110000.html</link>
+            <guid isPermaLink="false">1792335600000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/all/2026/1019110000.html</guid>
+            <pubDate>Sun, 18 Oct 2026 15:00:00 GMT</pubDate>
+            <description><![CDATA[発表時刻
+10月20日（火）午前10時～
+
+・成績表の確認
+UTASの「成績・定期試験」→「成績状況確認」画面から確認できます。
+必要に応じ各自プリントアウトして保管してください。
+
+※追試験を受験した科目の成績部分のみ上書きされます。
+※追試験の成績が本試験の成績を下回る場合は、元の成績が残ります。
+※「微分積分学①」および「線型代数学①」の追試験成績も反映されています。
+受験資格Aによる追試験で受験した場合、その成績が対応する「数学基礎理論演習」
+の評価に反映されることがあります。
+
+・成績評価の確認申請
+期間：10/20(火)10時～10/21(水)16時50分まで
+※ 教員への救済、部…]]></description>
+            <category>成績</category>
+            <category>1年生</category>
+            <category>2年生</category>
+        </item>
         <item>
             <title><![CDATA[【教職】令和９年度介護等体験講習会の開催日程について]]></title>
             <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/R9kaigotoukoushuukai.pdf</link>
@@ -1040,28 +1065,6 @@ PEAK合計
             <category>授業</category>
             <category>1年生</category>
             <category>2年生</category>
-            <category>重要</category>
-        </item>
-        <item>
-            <title><![CDATA[【進学選択】2027年度進学選択 第二段階進学内定者発表 及び 第三段階志望登録(9/16正午〆)について]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/daininaiteihappyou_20260911.pdf</link>
-            <guid isPermaLink="false">1789052400000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/daininaiteihappyou_20260911.pdf</guid>
-            <pubDate>Thu, 10 Sep 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[前期課程２年生 各位
-[重要]２０２７年度進学選択（２０２６年実施）
-第二段階 進学内定者発表 及び
-第三段階 志望登録 について
-◆ 第二段階 進学内定者等の発表等について
-第二段階進学内定者の発表は、９月１５日（火）１０：００より行います。
-UTAS の「志望内容確認」画面から、内定/未内定を確認できます（内定した場合は内定先の
-学科・コースが緑色で表示されます）。
-また、「第二段階の内定者数一覧」を確認できるようになります。
-閲覧方法：UTAS「その他」＞「ﾀﾞｳﾝﾛｰﾄﾞｾﾝﾀｰ」画面
-◆ 第三段階 進学志望登録について（第一、第二段階で内定しなかった学生のみ）
-第二段階進学内定者発表…]]></description>
-            <category>進学</category>
-            <category>2年生</category>
-            <category>PDF</category>
             <category>重要</category>
         </item>
     </channel>

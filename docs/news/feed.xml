@@ -2,11 +2,36 @@
 <rss version="2.0">
     <channel>
         <title>前期課程（1・2年生） - 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/index.html#%22b50d-65df00ee0d972%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/index.html#%22b418-65e27dff64b71%22</link>
         <description></description>
-        <lastBuildDate>Fri, 16 Oct 2026 07:31:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Oct 2026 02:01:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[【10月20日(火)】2026年度Sセメスター・S2ターム追試験の成績]]></title>
+            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/all/2026/1019110000.html</link>
+            <guid isPermaLink="false">1792335600000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/all/2026/1019110000.html</guid>
+            <pubDate>Sun, 18 Oct 2026 15:00:00 GMT</pubDate>
+            <description><![CDATA[発表時刻
+10月20日（火）午前10時～
+
+・成績表の確認
+UTASの「成績・定期試験」→「成績状況確認」画面から確認できます。
+必要に応じ各自プリントアウトして保管してください。
+
+※追試験を受験した科目の成績部分のみ上書きされます。
+※追試験の成績が本試験の成績を下回る場合は、元の成績が残ります。
+※「微分積分学①」および「線型代数学①」の追試験成績も反映されています。
+受験資格Aによる追試験で受験した場合、その成績が対応する「数学基礎理論演習」
+の評価に反映されることがあります。
+
+・成績評価の確認申請
+期間：10/20(火)10時～10/21(水)16時50分まで
+※ 教員への救済、部…]]></description>
+            <category>成績</category>
+            <category>1年生</category>
+            <category>2年生</category>
+        </item>
         <item>
             <title><![CDATA[【教職】令和９年度介護等体験講習会の開催日程について]]></title>
             <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/R9kaigotoukoushuukai.pdf</link>
@@ -364,30 +389,6 @@ https://ksc.edu.k.u-tokyo.ac.jp/
             <category>履修</category>
             <category>2年生</category>
             <category>PDF</category>
-        </item>
-        <item>
-            <title><![CDATA[【学生支援課学生支援チームより】令和8 年台風18 号で被災した世帯の学生の皆さんへ]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/261002typhoon18.pdf</link>
-            <guid isPermaLink="false">1790866800000+https://www.c.u-tokyo.ac.jp/zenki/news/others/261002typhoon18.pdf</guid>
-            <pubDate>Thu, 01 Oct 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[2026 年 10 月 2 日
-令和 8 年台風 18 号で
-被災した世帯の学生の皆さんへ
-東京大学教養学部等事務部
-令和 8 年台風 18 号により、各地に甚大な被害が発生しています。本学の学生の中にも、該当する地域ご出身
-の方がいらっしゃることと思います。皆様とそのご家族がご無事であることを切に願っております。
-大雨による災害が発生している地域ご出身の在学生の皆様におかれましては、以下により現在の状況について
-ご連絡いただけますようお願いいたします。
-○ お知らせいただきたい情報
-・ご自身の状況について
-※帰省中である場合は、ご自身の被災状況についてご連絡ください。
-・ご実家の状況について
-]]></description>
-            <category>その他</category>
-            <category>1年生</category>
-            <category>2年生</category>
-            <category>PDF</category>
-            <category>重要</category>
         </item>
         <item>
             <title><![CDATA[【国際工学教育推進機構より】東京大学スペシャル・イングリッシュ・レッスン（SEL）のお知らせ]]></title>

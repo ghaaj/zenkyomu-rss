@@ -2,11 +2,36 @@
 <rss version="2.0">
     <channel>
         <title>教務課からのお知らせ（2年生）- 前期課程（1・2年生） - 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/secondyear/index.html#%22b935-65df010194953%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/secondyear/index.html#%22b875-65e27e120b1e0%22</link>
         <description></description>
-        <lastBuildDate>Fri, 16 Oct 2026 07:31:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Oct 2026 02:01:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[【10月20日(火)】2026年度Sセメスター・S2ターム追試験の成績]]></title>
+            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/all/2026/1019110000.html</link>
+            <guid isPermaLink="false">1792335600000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/all/2026/1019110000.html</guid>
+            <pubDate>Sun, 18 Oct 2026 15:00:00 GMT</pubDate>
+            <description><![CDATA[発表時刻
+10月20日（火）午前10時～
+
+・成績表の確認
+UTASの「成績・定期試験」→「成績状況確認」画面から確認できます。
+必要に応じ各自プリントアウトして保管してください。
+
+※追試験を受験した科目の成績部分のみ上書きされます。
+※追試験の成績が本試験の成績を下回る場合は、元の成績が残ります。
+※「微分積分学①」および「線型代数学①」の追試験成績も反映されています。
+受験資格Aによる追試験で受験した場合、その成績が対応する「数学基礎理論演習」
+の評価に反映されることがあります。
+
+・成績評価の確認申請
+期間：10/20(火)10時～10/21(水)16時50分まで
+※ 教員への救済、部…]]></description>
+            <category>成績</category>
+            <category>1年生</category>
+            <category>2年生</category>
+        </item>
         <item>
             <title><![CDATA[【教職】令和９年度介護等体験講習会の開催日程について]]></title>
             <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/R9kaigotoukoushuukai.pdf</link>
@@ -1077,26 +1102,6 @@ UTAS の「志望内容確認」画面から、内定/未内定を確認でき�
 また、「第一段階の内定者数一覧」を確認できるようになります。
 閲覧方法：UTAS「その他」…]]></description>
             <category>進学</category>
-            <category>2年生</category>
-            <category>PDF</category>
-            <category>重要</category>
-        </item>
-        <item>
-            <title><![CDATA[休学・退学手続き締切の例外措置について]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/kyutaigakuexception_202608.pdf</link>
-            <guid isPermaLink="false">1786978800000+https://www.c.u-tokyo.ac.jp/zenki/kyutaigakuexception_202608.pdf</guid>
-            <pubDate>Mon, 17 Aug 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[２０２６年８月
-休学及び退学の手続きについて（2 年生対象）
-進学選択の結果により休学・退学を希望する者について、以下の手続きの締切を
-２０２６年９月３０日（水）１６：００とします。
-・ ２０２６年１０月 1 日を開始日とする休学（A セメスターからの休学）
-・ ２０２６年９月末付での退学（S セメスター末での退学）
-締切までに必要書類の全てを教務課に提出する必要があります。余裕を持って、教務課窓
-口、または教務課問い合わせフォームにて手続きの説明を受けるようにしてください。進学
-選択の結果が確定する前のご相談でも構いません。なお、上記の締切を過ぎた場合には、A
-セメスターの授業料支払義務が生…]]></description>
-            <category>学籍</category>
             <category>2年生</category>
             <category>PDF</category>
             <category>重要</category>

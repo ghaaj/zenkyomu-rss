@@ -2,11 +2,36 @@
 <rss version="2.0">
     <channel>
         <title>教務課からのお知らせ（1年生） - 前期課程（1・2年生）- 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/firstyear/index.html#%22b79d-65df00fc220f6%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/firstyear/index.html#%22b6e5-65e27e0c96a2e%22</link>
         <description></description>
-        <lastBuildDate>Fri, 16 Oct 2026 07:31:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Oct 2026 02:01:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[【10月20日(火)】2026年度Sセメスター・S2ターム追試験の成績]]></title>
+            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/all/2026/1019110000.html</link>
+            <guid isPermaLink="false">1792335600000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/all/2026/1019110000.html</guid>
+            <pubDate>Sun, 18 Oct 2026 15:00:00 GMT</pubDate>
+            <description><![CDATA[発表時刻
+10月20日（火）午前10時～
+
+・成績表の確認
+UTASの「成績・定期試験」→「成績状況確認」画面から確認できます。
+必要に応じ各自プリントアウトして保管してください。
+
+※追試験を受験した科目の成績部分のみ上書きされます。
+※追試験の成績が本試験の成績を下回る場合は、元の成績が残ります。
+※「微分積分学①」および「線型代数学①」の追試験成績も反映されています。
+受験資格Aによる追試験で受験した場合、その成績が対応する「数学基礎理論演習」
+の評価に反映されることがあります。
+
+・成績評価の確認申請
+期間：10/20(火)10時～10/21(水)16時50分まで
+※ 教員への救済、部…]]></description>
+            <category>成績</category>
+            <category>1年生</category>
+            <category>2年生</category>
+        </item>
         <item>
             <title><![CDATA[【教職】令和９年度介護等体験講習会の開催日程について]]></title>
             <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/R9kaigotoukoushuukai.pdf</link>
@@ -1018,26 +1043,6 @@ UTASログイン後「成績・定期試験」→「定期試験（前期課程�
 
 ＜試験情報（対面試験）＞
 ○ 定期試験受験…]]></description>
-            <category>試験</category>
-            <category>1年生</category>
-            <category>2年生</category>
-            <category>重要</category>
-        </item>
-        <item>
-            <title><![CDATA[【試験】2026年度S1ターム「数理科学基礎」「物性化学」「生命科学」追試験登録について（5/29初掲・7/2, 7/31更新）]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/all/2026/0702190000.html</link>
-            <guid isPermaLink="false">1782918000000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/all/2026/0702190000.html</guid>
-            <pubDate>Wed, 01 Jul 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[2026年度S1ターム科目（数理科学基礎、物性化学、生命科学）の追試験に関する情報は、下記リンク先のPDFを参照してください。
-
-◆2026年度S1ターム「数理科学基礎」「物性化学」「生命科学」の追試験登録等について（5/26掲載）
- （↑申請資格に応じた申請方法、注意点について確認してください）。
-
-受験資格A (病気･事故など不測の事態により定期試験を欠席したと認められた者)
- 申請期間：2026年6月4日(木)11:00～6月10日(水)16:00【厳守】
-
-注）交通機関の事故･遅延を理由に追試験を申請する場合は､欠席した試験の実施日から2営業日(土日祝除く)以内に
- 申請を完了する必要…]]></description>
             <category>試験</category>
             <category>1年生</category>
             <category>2年生</category>
