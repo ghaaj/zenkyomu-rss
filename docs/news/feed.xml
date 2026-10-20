@@ -2,11 +2,25 @@
 <rss version="2.0">
     <channel>
         <title>前期課程（1・2年生） - 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/index.html#%22b2eb-65e40853ab14f%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/index.html#%22b1e9-65e40fb3f7146%22</link>
         <description></description>
-        <lastBuildDate>Tue, 20 Oct 2026 07:29:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Oct 2026 08:01:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[【2026A】英語中級（A2ターム）追加募集の抽選結果について]]></title>
+            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/all/2026/1020160000.html</link>
+            <guid isPermaLink="false">1792422000000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/all/2026/1020160000.html</guid>
+            <pubDate>Mon, 19 Oct 2026 15:00:00 GMT</pubDate>
+            <description><![CDATA[当選した科目は、UTAS「履修登録」画面に反映されています。必ず確認してください。
+
+※A2ターム科目を確認するためには、タブを「A2」に変更する必要があります。
+※申請に不備がない限り、希望したいずれかの授業に当選しています。
+※キャップ制の上限を超過している場合・同一セメスター内に英語中級(指定クラス型)の履修が重複している場合は登録されません。]]></description>
+            <category>履修</category>
+            <category>1年生</category>
+            <category>2年生</category>
+        </item>
         <item>
             <title><![CDATA[2年次専門科目について（理学部）（初回掲載：9/25）]]></title>
             <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/secondyear/2026/1020155528.html</link>
@@ -945,27 +959,6 @@ UTASの「成績・定期試験」→「成績（前期課程）」→「成績�
             <category>履修</category>
             <category>1年生</category>
             <category>PDF</category>
-        </item>
-        <item>
-            <title><![CDATA[【2026A】微分積分学②・線型代数学②を他クラス聴講する方へ〈対象科類に注意〉]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/takura_biseki2_senkei2_2026A.pdf</link>
-            <guid isPermaLink="false">1789657200000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/takura_biseki2_senkei2_2026A.pdf</guid>
-            <pubDate>Thu, 17 Sep 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[2026 年 9 月 18 日
-2 年生（降年生を除く）各位
-教養学部等教務課前期課程チーム
-微分積分学②・線型代数学②を他クラス聴講する方へ
-「微分積分学②」・「	「線型代数学②」は、それぞれ「微分積分学①」・「	「線型代数
-学①」とは別の科目となりますので、S2 タームで他クラス聴講した「微分積分学
-①」・「	「線型代数学①」と連続したクラスを自動的に履修することにはなりません。
-改めて、「微分積分学②」・「	「線型代数学②」それぞれについて、他クラス聴講の手
-続きが必要となります。
-以下、全ての手続きで「履修認定カード電子版」を用います。
-原則として、自身が所属する科類を対象とした講義・…]]></description>
-            <category>履修</category>
-            <category>2年生</category>
-            <category>PDF</category>
-            <category>重要</category>
         </item>
     </channel>
 </rss>

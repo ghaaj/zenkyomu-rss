@@ -2,11 +2,25 @@
 <rss version="2.0">
     <channel>
         <title>前期課程（1・2年生）教務課からのお知らせ - 前期課程（1・2年生）- 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/index.html#%22b6d9-65e4086160d9c%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/index.html#%22b619-65e40fc185ca0%22</link>
         <description></description>
-        <lastBuildDate>Tue, 20 Oct 2026 07:29:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Oct 2026 08:01:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[【2026A】英語中級（A2ターム）追加募集の抽選結果について]]></title>
+            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/all/2026/1020160000.html</link>
+            <guid isPermaLink="false">1792422000000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/all/2026/1020160000.html</guid>
+            <pubDate>Mon, 19 Oct 2026 15:00:00 GMT</pubDate>
+            <description><![CDATA[当選した科目は、UTAS「履修登録」画面に反映されています。必ず確認してください。
+
+※A2ターム科目を確認するためには、タブを「A2」に変更する必要があります。
+※申請に不備がない限り、希望したいずれかの授業に当選しています。
+※キャップ制の上限を超過している場合・同一セメスター内に英語中級(指定クラス型)の履修が重複している場合は登録されません。]]></description>
+            <category>履修</category>
+            <category>1年生</category>
+            <category>2年生</category>
+        </item>
         <item>
             <title><![CDATA[2年次専門科目について（理学部）（初回掲載：9/25）]]></title>
             <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/secondyear/2026/1020155528.html</link>
@@ -1050,30 +1064,6 @@ PEAK合計
             <category>2年生</category>
             <category>PDF</category>
             <category>重要</category>
-        </item>
-        <item>
-            <title><![CDATA[【2026A】スポーツ・身体運動部会が開講する実習科目の履修について（身体運動・健康科学実習Ⅱの履修削除フォーム含む）]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026A_shintai_rishu.pdf</link>
-            <guid isPermaLink="false">1789311600000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026A_shintai_rishu.pdf</guid>
-            <pubDate>Sun, 13 Sep 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[1 / 3
-2026年9月14日
-学部前期課程学生 各位
-スポーツ・身体運動部会
-教養学部等教務課前期課程チーム
-スポーツ・身体運動部会が開講する実習科目の履修について
-〔2026年度Ａセメスター〕
-１ 基礎科目「身体運動・健康科学実習Ⅱ」について
-注意：第１回目の授業については別途前期課程ウェブサイトに案内を掲載する。
-１）１年生（降年生含む）の履修について
-初回授業日までに、「身体運動・健康科学実習Ⅱ」が自動的に履修登録され
-る。ただし、過年度入学者で、すでに当該科目の単位を取得している者は除く。
-希望者、対象者は以下のとおり履修の削除ができる。なお、メディカルケア
-コースを受講する場合は…]]></description>
-            <category>履修</category>
-            <category>1年生</category>
-            <category>2年生</category>
-            <category>PDF</category>
         </item>
     </channel>
 </rss>

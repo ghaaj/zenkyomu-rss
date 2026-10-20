@@ -2,11 +2,25 @@
 <rss version="2.0">
     <channel>
         <title>教務課からのお知らせ（1年生） - 前期課程（1・2年生）- 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/firstyear/index.html#%22b6e5-65e408658a480%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/firstyear/index.html#%22b657-65e40fc6718ea%22</link>
         <description></description>
-        <lastBuildDate>Tue, 20 Oct 2026 07:29:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Oct 2026 08:01:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[【2026A】英語中級（A2ターム）追加募集の抽選結果について]]></title>
+            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/all/2026/1020160000.html</link>
+            <guid isPermaLink="false">1792422000000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/all/2026/1020160000.html</guid>
+            <pubDate>Mon, 19 Oct 2026 15:00:00 GMT</pubDate>
+            <description><![CDATA[当選した科目は、UTAS「履修登録」画面に反映されています。必ず確認してください。
+
+※A2ターム科目を確認するためには、タブを「A2」に変更する必要があります。
+※申請に不備がない限り、希望したいずれかの授業に当選しています。
+※キャップ制の上限を超過している場合・同一セメスター内に英語中級(指定クラス型)の履修が重複している場合は登録されません。]]></description>
+            <category>履修</category>
+            <category>1年生</category>
+            <category>2年生</category>
+        </item>
         <item>
             <title><![CDATA[【10月20日(火)】2026年度Sセメスター・S2ターム追試験の成績]]></title>
             <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/all/2026/1019110000.html</link>
@@ -1021,32 +1035,6 @@ UTASの「成績・定期試験」→「成績状況確認」画面から確認�
 ]]></description>
             <category>成績</category>
             <category>1年生</category>
-        </item>
-        <item>
-            <title><![CDATA[【試験】2026年度Sセメスター（S1・S2ターム）定期試験について（4/24初掲、7/2更新）]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/all/2026/0702200000.html</link>
-            <guid isPermaLink="false">1782918000000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/all/2026/0702200000.html</guid>
-            <pubDate>Wed, 01 Jul 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[2026年度Sセメスター（S1ターム・S2ターム）定期試験（本試験）
-に関する情報は以下をご確認ください。
-
-試験時間割等の情報は、今後変更される可能性があります。
-必ず、試験直前に最新の情報を確認してください。
-
-定期試験実施対象である前期課程科目の評価方法の確認（5/13公開）：
-UTASログイン後「成績・定期試験」→「定期試験（前期課程）」→「評価方法内容確認」
-
-自身が受験予定の定期試験情報の確認（5/25一部公開）：
-UTASログイン後「成績・定期試験」→「定期試験（前期課程）」→「定期試験情報確認」
-
-- - - - - - - - -
-
-＜試験情報（対面試験）＞
-○ 定期試験受験…]]></description>
-            <category>試験</category>
-            <category>1年生</category>
-            <category>2年生</category>
-            <category>重要</category>
         </item>
     </channel>
 </rss>
