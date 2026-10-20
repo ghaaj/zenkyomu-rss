@@ -2,11 +2,40 @@
 <rss version="2.0">
     <channel>
         <title>教務課からのお知らせ（2年生）- 前期課程（1・2年生） - 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/secondyear/index.html#%22b754-65e3ee730a96c%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/secondyear/index.html#%22b733-65e4035933229%22</link>
         <description></description>
-        <lastBuildDate>Tue, 20 Oct 2026 05:31:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Oct 2026 07:11:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2年次専門科目について（理学部）（初回掲載：9/25）]]></title>
+            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/secondyear/2026/1020155528.html</link>
+            <guid isPermaLink="false">1792422000000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/secondyear/2026/1020155528.html</guid>
+            <pubDate>Mon, 19 Oct 2026 15:00:00 GMT</pubDate>
+            <description><![CDATA[●各学部から情報提供があったものについて、随時更新します。
+不明な点がある場合は、各学部教務（担当）係へご確認ください。
+
+●専門科目の授業時間は開講学部により異なる場合があります。自身の履修する授業については個別のシラバスを確認し、学部・学科・担当教員の案内に従ってください。
+
+理学部
+
+[2026.10.20] 2026年度第2学年専門科目補習スケジュール 
+
+工学部
+
+計数工学科
+[2026.09.30] 2026Aセメスター_2年次専門科目開講日一覧 
+
+物理工学科
+
+[2026.09.25] 2026年度2年次専門科目「数学」開講のお知らせ
+
+文学部
+
+[2026.09.30] 【注…]]></description>
+            <category>履修</category>
+            <category>2年生</category>
+        </item>
         <item>
             <title><![CDATA[【法学部より】2026年度Aセメスター定期試験について]]></title>
             <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/secondyear/2026/1020141842.html</link>
@@ -389,31 +418,6 @@ UTAS「履修登録（前期課程）」画面に反映されますので、必�
             <category>1年生</category>
             <category>2年生</category>
             <enclosure url="https://www.ms.u-tokyo.ac.jp/sugaku/e305b008b6a7701808c2afb9a2445c04bb183278.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[2年次専門科目について（工学部、文学部・一部追加修正）（初回掲載：9/25）]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/secondyear/2026/0930092528.html</link>
-            <guid isPermaLink="false">1790694000000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/secondyear/2026/0930092528.html</guid>
-            <pubDate>Tue, 29 Sep 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[●各学部から情報提供があったものについて、随時更新します。
-不明な点がある場合は、各学部教務（担当）係へご確認ください。
-
-●専門科目の授業時間は開講学部により異なる場合があります。自身の履修する授業については個別のシラバスを確認し、学部・学科・担当教員の案内に従ってください。
-
-工学部
-
-計数工学科
-[2026.09.30] 2026Aセメスター_2年次専門科目開講日一覧 
-
-物理工学科
-
-[2026.09.25] 2026年度2年次専門科目「数学」開講のお知らせ
-
-文学部
-
-[2026.09.30] 【注意】UTAS 上で正しく表示されない科目について（文・2026A持ち出し専門科目）_2…]]></description>
-            <category>履修</category>
-            <category>2年生</category>
         </item>
         <item>
             <title><![CDATA[【2026A】A1ターム・A2ターム基礎実験を未取得の2年理科生へ（補修について）]]></title>
