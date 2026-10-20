@@ -2,11 +2,21 @@
 <rss version="2.0">
     <channel>
         <title>前期課程（1・2年生） - 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/index.html#%22b418-65e27dff64b71%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/index.html#%22b3a6-65e3dcfa613ae%22</link>
         <description></description>
-        <lastBuildDate>Mon, 19 Oct 2026 02:01:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Oct 2026 04:11:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[【 グローバリゼーションオフィスより 】 11/5（木）GS/GSA 「坐禅 ZAZEN」体験・国際交流イベント開催のお知らせ]]></title>
+            <link>https://www.globalkomaba.c.u-tokyo.ac.jp/event/nid00002363.html</link>
+            <guid isPermaLink="false">1792422000000+https://www.globalkomaba.c.u-tokyo.ac.jp/event/nid00002363.html</guid>
+            <pubDate>Mon, 19 Oct 2026 15:00:00 GMT</pubDate>
+            <description><![CDATA[グローバル駒場サイトは東京大学 大学院総合文化研究科・教養学部によるグローバルサイトです。駒場キャンパスで学ばれる方、駒場キャンパスから留学したい方、国際交流を希望の方へ向けた情報発信や国際関連リソースを配信しております。]]></description>
+            <category>その他</category>
+            <category>1年生</category>
+            <category>2年生</category>
+        </item>
         <item>
             <title><![CDATA[【10月20日(火)】2026年度Sセメスター・S2ターム追試験の成績]]></title>
             <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/all/2026/1019110000.html</link>
@@ -948,26 +958,6 @@ UTASの「成績・定期試験」→「成績（前期課程）」→「成績�
             <category>1年生</category>
             <category>2年生</category>
             <category>重要</category>
-        </item>
-        <item>
-            <title><![CDATA[【2026A】「英語中級・上級」抽選登録、および指定クラス型の履修削除について（初回掲載：9/10、9/17再掲）]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026A_eigochukyu-jokyu_chusen.pdf</link>
-            <guid isPermaLink="false">1789570800000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026A_eigochukyu-jokyu_chusen.pdf</guid>
-            <pubDate>Wed, 16 Sep 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[1 / 2
-初回掲載：2026 年 9 月 10 日
-2026 年度 A セメスター（A1 ターム・A2 ターム）英語中級・上級抽選登録について
-総合科目Ｌ系列「英語中級」および「英語上級」は、抽選対象科目です。履修を希望する場合は、以下の要領
-で抽選登録を行ってください。
-◆【英語中級・上級 抽選登録について】※次ページ「注意事項」も確認すること。
-登録期間：9 月 17 日（木）午前 10：00～9 月 24 日（木）12：00 正午【厳守】
-※登録期間開始までにシラバスを公開予定です。
-登録方法：UTAS トップ画面＞履修＞履修登録（前期課程）＞抽選対象科目希望登録から登録
-抽選結果：1…]]></description>
-            <category>履修</category>
-            <category>1年生</category>
-            <category>2年生</category>
-            <category>PDF</category>
         </item>
     </channel>
 </rss>
