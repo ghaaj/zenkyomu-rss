@@ -2,11 +2,32 @@
 <rss version="2.0">
     <channel>
         <title>前期課程（1・2年生）教務課からのお知らせ - 前期課程（1・2年生）- 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/index.html#%22b772-65e27e079d33b%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/index.html#%22b6fa-65e3ee6989f75%22</link>
         <description></description>
-        <lastBuildDate>Mon, 19 Oct 2026 02:01:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Oct 2026 05:31:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[【法学部より】2026年度Aセメスター定期試験について]]></title>
+            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/secondyear/2026/1020141842.html</link>
+            <guid isPermaLink="false">1792422000000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/secondyear/2026/1020141842.html</guid>
+            <pubDate>Mon, 19 Oct 2026 15:00:00 GMT</pubDate>
+            <description><![CDATA[履修登録をしていない者の答案の取扱いについて
+
+法学部における2026年度Aセメスター定期試験は、法学部ウェブサイトに
+掲載の「2026年度Aセメスター法学部定期試験時間表」のとおり実施します。
+ なお、本学部においては履修登録をしていない者の答案は採点しないこと
+としています。よって、本学部以外の学生においても履修登録をしていない者
+は定期試験を受験しても採点されません。
+
+2026年10月20日 法 学 部
+
+【法学部ウェブサイト・試験関係】
+2026年度Aセメスター法学部定期試験時間表
+https://www.j.u-tokyo.ac.jp/undergraduate/students/exam/]]></description>
+            <category>試験</category>
+            <category>2年生</category>
+        </item>
         <item>
             <title><![CDATA[【10月20日(火)】2026年度Sセメスター・S2ターム追試験の成績]]></title>
             <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/all/2026/1019110000.html</link>
@@ -1049,23 +1070,6 @@ PEAK合計
             <category>1年生</category>
             <category>2年生</category>
             <category>PDF</category>
-        </item>
-        <item>
-            <title><![CDATA[2026年度Ａセメスター（A1ターム・A2ターム）のUTASシラバス公開について]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/all/2026/0914110000.html</link>
-            <guid isPermaLink="false">1789311600000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/all/2026/0914110000.html</guid>
-            <pubDate>Sun, 13 Sep 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[シラバスの公開について
-
-9月14日より、2026年度Ａセメスター（A1ターム・A2ターム）に開講される科目のシラバスを公開しました。各授業の詳細についてはシラバスを確認してください。
-シラバスは UTAS のほか、電子ブック形式で公開しています。電子ブックは「シラバス -> 2026年度」からご確認ください。同ページにて時間割表（PDF）も公開しています。
-※時間割表（冊子）の配布は9月24日よりアドミニストレーション棟1階ロビーにて行います。
-※シラバスの内容は今後変更となる可能性があり、電子ブック・時間割表には反映されません。必ずUTASから最新の情報を確認してください。
-※教室の情報に…]]></description>
-            <category>授業</category>
-            <category>1年生</category>
-            <category>2年生</category>
-            <category>重要</category>
         </item>
     </channel>
 </rss>

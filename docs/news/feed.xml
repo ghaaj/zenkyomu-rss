@@ -2,11 +2,32 @@
 <rss version="2.0">
     <channel>
         <title>前期課程（1・2年生） - 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/index.html#%22b3a6-65e3dcfa613ae%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/index.html#%22b30c-65e3ee5c011d3%22</link>
         <description></description>
-        <lastBuildDate>Tue, 20 Oct 2026 04:11:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Oct 2026 05:31:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[【法学部より】2026年度Aセメスター定期試験について]]></title>
+            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/secondyear/2026/1020141842.html</link>
+            <guid isPermaLink="false">1792422000000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/secondyear/2026/1020141842.html</guid>
+            <pubDate>Mon, 19 Oct 2026 15:00:00 GMT</pubDate>
+            <description><![CDATA[履修登録をしていない者の答案の取扱いについて
+
+法学部における2026年度Aセメスター定期試験は、法学部ウェブサイトに
+掲載の「2026年度Aセメスター法学部定期試験時間表」のとおり実施します。
+ なお、本学部においては履修登録をしていない者の答案は採点しないこと
+としています。よって、本学部以外の学生においても履修登録をしていない者
+は定期試験を受験しても採点されません。
+
+2026年10月20日 法 学 部
+
+【法学部ウェブサイト・試験関係】
+2026年度Aセメスター法学部定期試験時間表
+https://www.j.u-tokyo.ac.jp/undergraduate/students/exam/]]></description>
+            <category>試験</category>
+            <category>2年生</category>
+        </item>
         <item>
             <title><![CDATA[【 グローバリゼーションオフィスより 】 11/5（木）GS/GSA 「坐禅 ZAZEN」体験・国際交流イベント開催のお知らせ]]></title>
             <link>https://www.globalkomaba.c.u-tokyo.ac.jp/event/nid00002363.html</link>
@@ -940,23 +961,6 @@ UTASの「成績・定期試験」→「成績（前期課程）」→「成績�
             <category>履修</category>
             <category>2年生</category>
             <category>PDF</category>
-            <category>重要</category>
-        </item>
-        <item>
-            <title><![CDATA[【試験】2026年度Ｓセメスター・S2ターム追試験について（追試験登録）（7/2初回掲載・9/17更新）]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/all/2026/0917110000.html</link>
-            <guid isPermaLink="false">1789570800000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/all/2026/0917110000.html</guid>
-            <pubDate>Wed, 16 Sep 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[（重要・9/9 15:00更新）
-「情報」の受験資格Cの申請について、9月9日（水）11:00 ～ 9月9日（水）15:00の間、対象者が申請できない状態となっていました。ご不便をおかけし大変申し訳ございません。
-9月9日15:00現在では申請可能な状態となっていますので、追試験の申請を希望する場合は、申請期間内に遺漏なく手続きを行ってください。
-
-2026年度Ｓセメスター・S2ターム追試験に関する情報の詳細は、各リンク先のPDFを参照してください。
-いずれの受験資格についても、締め切り後の申請・登録は一切受け付けられません。
-問題が発生した場合は、必ず各登録・申請の期間内に教務課に問い合わせ…]]></description>
-            <category>試験</category>
-            <category>1年生</category>
-            <category>2年生</category>
             <category>重要</category>
         </item>
     </channel>
