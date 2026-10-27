@@ -2,11 +2,22 @@
 <rss version="2.0">
     <channel>
         <title>前期課程（1・2年生） - 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/index.html#%22b244-65ebac6e41ef1%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/index.html#%22b22b-65ec7220147cd%22</link>
         <description></description>
-        <lastBuildDate>Mon, 26 Oct 2026 09:21:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2026 00:01:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[【海洋アライアンス連携研究機構事務局より】第21回東京大学の海研究シンポジウム「海洋環境変化と水産資源の未来― 観測・研究・地域連携から考える ―」 (2026/11/25)]]></title>
+            <link>https://www.oa.u-tokyo.ac.jp/news/0095/index.html</link>
+            <guid isPermaLink="false">1793026800000+https://www.oa.u-tokyo.ac.jp/news/0095/index.html</guid>
+            <pubDate>Mon, 26 Oct 2026 15:00:00 GMT</pubDate>
+            <description><![CDATA[海洋アライアンスからのお知らせです。]]></description>
+            <category>その他</category>
+            <category>1年生</category>
+            <category>2年生</category>
+            <enclosure url="https://www.oa.u-tokyo.ac.jp/news/0095/img/pic01.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[【教養教育高度化機構より】<<水の多様性を読み解くワークショップ>> 「水を知る－知っているようで知らない"水"の世界」11/12(木)17：00-19：00]]></title>
             <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/all/2026/1023092801.html</link>
@@ -936,27 +947,6 @@ UTASの「成績・定期試験」→「成績（前期課程）」→「成績�
             <category>成績</category>
             <category>1年生</category>
             <category>2年生</category>
-        </item>
-        <item>
-            <title><![CDATA[【教育学部より】2027年4月教育学部進学後の学生証用写真データの提出について（〆10/14）]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/09_Education-20260924.pdf</link>
-            <guid isPermaLink="false">1790175600000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/09_Education-20260924.pdf</guid>
-            <pubDate>Wed, 23 Sep 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[2027 年 4 月教育学部進学後の学生証用写真データの提出について
-2027 年 4 月教育学部進学内定者 各位
-2027 年 4 月教育学部進学後の学生証用写真データの提出について、以下の要領により提
-出してください。
-－期限までに提出がない場合、2027 年 4 月教育学部進学後の学生証を交付することがで
-きません。
-－図書館等の学内施設の利用、身分の証明、定期券等の購入、学割利用等に支障をきたし
-ますので、期限厳守の上、必ず提出してください。
-データ提出期間：
-2026 年 9 月 25 日(金)17:00～10 月 14 日(水)17:00
-データ形式：
-・2026 年 9 月 25…]]></description>
-            <category>進学</category>
-            <category>2年生</category>
-            <category>PDF</category>
         </item>
     </channel>
 </rss>

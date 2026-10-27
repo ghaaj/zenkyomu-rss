@@ -2,11 +2,22 @@
 <rss version="2.0">
     <channel>
         <title>前期課程（1・2年生）その他のお知らせ - 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/index.html#%22a784-65e7761ea2506%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/index.html#%22a7b7-65ec72275eb1a%22</link>
         <description></description>
-        <lastBuildDate>Fri, 23 Oct 2026 01:01:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2026 00:01:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[【海洋アライアンス連携研究機構事務局より】第21回東京大学の海研究シンポジウム「海洋環境変化と水産資源の未来― 観測・研究・地域連携から考える ―」 (2026/11/25)]]></title>
+            <link>https://www.oa.u-tokyo.ac.jp/news/0095/index.html</link>
+            <guid isPermaLink="false">1793026800000+https://www.oa.u-tokyo.ac.jp/news/0095/index.html</guid>
+            <pubDate>Mon, 26 Oct 2026 15:00:00 GMT</pubDate>
+            <description><![CDATA[海洋アライアンスからのお知らせです。]]></description>
+            <category>その他</category>
+            <category>1年生</category>
+            <category>2年生</category>
+            <enclosure url="https://www.oa.u-tokyo.ac.jp/news/0095/img/pic01.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[【教養教育高度化機構より】<<水の多様性を読み解くワークショップ>> 「水を知る－知っているようで知らない"水"の世界」11/12(木)17：00-19：00]]></title>
             <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/all/2026/1023092801.html</link>
@@ -745,16 +756,6 @@ http://www.icepp.s.u-tokyo.ac.jp/collaboration/quantum-summercamp.html
             <guid isPermaLink="false">1781017200000+https://univtokyo.sharepoint.com/:b:/s/msteams_410cc8-2/IQDQMTjUaNYoSJJwBrmTm1WMAWeERz5IC2iAtcVV2tA4JAs</guid>
             <pubDate>Tue, 09 Jun 2026 15:00:00 GMT</pubDate>
             <description><![CDATA[403 FORBIDDEN]]></description>
-            <category>その他</category>
-            <category>1年生</category>
-            <category>2年生</category>
-        </item>
-        <item>
-            <title><![CDATA[【グローバリゼーションオフィスより】 「KARUTA-Card Quiz Night! カルタで国際交流」6月17日（水）18:50 - 20:30 開催のお知らせ]]></title>
-            <link>https://www.globalkomaba.c.u-tokyo.ac.jp/event/nid00002240.html</link>
-            <guid isPermaLink="false">1780930800000+https://www.globalkomaba.c.u-tokyo.ac.jp/event/nid00002240.html</guid>
-            <pubDate>Mon, 08 Jun 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[グローバル駒場サイトは東京大学 大学院総合文化研究科・教養学部によるグローバルサイトです。駒場キャンパスで学ばれる方、駒場キャンパスから留学したい方、国際交流を希望の方へ向けた情報発信や国際関連リソースを配信しております。]]></description>
             <category>その他</category>
             <category>1年生</category>
             <category>2年生</category>
