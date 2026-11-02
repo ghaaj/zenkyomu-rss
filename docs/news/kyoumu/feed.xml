@@ -2,11 +2,29 @@
 <rss version="2.0">
     <channel>
         <title>前期課程（1・2年生）教務課からのお知らせ - 前期課程（1・2年生）- 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/index.html#%22b6ff-65f498db42723%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/index.html#%22b6ab-65f49acd54c54%22</link>
         <description></description>
-        <lastBuildDate>Mon, 02 Nov 2026 11:41:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Nov 2026 11:51:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[【法学部より】学生証用写真データ未提出の方へ　]]></title>
+            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/facultyoflaw_info_20261102.pdf</link>
+            <guid isPermaLink="false">1793545200000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/facultyoflaw_info_20261102.pdf</guid>
+            <pubDate>Sun, 01 Nov 2026 15:00:00 GMT</pubDate>
+            <description><![CDATA[学生証用顔写真データの提出について
+１０月５日付で周知された別紙掲示のとおり、学生証用顔写真デ
+ータの提出が締め切られました。未提出の方は、至急、法学部学
+部チームまでご連絡ください。
+【問い合わせ先】
+法学部学部チーム
+gakubu.j[at]gs.mail.u-tokyo.ac.jp
+（[at]は@に変換してメールを送ること）
+2026 年 11 月 2 日 法 学 部]]></description>
+            <category>進学</category>
+            <category>2年生</category>
+            <category>PDF</category>
+        </item>
         <item>
             <title><![CDATA[【試験】2026年度Aセメスター（A1・A2ターム）専門科目試験について（10/8初掲、11/2更新）]]></title>
             <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/secondyear/2026/1102120000.html</link>
@@ -1050,30 +1068,6 @@ PEAK合計
             <category>2年生</category>
             <category>PDF</category>
             <category>重要</category>
-        </item>
-        <item>
-            <title><![CDATA[【2026A】スポーツ・身体運動部会が開講する実習科目の履修について（身体運動・健康科学実習Ⅱの履修削除フォーム含む）]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026A_shintai_rishu.pdf</link>
-            <guid isPermaLink="false">1789311600000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026A_shintai_rishu.pdf</guid>
-            <pubDate>Sun, 13 Sep 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[1 / 3
-2026年9月14日
-学部前期課程学生 各位
-スポーツ・身体運動部会
-教養学部等教務課前期課程チーム
-スポーツ・身体運動部会が開講する実習科目の履修について
-〔2026年度Ａセメスター〕
-１ 基礎科目「身体運動・健康科学実習Ⅱ」について
-注意：第１回目の授業については別途前期課程ウェブサイトに案内を掲載する。
-１）１年生（降年生含む）の履修について
-初回授業日までに、「身体運動・健康科学実習Ⅱ」が自動的に履修登録され
-る。ただし、過年度入学者で、すでに当該科目の単位を取得している者は除く。
-希望者、対象者は以下のとおり履修の削除ができる。なお、メディカルケア
-コースを受講する場合は…]]></description>
-            <category>履修</category>
-            <category>1年生</category>
-            <category>2年生</category>
-            <category>PDF</category>
         </item>
     </channel>
 </rss>
