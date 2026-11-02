@@ -2,11 +2,31 @@
 <rss version="2.0">
     <channel>
         <title>教務課からのお知らせ（2年生）- 前期課程（1・2年生） - 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/secondyear/index.html#%22b6e6-65f4248573381%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/secondyear/index.html#%22b6e5-65f444d6c735f%22</link>
         <description></description>
-        <lastBuildDate>Mon, 02 Nov 2026 03:01:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Nov 2026 05:21:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[【試験】2026年度Aセメスター（A1・A2ターム）専門科目試験について（10/8初掲、11/2更新）]]></title>
+            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/secondyear/2026/1102120000.html</link>
+            <guid isPermaLink="false">1793545200000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/secondyear/2026/1102120000.html</guid>
+            <pubDate>Sun, 01 Nov 2026 15:00:00 GMT</pubDate>
+            <description><![CDATA[2026年度Aセメスター（A1・A2ターム）持ち出し専門科目試験については、下記をご覧ください。
+なお、未定のものについては決定次第更新しますので、随時最新情報を確認してください。
+
+理学部
+・理学部数学科（Aセメスター中間試験日程表）（10/8掲載）
+・A1ターム科目定期試験（10/29掲載）
+
+工学部
+・A1ターム科目定期試験（10/29掲載）
+
+教育学部
+・2026年度 教育学部 修了試験等実施方法一覧（A1）（11/2掲載）]]></description>
+            <category>試験</category>
+            <category>2年生</category>
+        </item>
         <item>
             <title><![CDATA[2年次専門科目について（文学部一部修正）（初回掲載：9/25）]]></title>
             <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/secondyear/2026/1102115328.html</link>
@@ -34,23 +54,6 @@
 
 [2026.11.02] 【注…]]></description>
             <category>履修</category>
-            <category>2年生</category>
-        </item>
-        <item>
-            <title><![CDATA[【試験】2026年度Aセメスター（A1・A2ターム）専門科目試験について（10/8初掲、10/29再掲）]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/secondyear/2026/1029120000.html</link>
-            <guid isPermaLink="false">1793199600000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/secondyear/2026/1029120000.html</guid>
-            <pubDate>Wed, 28 Oct 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[2026年度Aセメスター（A1・A2ターム）持ち出し専門科目試験については、下記をご覧ください。
-なお、未定のものについては決定次第更新しますので、随時最新情報を確認してください。
-
-理学部
-・理学部数学科（Aセメスター中間試験日程表）（10/8掲載）
-・A1ターム科目定期試験（10/29掲載）
-
-工学部
-・A1ターム科目定期試験（10/29掲載）]]></description>
-            <category>試験</category>
             <category>2年生</category>
         </item>
         <item>
