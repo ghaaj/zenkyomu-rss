@@ -2,11 +2,33 @@
 <rss version="2.0">
     <channel>
         <title>前期課程（1・2年生）その他のお知らせ - 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/index.html#%22a7ff-65f807c5163a9%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/index.html#%22a803-65f81c828dc46%22</link>
         <description></description>
-        <lastBuildDate>Thu, 05 Nov 2026 05:11:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Nov 2026 06:41:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[【駒場アカデミック・ライティング・センター（CAWK）より】]]></title>
+            <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/all/2026/1105153235.html</link>
+            <guid isPermaLink="false">1793804400000+https://www.c.u-tokyo.ac.jp/zenki/news/others/all/2026/1105153235.html</guid>
+            <pubDate>Wed, 04 Nov 2026 15:00:00 GMT</pubDate>
+            <description><![CDATA[駒場アカデミック・ライティング・センター（CAWK）です。
+本センターでは、在学生の学習や課題、研究の支援をおこなっています。
+この度は、1－2年生向けのワークショップを開催します。
+
+ぜひ、ふるってご参加ください。
+
+日時：2026年11月9日（月）17:00～18:30
+開催場所：10号館308教室
+参加申込：参加登録フォーム
+※事前申込必須：参加登録フォームに11月8日（日）24時までにご登録ください。
+
+概要：
+大学レポートの基本構造を理解し、作文・感想文との違いや、序論・本論・結論の役割、パラグラフの構造、レポートの型について学ぶ前半と、締切から逆算したレポート作成計画の立て方を学ぶ…]]></description>
+            <category>その他</category>
+            <category>1年生</category>
+            <category>2年生</category>
+        </item>
         <item>
             <title><![CDATA[【グローバル教育センター駒場支部より】「香道ワークショップ」日本文化体験×国際交流イベントのお知らせ（11/16㈪）]]></title>
             <link>https://www.globalkomaba.c.u-tokyo.ac.jp/event/nid00002371.html</link>
@@ -736,15 +758,6 @@ FLOWの学生も歓迎します。お気軽にご参加下さい。
             <category>1年生</category>
             <category>2年生</category>
             <category>PDF</category>
-        </item>
-        <item>
-            <title><![CDATA[【相談支援研究開発センターより】6月22日開催　"UTokyo Wellbeing Day"のご案内]]></title>
-            <link>https://dcs.adm.u-tokyo.ac.jp/information/2432/</link>
-            <guid isPermaLink="false">1781190000000+https://dcs.adm.u-tokyo.ac.jp/information/2432/</guid>
-            <pubDate>Thu, 11 Jun 2026 15:00:00 GMT</pubDate>
-            <category>その他</category>
-            <category>1年生</category>
-            <category>2年生</category>
         </item>
     </channel>
 </rss>

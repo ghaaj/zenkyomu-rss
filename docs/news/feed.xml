@@ -2,11 +2,33 @@
 <rss version="2.0">
     <channel>
         <title>前期課程（1・2年生） - 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/index.html#%22b301-65f807bde5681%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/index.html#%22b22a-65f81c7b496ad%22</link>
         <description></description>
-        <lastBuildDate>Thu, 05 Nov 2026 05:11:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Nov 2026 06:41:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[【駒場アカデミック・ライティング・センター（CAWK）より】]]></title>
+            <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/all/2026/1105153235.html</link>
+            <guid isPermaLink="false">1793804400000+https://www.c.u-tokyo.ac.jp/zenki/news/others/all/2026/1105153235.html</guid>
+            <pubDate>Wed, 04 Nov 2026 15:00:00 GMT</pubDate>
+            <description><![CDATA[駒場アカデミック・ライティング・センター（CAWK）です。
+本センターでは、在学生の学習や課題、研究の支援をおこなっています。
+この度は、1－2年生向けのワークショップを開催します。
+
+ぜひ、ふるってご参加ください。
+
+日時：2026年11月9日（月）17:00～18:30
+開催場所：10号館308教室
+参加申込：参加登録フォーム
+※事前申込必須：参加登録フォームに11月8日（日）24時までにご登録ください。
+
+概要：
+大学レポートの基本構造を理解し、作文・感想文との違いや、序論・本論・結論の役割、パラグラフの構造、レポートの型について学ぶ前半と、締切から逆算したレポート作成計画の立て方を学ぶ…]]></description>
+            <category>その他</category>
+            <category>1年生</category>
+            <category>2年生</category>
+        </item>
         <item>
             <title><![CDATA[【グローバル教育センター駒場支部より】「香道ワークショップ」日本文化体験×国際交流イベントのお知らせ（11/16㈪）]]></title>
             <link>https://www.globalkomaba.c.u-tokyo.ac.jp/event/nid00002371.html</link>
@@ -889,27 +911,6 @@ UTAS「履修登録（前期課程）」画面に反映されますので、必�
 ]]></description>
             <category>進学</category>
             <category>2年生</category>
-        </item>
-        <item>
-            <title><![CDATA[2Sセメスター終了後に降年する学生のクラス変更（9/25初回掲載）]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/kounen260925.pdf</link>
-            <guid isPermaLink="false">1790262000000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/kounen260925.pdf</guid>
-            <pubDate>Thu, 24 Sep 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[→ 新クラス
-文科一・二類 12 9
-理科一類 18 17
-理科二・三類 12 7
-１Ａセメスターに降年する場合の履修手続きに係る留意事項
-2026年9月25日 教務課
-上記に自身の該当クラスが記載されていない場合は、クラス変更はありません。
-「教務課からのお知らせ」に掲出済みの以下通知もあわせてご確認ください。
-２Ｓセメスター終了後に
-降年する学生のクラス変更
-旧クラス]]></description>
-            <category>学籍</category>
-            <category>2年生</category>
-            <category>PDF</category>
-            <category>重要</category>
         </item>
     </channel>
 </rss>
