@@ -2,11 +2,36 @@
 <rss version="2.0">
     <channel>
         <title>前期課程（1・2年生）教務課からのお知らせ - 前期課程（1・2年生）- 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/index.html#%22b6ab-65f49acd54c54%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/index.html#%22b63f-65f8391a09b2c%22</link>
         <description></description>
-        <lastBuildDate>Mon, 02 Nov 2026 11:51:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Nov 2026 08:51:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[前期課程１年生向け進学選択ガイダンス【１１月～１２月開催】]]></title>
+            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026A_grade1_guidance_zenki.pdf</link>
+            <guid isPermaLink="false">1793804400000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026A_grade1_guidance_zenki.pdf</guid>
+            <pubDate>Wed, 04 Nov 2026 15:00:00 GMT</pubDate>
+            <description><![CDATA[前期課程１年生向け
+進学選択ガイダンス【１１月～１２月開催】
+令 和 ８ 年 １ １ 月 ５ 日
+東 京 大 学
+２０２８年度進学選択（２０２７年実施）の対象となる＜前期課程１年生の方＞
+に向けて、次のとおり進学選択についてのガイダンスを開催します。
+1.のガイダンス動画 ・ガイダンス資料 を 確認し、制度・手 続 を理解したうえで 、
+2.の後期課程のガイダンスに参加してください。
+１．２０２８年度進学選択ガイダンス動画
+公開開始日：
+２０２６年１１月中旬
+対 象：
+前期課程１年生
+公開方法：
+Microsoft Stream（上記の対象者のみに限定します）
+※UTokyo Account …]]></description>
+            <category>進学</category>
+            <category>1年生</category>
+            <category>PDF</category>
+        </item>
         <item>
             <title><![CDATA[【法学部より】学生証用写真データ未提出の方へ　]]></title>
             <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/facultyoflaw_info_20261102.pdf</link>
@@ -1043,31 +1068,6 @@ PEAK合計
 ]]></description>
             <category>授業</category>
             <category>1年生</category>
-        </item>
-        <item>
-            <title><![CDATA[【重要】2026年度Ａセメスター（A1・A2ターム）履修登録についてのお知らせ]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026A_rishuu_flyer.pdf</link>
-            <guid isPermaLink="false">1789311600000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026A_rishuu_flyer.pdf</guid>
-            <pubDate>Sun, 13 Sep 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[１・2 年生 各位
-２０２6 年 A セメスター（A1・A2 ターム）
-履修登録について
-履修登録について
-前期課程ホームページおよび UTAS 掲示板に「履修登録についてのお知ら
-せ」を掲載しました。各自ダウンロードし、『履修の手引き』を参照した上で、所
-定の期日および時刻までに履修登録に必要な手続きを行ってください。期間
-外の履修登録は受け付けられませんので注意してください。
-＜注意事項＞
-「履修登録についてのお知らせ」は必ず自身の該当する年次のお知らせを参
-照してください。２年生と１年生では履修登録期間が異なるので注意してくだ
-さい。
-※降年生の各種手続は１年生対象のお知らせを参照してください。
-]]></description>
-            <category>履修</category>
-            <category>1年生</category>
-            <category>2年生</category>
-            <category>PDF</category>
-            <category>重要</category>
         </item>
     </channel>
 </rss>

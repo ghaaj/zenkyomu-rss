@@ -2,11 +2,36 @@
 <rss version="2.0">
     <channel>
         <title>前期課程（1・2年生） - 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/index.html#%22b279-65f82a2178637%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/index.html#%22b2c6-65f83910e3e7b%22</link>
         <description></description>
-        <lastBuildDate>Thu, 05 Nov 2026 07:51:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Nov 2026 08:51:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[前期課程１年生向け進学選択ガイダンス【１１月～１２月開催】]]></title>
+            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026A_grade1_guidance_zenki.pdf</link>
+            <guid isPermaLink="false">1793804400000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026A_grade1_guidance_zenki.pdf</guid>
+            <pubDate>Wed, 04 Nov 2026 15:00:00 GMT</pubDate>
+            <description><![CDATA[前期課程１年生向け
+進学選択ガイダンス【１１月～１２月開催】
+令 和 ８ 年 １ １ 月 ５ 日
+東 京 大 学
+２０２８年度進学選択（２０２７年実施）の対象となる＜前期課程１年生の方＞
+に向けて、次のとおり進学選択についてのガイダンスを開催します。
+1.のガイダンス動画 ・ガイダンス資料 を 確認し、制度・手 続 を理解したうえで 、
+2.の後期課程のガイダンスに参加してください。
+１．２０２８年度進学選択ガイダンス動画
+公開開始日：
+２０２６年１１月中旬
+対 象：
+前期課程１年生
+公開方法：
+Microsoft Stream（上記の対象者のみに限定します）
+※UTokyo Account …]]></description>
+            <category>進学</category>
+            <category>1年生</category>
+            <category>PDF</category>
+        </item>
         <item>
             <title><![CDATA[【駒場アカデミック・ライティング・センター（CAWK）より】作文からレポートへ ー大学レポートの基本構造をつかむー]]></title>
             <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/all/2026/1105153235.html</link>
@@ -873,44 +898,6 @@ UTAS「履修登録（前期課程）」画面に反映されますので、必�
             <category>1年生</category>
             <category>2年生</category>
             <category>PDF</category>
-        </item>
-        <item>
-            <title><![CDATA[（再掲）【進学選択】2027年度進学内定者　各学部ガイダンス日程（9/3法学部追記）]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/secondyear/2026/0925170000.html</link>
-            <guid isPermaLink="false">1790262000000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/secondyear/2026/0925170000.html</guid>
-            <pubDate>Thu, 24 Sep 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[進学内定者の皆様、誠におめでとうございます。
-後期課程各学部の内定者ガイダンスについては、以下のリンクよりご確認ください。
-
-※法学部と経済学部は内定者ガイダンスを行わないので、リンク先の資料・ウェブページをよく確認してください。
-
-◆法学部
-※【9/3追加】関連情報：Aセメスター開講法学部専門科目の履修について
-
-◆医学部
-
-◆工学部
-
-◆文学部
-
-◆理学部
-
-◆農学部
-
-◆経済学部
-
-※関連情報：令和8（2026）年度経済学部持出専門科目について
-
-◆教養学部
-
-◆教育学部
-
-◆薬学部
-
-なお、都合によりガイダンスに出席が難しい場合は、ガイダンス実施先の各学部学科等に問い合わせてください。
-]]></description>
-            <category>進学</category>
-            <category>2年生</category>
         </item>
     </channel>
 </rss>
