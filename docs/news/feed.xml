@@ -2,11 +2,21 @@
 <rss version="2.0">
     <channel>
         <title>前期課程（1・2年生） - 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/index.html#%22b2fa-65f7e5440362e%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/index.html#%22b301-65f807bde5681%22</link>
         <description></description>
-        <lastBuildDate>Thu, 05 Nov 2026 02:41:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Nov 2026 05:11:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[【グローバル教育センター駒場支部より】「香道ワークショップ」日本文化体験×国際交流イベントのお知らせ（11/16㈪）]]></title>
+            <link>https://www.globalkomaba.c.u-tokyo.ac.jp/event/nid00002371.html</link>
+            <guid isPermaLink="false">1793804400000+https://www.globalkomaba.c.u-tokyo.ac.jp/event/nid00002371.html</guid>
+            <pubDate>Wed, 04 Nov 2026 15:00:00 GMT</pubDate>
+            <description><![CDATA[グローバル駒場サイトは東京大学 大学院総合文化研究科・教養学部によるグローバルサイトです。駒場キャンパスで学ばれる方、駒場キャンパスから留学したい方、国際交流を希望の方へ向けた情報発信や国際関連リソースを配信しております。]]></description>
+            <category>その他</category>
+            <category>1年生</category>
+            <category>2年生</category>
+        </item>
         <item>
             <title><![CDATA[【法学部より】学生証用写真データ未提出の方へ　]]></title>
             <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/facultyoflaw_info_20261102.pdf</link>
@@ -900,43 +910,6 @@ UTAS「履修登録（前期課程）」画面に反映されますので、必�
             <category>2年生</category>
             <category>PDF</category>
             <category>重要</category>
-        </item>
-        <item>
-            <title><![CDATA[【窓口】2026年10～11月窓口業務時間]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/officehour202610-11.pdf</link>
-            <guid isPermaLink="false">1790262000000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/officehour202610-11.pdf</guid>
-            <pubDate>Thu, 24 Sep 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[2026年度10月～11月の窓口業務時間
-学生支援課
-⑥～⑧
-Student Support
-Division
-教 務 課
-⓪～⑤
-Academic Affairs Division
-ｱﾄﾞﾐﾆｽﾄﾚｰｼｮﾝ棟1階
-証 明 書
-自動発行機
-1F, Administration
-Building
-Automatic Certificate
-Issuing Machine
-月日
-Date ③前期課程
-チーム
-③Junior
-Division
-Section
-⓪国際交流支援チーム
-②国際化推進チーム
-④後期課程チーム
-⑤総合文化大学院チーム
-⓪International Student Section
-]]></description>
-            <category>窓口</category>
-            <category>1年生</category>
-            <category>2年生</category>
-            <category>PDF</category>
         </item>
     </channel>
 </rss>
