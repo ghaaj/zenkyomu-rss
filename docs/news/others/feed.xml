@@ -2,11 +2,34 @@
 <rss version="2.0">
     <channel>
         <title>前期課程（1・2年生）その他のお知らせ - 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/index.html#%22a852-65f82a2be06f2%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/index.html#%22a886-65fce7d949bc3%22</link>
         <description></description>
-        <lastBuildDate>Thu, 05 Nov 2026 07:51:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Nov 2026 13:16:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[【学生支援課学生支援チームより】静岡県西部で発生した地震による被災地域ご出身の学生の皆様へ]]></title>
+            <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/261109_shizuokawest_earthquake.pdf</link>
+            <guid isPermaLink="false">1794150000000+https://www.c.u-tokyo.ac.jp/zenki/news/others/261109_shizuokawest_earthquake.pdf</guid>
+            <pubDate>Sun, 08 Nov 2026 15:00:00 GMT</pubDate>
+            <description><![CDATA[2026 年 11 月 9 日
+静岡県西部で発生した地震による
+被災地域ご出身の学生の皆様へ
+東京大学教養学部等事務部
+令和 8 年 11 月 8 日 1 時 4 分頃、静岡県西部を震源とする最大震度 5 強の地震が発生しました。
+被災地域ご出身の学生におかれましては、以下により現在の状況についてご連絡いただけますようお願いいた
+します。
+なお、帰省等で被災地域にいる学生の皆様におかれましては、引き続き余震に注意し、各自で安全確保に努め
+るよう併せてお願いいたします。
+○ 安否確認メールへの回答
+【通勤通学先】及び【居住地の都道府県】で大地震等の災害発生時には、UTAS に各自が登録したメールアド
+]]></description>
+            <category>その他</category>
+            <category>1年生</category>
+            <category>2年生</category>
+            <category>PDF</category>
+            <category>重要</category>
+        </item>
         <item>
             <title><![CDATA[【駒場アカデミック・ライティング・センター（CAWK）より】作文からレポートへ ー大学レポートの基本構造をつかむー]]></title>
             <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/all/2026/1105153235.html</link>
@@ -748,16 +771,6 @@ FLOWの学生も歓迎します。お気軽にご参加下さい。
             <category>その他</category>
             <category>1年生</category>
             <category>2年生</category>
-        </item>
-        <item>
-            <title><![CDATA[＜再掲＞【工学部より】先端技術セミナー 乾 幸地氏「物質の自動設計手法  研究開発とディープテックスタートアップの立ち上げ」 （初回掲載：6/2）]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/20260618engineering.pdf</link>
-            <guid isPermaLink="false">1781449200000+https://www.c.u-tokyo.ac.jp/zenki/news/others/20260618engineering.pdf</guid>
-            <pubDate>Sun, 14 Jun 2026 15:00:00 GMT</pubDate>
-            <category>その他</category>
-            <category>1年生</category>
-            <category>2年生</category>
-            <category>PDF</category>
         </item>
     </channel>
 </rss>
