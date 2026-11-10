@@ -2,11 +2,34 @@
 <rss version="2.0">
     <channel>
         <title>教務課からのお知らせ（2年生）- 前期課程（1・2年生） - 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/secondyear/index.html#%22b6a6-65fd577d56979%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/secondyear/index.html#%22b667-65fe79b59c6eb%22</link>
         <description></description>
-        <lastBuildDate>Mon, 09 Nov 2026 13:16:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Nov 2026 08:11:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[【2026A2】英語一列②を受講する皆さんへ]]></title>
+            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026A2_EnglishLanguage.pdf</link>
+            <guid isPermaLink="false">1794236400000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026A2_EnglishLanguage.pdf</guid>
+            <pubDate>Mon, 09 Nov 2026 15:00:00 GMT</pubDate>
+            <description><![CDATA[英語一列②を受講される皆さんへ
+授業開始日について
+• 火曜クラス：12 月 8 日（火）
+• 水曜クラス：12 月 9 日（水）
+初回から対面授業です。必ず UTAS で自分の教室を確認してください。
+クラス分けの確認
+• A2 タームの受講対象者のグループ → 11 月下旬に UTAS に掲載されます。
+授業内容・初回の予習
+• 各クラスの授業内容は、シラバスを参照してください。
+• 初回授業の予習内容： 『多元化する世界を英語で読む』（東京大学英語部会 編）の Session 14 を予習し
+ておくこと。
+• コアセッション：14・15・16・17・18
+• 担当教員が UTOL に授業…]]></description>
+            <category>履修</category>
+            <category>1年生</category>
+            <category>2年生</category>
+            <category>PDF</category>
+        </item>
         <item>
             <title><![CDATA[【2026A2】「英語二列Ｓ（FLOW）」各授業科目への割り振りについて（他クラス聴講及び降年生・留年生の履修手続きについて記載あり）]]></title>
             <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026A2_English2S_assignment.pdf</link>
@@ -1053,27 +1076,6 @@ UTAS の「志望内容確認」画面から、内定/未内定を確認でき�
 ]]></description>
             <category>進学</category>
             <category>2年生</category>
-        </item>
-        <item>
-            <title><![CDATA[憲法、民法第1部、刑法第1部の追加登録・削除について（法学部より）]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026_Law_tsunen_tsuikasakujo_20260903.pdf</link>
-            <guid isPermaLink="false">1788361200000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026_Law_tsunen_tsuikasakujo_20260903.pdf</guid>
-            <pubDate>Wed, 02 Sep 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[通年で開講される法学部専門科目
-（憲法、民法第 1 部、刑法第 1 部）の
-追加登録・削除について
-法学部で通年科目として開講している２年次専門科目の追加登録または削除
-を希望する場合は、下記の内容を確認のうえ期限内に指定のフォームから申請を
-すること。なお、履修科目登録をしていない授業科目については、２月上旬に実
-施される定期試験の受験は認められない。
-○対象科目：憲法、民法第 1 部、刑法第 1 部
-※Ｓセメスターで講義が終了する法社会学は、対象外となる。
-○対象者：法学部内定者（追加登録）、他学部内定者（削除）
-※教養学部２年生のみを対象とするため、３年生以上の申請は受け付けない。
-]]></description>
-            <category>履修</category>
-            <category>2年生</category>
-            <category>PDF</category>
         </item>
     </channel>
 </rss>

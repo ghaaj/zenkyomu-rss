@@ -2,11 +2,34 @@
 <rss version="2.0">
     <channel>
         <title>前期課程（1・2年生） - 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/index.html#%22b250-65fe5ae3ed030%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/index.html#%22b1b2-65fe79a1b8b73%22</link>
         <description></description>
-        <lastBuildDate>Tue, 10 Nov 2026 06:01:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Nov 2026 08:11:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[【2026A2】英語一列②を受講する皆さんへ]]></title>
+            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026A2_EnglishLanguage.pdf</link>
+            <guid isPermaLink="false">1794236400000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026A2_EnglishLanguage.pdf</guid>
+            <pubDate>Mon, 09 Nov 2026 15:00:00 GMT</pubDate>
+            <description><![CDATA[英語一列②を受講される皆さんへ
+授業開始日について
+• 火曜クラス：12 月 8 日（火）
+• 水曜クラス：12 月 9 日（水）
+初回から対面授業です。必ず UTAS で自分の教室を確認してください。
+クラス分けの確認
+• A2 タームの受講対象者のグループ → 11 月下旬に UTAS に掲載されます。
+授業内容・初回の予習
+• 各クラスの授業内容は、シラバスを参照してください。
+• 初回授業の予習内容： 『多元化する世界を英語で読む』（東京大学英語部会 編）の Session 14 を予習し
+ておくこと。
+• コアセッション：14・15・16・17・18
+• 担当教員が UTOL に授業…]]></description>
+            <category>履修</category>
+            <category>1年生</category>
+            <category>2年生</category>
+            <category>PDF</category>
+        </item>
         <item>
             <title><![CDATA[【産学連携推進課総務企画チームより】＜11/30開催・対談イベント＞AI時代の社会実装とアントレプレナーシップ〜教育とテクノロジーで国と社会をどう動かすか〜]]></title>
             <link>https://www.ducr.u-tokyo.ac.jp/information/event/20261110aisocial.html</link>
@@ -875,25 +898,6 @@ UTAS「履修登録（前期課程）」画面に反映されますので、必�
             <category>その他</category>
             <category>1年生</category>
             <category>2年生</category>
-        </item>
-        <item>
-            <title><![CDATA[【注意喚起】進学選択が可能となる条件の確認について（数理科学）]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/chuuikanki_surikagaku_s2s3.pdf</link>
-            <guid isPermaLink="false">1790521200000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/chuuikanki_surikagaku_s2s3.pdf</guid>
-            <pubDate>Sun, 27 Sep 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[【注意喚起】進学選択が可能となる条件の確認について（数理科学）
-教養学部等教務課前期課程チーム
-例年、理科二類生・理科三類生の進学選択が可能となる条件のうち、「数理科学」
-の条件を満たせなかったことにより、進学選択に参加できない学生がいます。
-進学選択が可能となるためには、２Ｓセメスター・２S2 ターム終了時までに「数理
-科学」５単位の取得が必要です。理科二類生・理科三類生の「数理科学」の取得すべ
-き単位数は 10 単位ですが、うち６単位については１Ａセメスターの開講となってい
-ます。また、上記の５単位について、任意選択科目の「数理科学基礎演習」「数学基
-礎理論演習」の取得単位を含めることはで…]]></description>
-            <category>成績</category>
-            <category>1年生</category>
-            <category>PDF</category>
-            <category>重要</category>
         </item>
     </channel>
 </rss>

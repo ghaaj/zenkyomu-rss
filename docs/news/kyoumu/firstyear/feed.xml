@@ -2,11 +2,34 @@
 <rss version="2.0">
     <channel>
         <title>教務課からのお知らせ（1年生） - 前期課程（1・2年生）- 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/firstyear/index.html#%22b6a4-65fd57780447b%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/firstyear/index.html#%22b671-65fe79b030c23%22</link>
         <description></description>
-        <lastBuildDate>Mon, 09 Nov 2026 13:16:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Nov 2026 08:11:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[【2026A2】英語一列②を受講する皆さんへ]]></title>
+            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026A2_EnglishLanguage.pdf</link>
+            <guid isPermaLink="false">1794236400000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026A2_EnglishLanguage.pdf</guid>
+            <pubDate>Mon, 09 Nov 2026 15:00:00 GMT</pubDate>
+            <description><![CDATA[英語一列②を受講される皆さんへ
+授業開始日について
+• 火曜クラス：12 月 8 日（火）
+• 水曜クラス：12 月 9 日（水）
+初回から対面授業です。必ず UTAS で自分の教室を確認してください。
+クラス分けの確認
+• A2 タームの受講対象者のグループ → 11 月下旬に UTAS に掲載されます。
+授業内容・初回の予習
+• 各クラスの授業内容は、シラバスを参照してください。
+• 初回授業の予習内容： 『多元化する世界を英語で読む』（東京大学英語部会 編）の Session 14 を予習し
+ておくこと。
+• コアセッション：14・15・16・17・18
+• 担当教員が UTOL に授業…]]></description>
+            <category>履修</category>
+            <category>1年生</category>
+            <category>2年生</category>
+            <category>PDF</category>
+        </item>
         <item>
             <title><![CDATA[【2026A2】「英語二列Ｓ（FLOW）」各授業科目への割り振りについて（他クラス聴講及び降年生・留年生の履修手続きについて記載あり）]]></title>
             <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026A2_English2S_assignment.pdf</link>
@@ -1014,32 +1037,6 @@ S1 （4/4再掲）【2026S1】英語一列①の他クラス聴講の履修登�
             <category>2年生</category>
             <category>PDF</category>
             <category>重要</category>
-        </item>
-        <item>
-            <title><![CDATA[【教育学部より】教育学部開講（S1S2、S2、夏季集中）_修了試験等実施方法一覧]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026S2_exam_education.pdf</link>
-            <guid isPermaLink="false">1783436400000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026S2_exam_education.pdf</guid>
-            <pubDate>Tue, 07 Jul 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[筆記
-試験 平常点 レポート 対面 UTOL その他 学生支援
-チーム
-駒場
-教務課 担当教員 授業中 プリント
-アウト UTOL Turnitin
-電子メー
-ル
-その他
-S2 学部 09269114 保健体育科教育法（実践）C 青木 秀憲
-上岡 洋晴 ○ ○ 月 日 （ ） 時限 月 日 （ ） ○ ○
-実習形式の授業のため、筆記試験によ
-る修了試験は実施しない。授業ごとの課
-題や実習の出来具合で評価を行う。
-S2 学部 09269125 総合的な学習の時間の指導法 淺川 俊彦 月 日 （ ） 時限 月 日 （ ）
-S1S2 学部 09269113 理科教育法（実践）Ｃ 荒井 惠里子 ○ 月…]]></description>
-            <category>教職</category>
-            <category>1年生</category>
-            <category>2年生</category>
-            <category>PDF</category>
         </item>
     </channel>
 </rss>
