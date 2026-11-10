@@ -2,11 +2,27 @@
 <rss version="2.0">
     <channel>
         <title>前期課程（1・2年生） - 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/index.html#%22b2c1-65fd5764fa3ab%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/index.html#%22b250-65fe215088849%22</link>
         <description></description>
-        <lastBuildDate>Mon, 09 Nov 2026 13:16:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Nov 2026 01:41:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[【産学連携推進課総務企画チームより】＜11/30開催・対談イベント＞AI時代の社会実装とアントレプレナーシップ〜教育とテクノロジーで国と社会をどう動かすか〜]]></title>
+            <link>https://www.ducr.u-tokyo.ac.jp/information/event/20261110aisocial.html</link>
+            <guid isPermaLink="false">1794236400000+https://www.ducr.u-tokyo.ac.jp/information/event/20261110aisocial.html</guid>
+            <pubDate>Mon, 09 Nov 2026 15:00:00 GMT</pubDate>
+            <description><![CDATA[モンゴルの若手女性起業家であるBolor-Erdene Battsengel 氏の来日に際し、講演・対談イベントを実施いたします！
+
+ 
+
+AIをはじめとする先端テクノロジーが急速に社会を変えつつある今、研究や技術を学ぶだけでなく、それらをどのように社会の課題解決や新しい仕組みづくりにつなげていくのかがますます重要になっています。
+
+本イベントでは、モンゴルにおけるAI教育の普及やデジタル政策を推進してきた Bolor-Erdene Battsengel 氏、ライフイズテック株式会社を設立し、これまで延べ200万人以上にデジタル教育の機会を提供してきた水野雄介氏をキャンパスに迎えるとともに、東…]]></description>
+            <category>その他</category>
+            <category>1年生</category>
+            <category>2年生</category>
+        </item>
         <item>
             <title><![CDATA[【2026A2】「英語二列Ｓ（FLOW）」各授業科目への割り振りについて（他クラス聴講及び降年生・留年生の履修手続きについて記載あり）]]></title>
             <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026A2_English2S_assignment.pdf</link>
@@ -874,28 +890,6 @@ UTAS「履修登録（前期課程）」画面に反映されますので、必�
 き単位数は 10 単位ですが、うち６単位については１Ａセメスターの開講となってい
 ます。また、上記の５単位について、任意選択科目の「数理科学基礎演習」「数学基
 礎理論演習」の取得単位を含めることはで…]]></description>
-            <category>成績</category>
-            <category>1年生</category>
-            <category>PDF</category>
-            <category>重要</category>
-        </item>
-        <item>
-            <title><![CDATA[【注意喚起】進学選択が可能となる条件の確認について（既修・初修外国語）]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/chuuikanki_shingaku_1nen_gogaku.pdf</link>
-            <guid isPermaLink="false">1790521200000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/chuuikanki_shingaku_1nen_gogaku.pdf</guid>
-            <pubDate>Sun, 27 Sep 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[【注意喚起】進学選択が可能となる条件の確認について
-教務課前期課程チーム
-例年、進学選択が可能となる条件のうち、既修外国語・初修外国語の条件を満
-たせなかったことにより、進学選択に参加できない学生がいます。
-既修外国語（英語・日本語以外）・初修外国語は６単位の成績の平均が４０点
-以上必要です。１Ｓセメスターの「〇語一列①」および「〇語二列」を単位取得
-しており（※）、かつ両科目の合計点数が１２０点に満たない場合は、１Ａセメ
-スターの「〇語一列②」の点数次第で、１Ａセメスター終了時点で進学選択に参
-加できないことが確定してしまうケースがあります ので、充分に注意してくだ
-さい。
-（上記に該当する例）
-]]></description>
             <category>成績</category>
             <category>1年生</category>
             <category>PDF</category>

@@ -2,11 +2,27 @@
 <rss version="2.0">
     <channel>
         <title>前期課程（1・2年生）その他のお知らせ - 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/index.html#%22a886-65fce7d949bc3%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/index.html#%22a89f-65fe2157d1bfd%22</link>
         <description></description>
-        <lastBuildDate>Mon, 09 Nov 2026 13:16:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Nov 2026 01:41:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[【産学連携推進課総務企画チームより】＜11/30開催・対談イベント＞AI時代の社会実装とアントレプレナーシップ〜教育とテクノロジーで国と社会をどう動かすか〜]]></title>
+            <link>https://www.ducr.u-tokyo.ac.jp/information/event/20261110aisocial.html</link>
+            <guid isPermaLink="false">1794236400000+https://www.ducr.u-tokyo.ac.jp/information/event/20261110aisocial.html</guid>
+            <pubDate>Mon, 09 Nov 2026 15:00:00 GMT</pubDate>
+            <description><![CDATA[モンゴルの若手女性起業家であるBolor-Erdene Battsengel 氏の来日に際し、講演・対談イベントを実施いたします！
+
+ 
+
+AIをはじめとする先端テクノロジーが急速に社会を変えつつある今、研究や技術を学ぶだけでなく、それらをどのように社会の課題解決や新しい仕組みづくりにつなげていくのかがますます重要になっています。
+
+本イベントでは、モンゴルにおけるAI教育の普及やデジタル政策を推進してきた Bolor-Erdene Battsengel 氏、ライフイズテック株式会社を設立し、これまで延べ200万人以上にデジタル教育の機会を提供してきた水野雄介氏をキャンパスに迎えるとともに、東…]]></description>
+            <category>その他</category>
+            <category>1年生</category>
+            <category>2年生</category>
+        </item>
         <item>
             <title><![CDATA[【学生支援課学生支援チームより】静岡県西部で発生した地震による被災地域ご出身の学生の皆様へ]]></title>
             <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/261109_shizuokawest_earthquake.pdf</link>
@@ -750,24 +766,6 @@ FLOWの学生も歓迎します。お気軽にご参加下さい。
 ・東京大学では全学で、数値解析ソフトウェア『MATLAB』のライセンスを導入しています。MATLABアンバサダーは学生・教職員の皆さんの授業・教育・研究に役立てていただくためのサポートの一環として、オンライン講習会を実施しています。
 ・MATLABでは、豊富なツールボックスを用いることで、AIからロボティクスまでの幅広い分野の課題を解決できます。本セミナーでは、MATLABとAIを用いて、微分方程式や行列計算を行うコードを自分で書いてみる方法を、実際に手を動かしながら学びます。また、アンバサダー自身がやっているMATLABとAIの活用方法を伝授します！
 ・参加希望の方は、以下に記載の…]]></description>
-            <category>その他</category>
-            <category>1年生</category>
-            <category>2年生</category>
-        </item>
-        <item>
-            <title><![CDATA[＜再掲＞【駒場アカデミック・ライティング・センターより】スペイン語文法に関するワークショップ開催！（6/25(木)昼休み）（初回掲載：5/27）]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/all/2026/0619091840.html</link>
-            <guid isPermaLink="false">1781794800000+https://www.c.u-tokyo.ac.jp/zenki/news/others/all/2026/0619091840.html</guid>
-            <pubDate>Thu, 18 Jun 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[駒場アカデミック・ライティング・センターです。
-スペイン語に関する、ワークショップを開催します。
-↑ クリックして拡大
-本ワークショップでは、スペイン語の語順について主語の後置を中心に、情報構造の観点からすこし深掘りして考えます。
-学部1年生を主な対象とした初級レベルの内容となりますが、中級レベル以上の方のご参加も歓迎します。
-
-概要：鳥かごのなかの自由 ―スペイン語の語順についてよく云われる「自由」には、じつはそれなりの制約が課せられています。たとえば主語の位置。疑問文でもないのに、なぜかよく動詞の後ろに置かれている......でも、これを前に出してしまうと、やはりいびつに響くらしい。
-
-]]></description>
             <category>その他</category>
             <category>1年生</category>
             <category>2年生</category>
