@@ -2,11 +2,21 @@
 <rss version="2.0">
     <channel>
         <title>前期課程（1・2年生）その他のお知らせ - 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/index.html#%22a89f-65fe2157d1bfd%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/index.html#%22a874-65ff9b627acbf%22</link>
         <description></description>
-        <lastBuildDate>Tue, 10 Nov 2026 01:41:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Nov 2026 05:51:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[【グローバリゼーションオフィスより】11/19（木）「GS/GSA 昼休みの交流会- Lunchtime Gathering -」開催のお知らせ]]></title>
+            <link>https://www.globalkomaba.c.u-tokyo.ac.jp/event/nid00002367.html</link>
+            <guid isPermaLink="false">1794322800000+https://www.globalkomaba.c.u-tokyo.ac.jp/event/nid00002367.html</guid>
+            <pubDate>Tue, 10 Nov 2026 15:00:00 GMT</pubDate>
+            <description><![CDATA[グローバル駒場サイトは東京大学 大学院総合文化研究科・教養学部によるグローバルサイトです。駒場キャンパスで学ばれる方、駒場キャンパスから留学したい方、国際交流を希望の方へ向けた情報発信や国際関連リソースを配信しております。]]></description>
+            <category>その他</category>
+            <category>1年生</category>
+            <category>2年生</category>
+        </item>
         <item>
             <title><![CDATA[【産学連携推進課総務企画チームより】＜11/30開催・対談イベント＞AI時代の社会実装とアントレプレナーシップ〜教育とテクノロジーで国と社会をどう動かすか〜]]></title>
             <link>https://www.ducr.u-tokyo.ac.jp/information/event/20261110aisocial.html</link>
@@ -753,19 +763,6 @@ FLOWの学生も歓迎します。お気軽にご参加下さい。
 イベント情報のURL：https://www.globalkomaba.c.u-tokyo.ac.jp/event/nid00002253.html
 
 主催：グローバ…]]></description>
-            <category>その他</category>
-            <category>1年生</category>
-            <category>2年生</category>
-        </item>
-        <item>
-            <title><![CDATA[【教養教育高度化機構 EX部門 より】6/24(水)開催 MATLABでAIを用いて、微分方程式や行列計算を行うコードを書いてみよう! 開催のお知らせ]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/all/2026/0622093818.html</link>
-            <guid isPermaLink="false">1782054000000+https://www.c.u-tokyo.ac.jp/zenki/news/others/all/2026/0622093818.html</guid>
-            <pubDate>Sun, 21 Jun 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[◇概要◇
-・東京大学では全学で、数値解析ソフトウェア『MATLAB』のライセンスを導入しています。MATLABアンバサダーは学生・教職員の皆さんの授業・教育・研究に役立てていただくためのサポートの一環として、オンライン講習会を実施しています。
-・MATLABでは、豊富なツールボックスを用いることで、AIからロボティクスまでの幅広い分野の課題を解決できます。本セミナーでは、MATLABとAIを用いて、微分方程式や行列計算を行うコードを自分で書いてみる方法を、実際に手を動かしながら学びます。また、アンバサダー自身がやっているMATLABとAIの活用方法を伝授します！
-・参加希望の方は、以下に記載の…]]></description>
             <category>その他</category>
             <category>1年生</category>
             <category>2年生</category>
