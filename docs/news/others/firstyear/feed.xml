@@ -2,11 +2,31 @@
 <rss version="2.0">
     <channel>
         <title>その他のお知らせ（1年生） - 前期課程（1・2年生） - 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/firstyear/index.html#%22a961-65ff9b6661d58%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/firstyear/index.html#%22a9ed-660099d522e2e%22</link>
         <description></description>
-        <lastBuildDate>Wed, 11 Nov 2026 05:51:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Nov 2026 00:51:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[【教育学部より】教育学部の先生・先輩たちと「雑談」しようーランチタイム雑談会ー12/23(水)12:10-13:00]]></title>
+            <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/kyoiku-lunchtime20261223.pdf</link>
+            <guid isPermaLink="false">1794409200000+https://www.c.u-tokyo.ac.jp/zenki/news/others/kyoiku-lunchtime20261223.pdf</guid>
+            <pubDate>Wed, 11 Nov 2026 15:00:00 GMT</pubDate>
+            <description><![CDATA[教養学部前期課程 1・2 年生の皆さんへ
+教育学部の先生・先輩たちと「雑談」しよう
+教育学部では、次のとおり、オンラインでランチタイム雑談会を開催します。教
+育学部の各コースの先生方、3・4 年生が出席します。
+教養学部前期課程 1・2 年生の方であれば、2028 年度に教育学部への進学選択
+を予定している方やまだちょっと悩んでいる方、2029 年度以降に教育学部への進
+学を検討している方、教育学部について少し詳しく知ってみたい方など、どのよう
+な方でも参加 OK です。また、文科の学生だけではなく、理科の学生の参加も、も
+ちろん大歓迎です。
+カリキュラムなどの堅苦しいお話は抜きにして、教育学…]]></description>
+            <category>その他</category>
+            <category>1年生</category>
+            <category>2年生</category>
+            <category>PDF</category>
+        </item>
         <item>
             <title><![CDATA[【グローバリゼーションオフィスより】11/19（木）「GS/GSA 昼休みの交流会- Lunchtime Gathering -」開催のお知らせ]]></title>
             <link>https://www.globalkomaba.c.u-tokyo.ac.jp/event/nid00002367.html</link>
@@ -745,27 +765,6 @@ FLOWの学生も歓迎します。お気軽にご参加下さい。
             <category>1年生</category>
             <category>2年生</category>
             <enclosure url="https://gakuiryugaku.net/wp-content/uploads/2026/06/abaa92b6e7014efdf7c9815ea7a0cfbd-1024x724.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[【グローバリゼーションオフィスより】留学前発表会（7/2・7/3開催）のご案内]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/all/2026/0623160603.html</link>
-            <guid isPermaLink="false">1782140400000+https://www.c.u-tokyo.ac.jp/zenki/news/others/all/2026/0623160603.html</guid>
-            <pubDate>Mon, 22 Jun 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[教養学部の交換留学プログラムで協定校へ留学する学生が、留学の目的や目標、目標達成のための具体的手段などについて発表します。どなたでも来聴歓迎、入退室自由ですので、交換留学に少しでも興味のある方はこの機会にぜひお越しください。
-
-■日時：7月2日（木）12:05～13:00、7月3日（金）12:05～12:45
-■場所：21KOMCEE EAST K112
-■対象：学内向け
-■言語：日本語・英語
-■事前申込：不要
-■参加費：無料
-
-イベント情報のURL：https://www.globalkomaba.c.u-tokyo.ac.jp/event/nid00002253.html
-
-主催：グローバ…]]></description>
-            <category>その他</category>
-            <category>1年生</category>
-            <category>2年生</category>
         </item>
     </channel>
 </rss>

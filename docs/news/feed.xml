@@ -2,11 +2,31 @@
 <rss version="2.0">
     <channel>
         <title>前期課程（1・2年生） - 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/index.html#%22b20b-65ff9b5b13431%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/index.html#%22b22a-660099c9e8e12%22</link>
         <description></description>
-        <lastBuildDate>Wed, 11 Nov 2026 05:51:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Nov 2026 00:51:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[【教育学部より】教育学部の先生・先輩たちと「雑談」しようーランチタイム雑談会ー12/23(水)12:10-13:00]]></title>
+            <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/kyoiku-lunchtime20261223.pdf</link>
+            <guid isPermaLink="false">1794409200000+https://www.c.u-tokyo.ac.jp/zenki/news/others/kyoiku-lunchtime20261223.pdf</guid>
+            <pubDate>Wed, 11 Nov 2026 15:00:00 GMT</pubDate>
+            <description><![CDATA[教養学部前期課程 1・2 年生の皆さんへ
+教育学部の先生・先輩たちと「雑談」しよう
+教育学部では、次のとおり、オンラインでランチタイム雑談会を開催します。教
+育学部の各コースの先生方、3・4 年生が出席します。
+教養学部前期課程 1・2 年生の方であれば、2028 年度に教育学部への進学選択
+を予定している方やまだちょっと悩んでいる方、2029 年度以降に教育学部への進
+学を検討している方、教育学部について少し詳しく知ってみたい方など、どのよう
+な方でも参加 OK です。また、文科の学生だけではなく、理科の学生の参加も、も
+ちろん大歓迎です。
+カリキュラムなどの堅苦しいお話は抜きにして、教育学…]]></description>
+            <category>その他</category>
+            <category>1年生</category>
+            <category>2年生</category>
+            <category>PDF</category>
+        </item>
         <item>
             <title><![CDATA[【グローバリゼーションオフィスより】11/19（木）「GS/GSA 昼休みの交流会- Lunchtime Gathering -」開催のお知らせ]]></title>
             <link>https://www.globalkomaba.c.u-tokyo.ac.jp/event/nid00002367.html</link>
@@ -874,29 +894,6 @@ UTAS「履修登録（前期課程）」画面に反映されますので、必�
             <category>1年生</category>
             <category>2年生</category>
             <enclosure url="https://www.ms.u-tokyo.ac.jp/sugaku/e305b008b6a7701808c2afb9a2445c04bb183278.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[【2026A】A1ターム・A2ターム基礎実験を未取得の2年理科生へ（補修について）]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026A_kisojikken_hoshu.pdf</link>
-            <guid isPermaLink="false">1790607600000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026A_kisojikken_hoshu.pdf</guid>
-            <pubDate>Mon, 28 Sep 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[2026年9月29日
-基礎実験の補修を許可された２年次理科生 各位
-基礎実験委員会
-教務課前期課程チーム
-基礎実験の補修について〔2026Ａ〕
-2026 年度Ｓセメスターで所定の手続きを行い、基礎実験について補修の許可
-通知があった者は、補修に参加するために下記登録期間内に履修認定カード電
-子版による手続きを行う必要があります。
-履修認定カード電子版による手続方法等の詳細はこちら。
-教員からの履修許可を得るためには、補修する必要のある分野の下記メール
-アドレスに連絡してください（[ｱｯﾄ]は@に変換）。
-―――――
-物理：shohda[ｱｯﾄ]bio.c.u-tokyo.ac.jp
-]]></description>
-            <category>履修</category>
-            <category>2年生</category>
-            <category>PDF</category>
         </item>
     </channel>
 </rss>
