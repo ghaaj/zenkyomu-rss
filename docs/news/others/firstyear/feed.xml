@@ -2,11 +2,21 @@
 <rss version="2.0">
     <channel>
         <title>その他のお知らせ（1年生） - 前期課程（1・2年生） - 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/firstyear/index.html#%22a9ed-660099d522e2e%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/firstyear/index.html#%22aa2f-66022eef77a7b%22</link>
         <description></description>
-        <lastBuildDate>Thu, 12 Nov 2026 00:51:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Nov 2026 07:01:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[【グローバル教育センター駒場支部より】日本文化体験×国際交流！「歌舞伎座探訪＆歌舞伎鑑賞」（12/5(土)）イベントのお知らせ]]></title>
+            <link>https://www.globalkomaba.c.u-tokyo.ac.jp/event/nid00002387.html</link>
+            <guid isPermaLink="false">1794495600000+https://www.globalkomaba.c.u-tokyo.ac.jp/event/nid00002387.html</guid>
+            <pubDate>Thu, 12 Nov 2026 15:00:00 GMT</pubDate>
+            <description><![CDATA[グローバル駒場サイトは東京大学 大学院総合文化研究科・教養学部によるグローバルサイトです。駒場キャンパスで学ばれる方、駒場キャンパスから留学したい方、国際交流を希望の方へ向けた情報発信や国際関連リソースを配信しております。]]></description>
+            <category>その他</category>
+            <category>1年生</category>
+            <category>2年生</category>
+        </item>
         <item>
             <title><![CDATA[【教育学部より】教育学部の先生・先輩たちと「雑談」しようーランチタイム雑談会ー12/23(水)12:10-13:00]]></title>
             <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/kyoiku-lunchtime20261223.pdf</link>
@@ -752,19 +762,6 @@ FLOWの学生も歓迎します。お気軽にご参加下さい。
             <category>その他</category>
             <category>1年生</category>
             <category>2年生</category>
-        </item>
-        <item>
-            <title><![CDATA[【本部ディベロップメントオフィスより】「海外大学院留学説明会 2026夏」7/24(金)18:00-21:00のお知らせ]]></title>
-            <link>https://gakuiryugaku.net/seminar/6288</link>
-            <guid isPermaLink="false">1782313200000+https://gakuiryugaku.net/seminar/6288</guid>
-            <pubDate>Wed, 24 Jun 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[海外の大学院に進学し、学位を得るーそれは日本ではあまり見慣れない選択肢かもしれません。しかし海外のトップ大学院ではほとんどの学生が学費を免除される上、生活費を賄うための給料も支給されています。経済的な不安のない環境で、充実した環境と優秀な同僚たちに囲まれ、好きなことに熱中できる毎日です。そんな魅力的な選択肢についてぜひ考えてみませんか？
-
-本説明会では、学位留学をもっと身近に感じて頂けるように、様々な観点から大学院留学というキャリアについての情報提供を行います。「海外大学院でしか得られない経験は？」「出願はどうやって？」「卒業後の進路は？」など、様々な疑問を持ってお越しください。留学経験を持つ…]]></description>
-            <category>その他</category>
-            <category>1年生</category>
-            <category>2年生</category>
-            <enclosure url="https://gakuiryugaku.net/wp-content/uploads/2026/06/abaa92b6e7014efdf7c9815ea7a0cfbd-1024x724.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
