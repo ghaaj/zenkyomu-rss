@@ -2,11 +2,31 @@
 <rss version="2.0">
     <channel>
         <title>前期課程（1・2年生） - 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/index.html#%22b1df-660824876ba72%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/index.html#%22b2ad-660873c217623%22</link>
         <description></description>
-        <lastBuildDate>Wed, 18 Nov 2026 01:21:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Nov 2026 06:41:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[【進学選択】(重要）前期課程１年生向け 進学選択ガイダンス動画配信及び資料について]]></title>
+            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/firstyear/2026/1118152907.html</link>
+            <guid isPermaLink="false">1794927600000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/firstyear/2026/1118152907.html</guid>
+            <pubDate>Tue, 17 Nov 2026 15:00:00 GMT</pubDate>
+            <description><![CDATA[前期課程１年生向けに「進学選択ガイダンス動画」（約38分）の配信を開始しました。UTAS周知用掲示板「お知らせ」を確認してください。
+11月下旬から始まる後期課程のガイダンスを受ける前に視聴し、進学選択制度への理解を深めてください。（聴覚障害等によって動画音声の聞き取りに困難がある場合は、説明原稿（スクリプト）を提供しますので、教務課前期課程チームに相談してください）。
+
+◆対象：前期課程１年生
+
+◆準備するもの：
+
+『履修の手引き』：入学時に冊子を配布済のものです。
+ ※pdf版『履修の手引き』は「UTAS/その他/ダウンロードセンター」からダウンロードできます。
+
+『進学選択ガイダンス資料…]]></description>
+            <category>進学</category>
+            <category>1年生</category>
+            <category>重要</category>
+        </item>
         <item>
             <title><![CDATA[【多様性包摂共創センター】＜参加者募集＞「障害の社会モデルから考えるインクルーシブ防災」のご案内]]></title>
             <link>https://include.u-tokyo.ac.jp/news/inclusive_disaster_preparedness/</link>
@@ -878,22 +898,6 @@ UTAS「履修登録（前期課程）」画面に反映されますので、必�
             <category>1年生</category>
             <category>2年生</category>
             <category>PDF</category>
-        </item>
-        <item>
-            <title><![CDATA[授業料の納付等について]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/all/2026/1001094721.html</link>
-            <guid isPermaLink="false">1790780400000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/all/2026/1001094721.html</guid>
-            <pubDate>Wed, 30 Sep 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[授業料の納付時期等について以下のとおりお知らせします。
-
-各自確認をしてください。
-
-◆授業料の納付について
-
-◆授業料預金口座振替手続きをされている皆さんへ]]></description>
-            <category>その他</category>
-            <category>1年生</category>
-            <category>2年生</category>
         </item>
     </channel>
 </rss>
