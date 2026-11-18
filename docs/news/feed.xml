@@ -2,11 +2,22 @@
 <rss version="2.0">
     <channel>
         <title>前期課程（1・2年生） - 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/index.html#%22b29c-66022ee119f59%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/index.html#%22b1df-660824876ba72%22</link>
         <description></description>
-        <lastBuildDate>Fri, 13 Nov 2026 07:01:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Nov 2026 01:21:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[【多様性包摂共創センター】＜参加者募集＞「障害の社会モデルから考えるインクルーシブ防災」のご案内]]></title>
+            <link>https://include.u-tokyo.ac.jp/news/inclusive_disaster_preparedness/</link>
+            <guid isPermaLink="false">1794927600000+https://include.u-tokyo.ac.jp/news/inclusive_disaster_preparedness/</guid>
+            <pubDate>Tue, 17 Nov 2026 15:00:00 GMT</pubDate>
+            <description><![CDATA[防災の新しい視点を考えるイベントを、多様性包摂共創センター主催で開催します。 本イベントでは、障害を個人だけの問題ではなく、社会の仕組みや環境の工夫で解決できる課題と捉える「障害の社会モデル」の視点を出発点に、大学におけ […]]]></description>
+            <category>その他</category>
+            <category>1年生</category>
+            <category>2年生</category>
+            <enclosure url="https://include.u-tokyo.ac.jp/wp/wp-content/uploads/2026/10/%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%891.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[【グローバル教育センター駒場支部より】日本文化体験×国際交流！「歌舞伎座探訪＆歌舞伎鑑賞」（12/5(土)）イベントのお知らせ]]></title>
             <link>https://www.globalkomaba.c.u-tokyo.ac.jp/event/nid00002387.html</link>
@@ -883,16 +894,6 @@ UTAS「履修登録（前期課程）」画面に反映されますので、必�
             <category>その他</category>
             <category>1年生</category>
             <category>2年生</category>
-        </item>
-        <item>
-            <title><![CDATA[（再掲）【工学部より】10/2(金)18:45～ 全学ゼミ⼯学部合同説明会2026A1A2（全学自由研究ゼミナール・学術フロンティア講義 ・全学体験ゼミナール）（初回掲載：9/25）]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026A1A2monozukuriseminar.pdf</link>
-            <guid isPermaLink="false">1790780400000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026A1A2monozukuriseminar.pdf</guid>
-            <pubDate>Wed, 30 Sep 2026 15:00:00 GMT</pubDate>
-            <category>授業</category>
-            <category>1年生</category>
-            <category>2年生</category>
-            <category>PDF</category>
         </item>
     </channel>
 </rss>
