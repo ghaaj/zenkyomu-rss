@@ -2,11 +2,32 @@
 <rss version="2.0">
     <channel>
         <title>その他のお知らせ（2年生） - 前期課程（1・2年生）- 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/secondyear/index.html#%22aa09-66099b2d080de%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/secondyear/index.html#%22aa10-6609a0d7d3dad%22</link>
         <description></description>
-        <lastBuildDate>Thu, 19 Nov 2026 04:41:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Nov 2026 05:11:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[【駒場アカデミック・ライティング・センターより】「ライティング カフェ」開催のごあんない（ZOOM）]]></title>
+            <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/all/2026/1119133847.html</link>
+            <guid isPermaLink="false">1795014000000+https://www.c.u-tokyo.ac.jp/zenki/news/others/all/2026/1119133847.html</guid>
+            <pubDate>Wed, 18 Nov 2026 15:00:00 GMT</pubDate>
+            <description><![CDATA[在学生の学習や課題、研究の支援をおこなっている駒場アカデミック・ライティング・センター（CAWK）です。
+毎月開催のイベント「ライティングカフェ」が、今月も開催されます。
+
+参加する学生は日によってバラバラ、東京大学の大学院生スタッフが運営している気軽なイベントです。
+ぜひ初めての方も、一度は参加してみてください。
+
+【ライティングカフェとは】
+イベント概要：
+東京大学の在学生（もしくは参加者の知り合いがいる他大生・他組織の研究者）がZOOMでつながりながら、研究や作業をいっしょに進めるイベントです。
+
+「どんな感じか分からなくて、参加しにくい...！」という方は、イベントリマインドに加え、
+]]></description>
+            <category>その他</category>
+            <category>1年生</category>
+            <category>2年生</category>
+        </item>
         <item>
             <title><![CDATA[【駒場アカデミック・ライティング・センターより】スペイン語、受動文の使いどころ ―〈ser 受け身〉と〈se 受け身〉（ワークショップ）]]></title>
             <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/all/2026/1119131928.html</link>
@@ -746,25 +767,6 @@ FLOWの学生も歓迎します。お気軽にご参加下さい。
             <category>その他</category>
             <category>1年生</category>
             <category>2年生</category>
-        </item>
-        <item>
-            <title><![CDATA[【東大生協本郷住まいセンターより】「留学生/外国人研究者対象住み替え相談会」開催のお知らせ]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/all/2026/0629141333.html</link>
-            <guid isPermaLink="false">1782658800000+https://www.c.u-tokyo.ac.jp/zenki/news/others/all/2026/0629141333.html</guid>
-            <pubDate>Sun, 28 Jun 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[東大生協住まいセンターでは、以下の日程で、留学生や外国人研究者の皆様を対象に「キャンパス内住み替え相談会」を行います。
-この相談会では、東大生協提携の不動産業者が、キャンパス内で皆さんの住まい探しのお手伝いをします。大学宿舎を退去する方や、キャンパス移動で住み替えを検討している方はぜひ、ご参加下さい。
-本会では、英語・中国語・日本語など多言語での相談が可能です。
-※事前予約をお願いします。
-
-1.【本郷】住まい相談会
-日時：7月24日(金) 11：00～15：00（最終入場時間）
-会場：本郷キャンパス 東大生協本郷住まいセンター（法文二号館地下、メトロ食堂正面）
-詳細・予約：https://u…]]></description>
-            <category>その他</category>
-            <category>1年生</category>
-            <category>2年生</category>
-            <enclosure url="https://www.c.u-tokyo.ac.jp/zenki/news/others/96384cd6bc1450b4228b9de787fb0c91ae96243c.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
