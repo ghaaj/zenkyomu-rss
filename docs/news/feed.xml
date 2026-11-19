@@ -2,11 +2,32 @@
 <rss version="2.0">
     <channel>
         <title>前期課程（1・2年生） - 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/index.html#%22b19a-66099b1ab698c%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/index.html#%22b087-6609a05106e3c%22</link>
         <description></description>
-        <lastBuildDate>Thu, 19 Nov 2026 04:41:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Nov 2026 05:01:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[【駒場アカデミック・ライティング・センターより】「ライティング カフェ」開催のごあんない（ZOOM）]]></title>
+            <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/all/2026/1119133847.html</link>
+            <guid isPermaLink="false">1795014000000+https://www.c.u-tokyo.ac.jp/zenki/news/others/all/2026/1119133847.html</guid>
+            <pubDate>Wed, 18 Nov 2026 15:00:00 GMT</pubDate>
+            <description><![CDATA[在学生の学習や課題、研究の支援をおこなっている駒場アカデミック・ライティング・センター（CAWK）です。
+毎月開催のイベント「ライティングカフェ」が、今月も開催されます。
+
+参加する学生は日によってバラバラ、東京大学の大学院生スタッフが運営している気軽なイベントです。
+ぜひ初めての方も、一度は参加してみてください。
+
+【ライティングカフェとは】
+イベント概要：
+東京大学の在学生（もしくは参加者の知り合いがいる他大生・他組織の研究者）がZOOMでつながりながら、研究や作業をいっしょに進めるイベントです。
+
+「どんな感じか分からなくて、参加しにくい...！」という方は、イベントリマインドに加え、
+]]></description>
+            <category>その他</category>
+            <category>1年生</category>
+            <category>2年生</category>
+        </item>
         <item>
             <title><![CDATA[【駒場アカデミック・ライティング・センターより】スペイン語、受動文の使いどころ ―〈ser 受け身〉と〈se 受け身〉（ワークショップ）]]></title>
             <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/all/2026/1119131928.html</link>
@@ -860,29 +881,6 @@ https://ksc.edu.k.u-tokyo.ac.jp/
             <category>その他</category>
             <category>1年生</category>
             <category>2年生</category>
-        </item>
-        <item>
-            <title><![CDATA[（再掲）【2026A】「英語二列Ｗ（ALESA）」「英語二列Ｗ（ALESS）」各授業科目への割り振りについて（他クラス聴講の履修手続きについて記載あり）]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026A_English2W_assignment.pdf</link>
-            <guid isPermaLink="false">1790780400000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026A_English2W_assignment.pdf</guid>
-            <pubDate>Wed, 30 Sep 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[2026 年 9 月 14 日
-学部前期課程学生 各位
-教養学部等教務課前期課程チーム
-2026 年度Ａセメスター「英語二列Ｗ（ALESA)」「英語二列Ｗ（ALESS)」
-各授業科目への割り振りについて
-2026 年度Ａセメスター「英語二列Ｗ（ALESA)」「英語二列Ｗ（ALESS)」各授業科目
-への割り振りについて、以下のとおり実施します。
-①1 年生（降年生含む）
-指定された授業科目を履修することになります。10 月 2 日（金）午前 8:00 までに
-UTAS「履修登録（前期課程）」画面に反映されますので、必ず確認してください。
-②2 年生
-以下の案内を参考に他クラス聴講の手続きを行って…]]></description>
-            <category>履修</category>
-            <category>1年生</category>
-            <category>2年生</category>
-            <category>PDF</category>
-            <category>重要</category>
         </item>
     </channel>
 </rss>
