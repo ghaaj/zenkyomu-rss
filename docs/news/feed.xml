@@ -2,11 +2,20 @@
 <rss version="2.0">
     <channel>
         <title>前期課程（1・2年生） - 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/index.html#%22b2ad-660961664e012%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/index.html#%22b279-66096e69491bc%22</link>
         <description></description>
-        <lastBuildDate>Thu, 19 Nov 2026 00:21:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Nov 2026 01:21:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[【学生相談所より】＜要事前申込＞2026年度12～1月開催 再出発を考える「リスタートグループ」のお知らせ]]></title>
+            <link>https://dcs.adm.u-tokyo.ac.jp/information/2635/</link>
+            <guid isPermaLink="false">1795014000000+https://dcs.adm.u-tokyo.ac.jp/information/2635/</guid>
+            <pubDate>Wed, 18 Nov 2026 15:00:00 GMT</pubDate>
+            <category>その他</category>
+            <category>1年生</category>
+            <category>2年生</category>
+        </item>
         <item>
             <title><![CDATA[【進学選択】(重要）前期課程１年生向け 進学選択ガイダンス動画配信及び資料について]]></title>
             <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/firstyear/2026/1118152907.html</link>
@@ -875,29 +884,6 @@ UTAS「履修登録（前期課程）」画面に反映されますので、必�
             <category>2年生</category>
             <category>PDF</category>
             <category>重要</category>
-        </item>
-        <item>
-            <title><![CDATA[（再掲）【2026A】「英語特別クラス」の申請について]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026A_tokubetsueigo.pdf</link>
-            <guid isPermaLink="false">1790780400000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026A_tokubetsueigo.pdf</guid>
-            <pubDate>Wed, 30 Sep 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[2026 年 9 月 14 日
-学部前期課程学生 各位
-教養学部等教務課前期課程チーム
-2026 年度Ａセメスター「英語特別クラス」の申請について
-非英語圏からの留学生、および入試の外国語を英語以外で受験した者で、かつ英語の履
-修を希望する者を対象に「英語特別クラス」を開講します。（『履修の手引き』pp. 13, 32
-参照）
-※「入試の外国語を英語以外で受験した者」について、	「一部の大問のみを英語以外で解答
-した」場合は、この要件にあてはまりません。
-※単位は必修の「英語一列」、	「英語二列」、または総合科目Ｌ系列の単位に充当することに
-なります。
-※成績評価は「可」以下となります。
-]]></description>
-            <category>履修</category>
-            <category>1年生</category>
-            <category>2年生</category>
-            <category>PDF</category>
         </item>
     </channel>
 </rss>

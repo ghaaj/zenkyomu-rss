@@ -2,11 +2,20 @@
 <rss version="2.0">
     <channel>
         <title>その他のお知らせ（1年生） - 前期課程（1・2年生） - 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/firstyear/index.html#%22aa2a-66082495f1729%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/firstyear/index.html#%22a9cc-66096e74a64ab%22</link>
         <description></description>
-        <lastBuildDate>Wed, 18 Nov 2026 01:21:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Nov 2026 01:21:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[【学生相談所より】＜要事前申込＞2026年度12～1月開催 再出発を考える「リスタートグループ」のお知らせ]]></title>
+            <link>https://dcs.adm.u-tokyo.ac.jp/information/2635/</link>
+            <guid isPermaLink="false">1795014000000+https://dcs.adm.u-tokyo.ac.jp/information/2635/</guid>
+            <pubDate>Wed, 18 Nov 2026 15:00:00 GMT</pubDate>
+            <category>その他</category>
+            <category>1年生</category>
+            <category>2年生</category>
+        </item>
         <item>
             <title><![CDATA[【多様性包摂共創センター】＜参加者募集＞「障害の社会モデルから考えるインクルーシブ防災」のご案内]]></title>
             <link>https://include.u-tokyo.ac.jp/news/inclusive_disaster_preparedness/</link>
@@ -744,25 +753,6 @@ FLOWの学生も歓迎します。お気軽にご参加下さい。
             <category>その他</category>
             <category>1年生</category>
             <category>2年生</category>
-        </item>
-        <item>
-            <title><![CDATA[（再掲）【駒場アカデミック・ライティング・センターより】初ゼミ履修生向け・論文執筆に関するワークショップ開催！（7/2(水) 昼休み）（初回掲載：6/1）]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/all/2026/0625140457.html</link>
-            <guid isPermaLink="false">1782313200000+https://www.c.u-tokyo.ac.jp/zenki/news/others/all/2026/0625140457.html</guid>
-            <pubDate>Wed, 24 Jun 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[「はじめての論文執筆 ―ディスクリプションとは？」
-駒場アカデミック・ライティング・センターです。
-論文執筆に関する、ワークショップを開催します。
-本ワークショップでは、論文・レポートの執筆方法に興味・関心をもつ学部1年生をおもな対象に、
-西洋美術作品を題材として「ディスクリプション」というメソッドを紹介します。
-「ディスクリプション」とは、おもに論文の冒頭で、考察対象となる物事・現象を言葉で簡潔かつ客観的に説明することです。
-ワークショップの内容は美術史学に関するものになりますが、ほかの人文・社会科学の諸分野にも応用可能ですので、ふるってご参加ください。
-
-日時：7月2日（木） 昼休み（12…]]></description>
-            <category>その他</category>
-            <category>1年生</category>
-            <category>2年生</category>
-            <enclosure url="https://www.c.u-tokyo.ac.jp/zenki/news/others/discription.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
