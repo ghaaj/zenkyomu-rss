@@ -2,9 +2,9 @@
 <rss version="2.0">
     <channel>
         <title>前期課程（1・2年生） - 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/index.html#%22b055-66102a31bbb6d%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/index.html#%22b055-66102bc0d3dd5%22</link>
         <description></description>
-        <lastBuildDate>Tue, 24 Nov 2026 09:51:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Nov 2026 10:01:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -27,6 +27,30 @@
             <category>その他</category>
             <category>1年生</category>
             <category>2年生</category>
+        </item>
+        <item>
+            <title><![CDATA[【工学部より】1年生向け進学選択ガイダンスについて（11/26(木)開催）（初掲：11/6、講義題目変更による差替11/24）]]></title>
+            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/engineering_guidance20261126_2.pdf</link>
+            <guid isPermaLink="false">1795446000000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/engineering_guidance20261126_2.pdf</guid>
+            <pubDate>Mon, 23 Nov 2026 15:00:00 GMT</pubDate>
+            <description><![CDATA[問合先：工学部学務課学部チーム
+TEL:03-5841-6036 MAIL: gakubu.t＠gs.mail.u-tokyo.ac.jp
+<gakubu.t@gs.mail.u-
+FACULTY OF ENGINEERING
+1 年生向け
+工 学 部
+進学選択ガイダンス
+工学部では、教養学部 1 年生（科類は特に制限しません）を
+対象とした進学選択ガイダンスを実施します。ぜひ、ご参加ください。
+Ⅰ．津本 浩平 工学部長
+「工学は何を目指すか」 （約 25 分）
+Ⅱ．藤田 香織 教授（建築学科）
+「21 世紀・木造建築の諸相
+歴史的建築物の保存活用から木造高層ビルの実現まで」 （約 15 分）
+]]></description>
+            <category>進学</category>
+            <category>1年生</category>
+            <category>PDF</category>
         </item>
         <item>
             <title><![CDATA[【駒場アカデミック・ライティング・センターより】「ライティング カフェ」開催のごあんない（ZOOM）]]></title>
@@ -298,30 +322,6 @@ AIをはじめとする先端テクノロジーが急速に社会を変えつつ
             <category>2年生</category>
             <category>PDF</category>
             <category>重要</category>
-        </item>
-        <item>
-            <title><![CDATA[【工学部より】1年生向け進学選択ガイダンスについて（11/26(木)開催）（初掲：11/6、講義題目変更による差替11/24）]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/engineering_guidance20261126_2.pdf</link>
-            <guid isPermaLink="false">1793890800000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/engineering_guidance20261126_2.pdf</guid>
-            <pubDate>Thu, 05 Nov 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[問合先：工学部学務課学部チーム
-TEL:03-5841-6036 MAIL: gakubu.t＠gs.mail.u-tokyo.ac.jp
-<gakubu.t@gs.mail.u-
-FACULTY OF ENGINEERING
-1 年生向け
-工 学 部
-進学選択ガイダンス
-工学部では、教養学部 1 年生（科類は特に制限しません）を
-対象とした進学選択ガイダンスを実施します。ぜひ、ご参加ください。
-Ⅰ．津本 浩平 工学部長
-「工学は何を目指すか」 （約 25 分）
-Ⅱ．藤田 香織 教授（建築学科）
-「21 世紀・木造建築の諸相
-歴史的建築物の保存活用から木造高層ビルの実現まで」 （約 15 分）
-]]></description>
-            <category>進学</category>
-            <category>1年生</category>
-            <category>PDF</category>
         </item>
         <item>
             <title><![CDATA[前期課程１年生向け進学選択ガイダンス【１１月～１２月開催】]]></title>
