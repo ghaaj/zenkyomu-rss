@@ -2,11 +2,29 @@
 <rss version="2.0">
     <channel>
         <title>前期課程（1・2年生） - 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/index.html#%22ae73-66110baa041b2%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/index.html#%22ad8e-66110cf905b17%22</link>
         <description></description>
-        <lastBuildDate>Wed, 25 Nov 2026 02:41:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2026 02:51:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[【グローバリゼーションオフィスより】TOEFL説明会（12/2(水)19:00-20:00）のお知らせ]]></title>
+            <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/all/2026/1125114058.html</link>
+            <guid isPermaLink="false">1795532400000+https://www.c.u-tokyo.ac.jp/zenki/news/others/all/2026/1125114058.html</guid>
+            <pubDate>Tue, 24 Nov 2026 15:00:00 GMT</pubDate>
+            <description><![CDATA[グローバリゼーションオフィスでは、TOEFLテスト日本事務局 (ETS Japan) から講師をお招きし、TOEFL説明会を対面で開催する予定です。
+TOEFL（Test of English as a Foreign Language）は留学だけではなく、就職試験、大学院入試などでも幅広く活用されています。
+将来留学を考えている方はもちろん、グローバルキャリアの第一歩として、TOEFLについて知りたいという方にもおすすめです。
+セッション後、質疑応答の時間も設けておりますので、多くのみなさんの参加をお待ちしております。
+
+日時：12月2日（水）19:00〜20:00
+場所：オンライン
+対象：学内向け
+]]></description>
+            <category>その他</category>
+            <category>1年生</category>
+            <category>2年生</category>
+        </item>
         <item>
             <title><![CDATA[【キャリアサポートチームより】東京大学官公庁OBOGゆる交流会（12/15(火)、12/17(木)）イベントのお知らせ]]></title>
             <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/all/2026/1125113634.html</link>
@@ -885,30 +903,6 @@ A1 【2026A1】英語一列②グループのお知らせ 2…]]></description>
             <category>進学</category>
             <category>2年生</category>
             <category>重要</category>
-        </item>
-        <item>
-            <title><![CDATA[（再掲）【柏サイエンスキャンプ事務局より】全学体験ゼミナール 柏キャンパスサイエンスキャンプ2026 ガイダンスのお知らせ（10/5(月)6限18:45～20:30）（初回掲載：9/14）]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/KashiwaCampusSceinceCamp2026.pdf</link>
-            <guid isPermaLink="false">1791126000000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/KashiwaCampusSceinceCamp2026.pdf</guid>
-            <pubDate>Sun, 04 Oct 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[全学体験ゼミナール（A2ターム）
-柏キャンパスサイエンスキャンプ2026
-【ZOOMガイダンス】2026/10/5（月）6限（18:45～20:30）
-ガイダンス参加には申込が必要です
-右のWebサイトよりお申込みください
-ガイダンスに参加できない方も
-履修エントリ可能です
-https://ksc.edu.k.u-tokyo.ac.jp/
-柏キャンパスサイエンスキャンプ
-柏キャンパスで3泊4日の知の冒険
-未来の研究者としての第一歩を踏み出す宿泊型の集中プログラム
-少人数グループで最先端の研究に触れる絶好の機会です
-実施時期：2027年2, 3月（プログラムごとに日程は異なります）
-実施部局：新…]]></description>
-            <category>授業</category>
-            <category>1年生</category>
-            <category>2年生</category>
-            <category>PDF</category>
         </item>
     </channel>
 </rss>

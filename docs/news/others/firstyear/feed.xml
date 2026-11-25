@@ -2,11 +2,29 @@
 <rss version="2.0">
     <channel>
         <title>その他のお知らせ（1年生） - 前期課程（1・2年生） - 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/firstyear/index.html#%22a8c0-66110bb55b6cb%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/firstyear/index.html#%22a8d4-66110d0443910%22</link>
         <description></description>
-        <lastBuildDate>Wed, 25 Nov 2026 02:41:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2026 02:51:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[【グローバリゼーションオフィスより】TOEFL説明会（12/2(水)19:00-20:00）のお知らせ]]></title>
+            <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/all/2026/1125114058.html</link>
+            <guid isPermaLink="false">1795532400000+https://www.c.u-tokyo.ac.jp/zenki/news/others/all/2026/1125114058.html</guid>
+            <pubDate>Tue, 24 Nov 2026 15:00:00 GMT</pubDate>
+            <description><![CDATA[グローバリゼーションオフィスでは、TOEFLテスト日本事務局 (ETS Japan) から講師をお招きし、TOEFL説明会を対面で開催する予定です。
+TOEFL（Test of English as a Foreign Language）は留学だけではなく、就職試験、大学院入試などでも幅広く活用されています。
+将来留学を考えている方はもちろん、グローバルキャリアの第一歩として、TOEFLについて知りたいという方にもおすすめです。
+セッション後、質疑応答の時間も設けておりますので、多くのみなさんの参加をお待ちしております。
+
+日時：12月2日（水）19:00〜20:00
+場所：オンライン
+対象：学内向け
+]]></description>
+            <category>その他</category>
+            <category>1年生</category>
+            <category>2年生</category>
+        </item>
         <item>
             <title><![CDATA[【キャリアサポートチームより】東京大学官公庁OBOGゆる交流会（12/15(火)、12/17(木)）イベントのお知らせ]]></title>
             <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/all/2026/1125113634.html</link>
@@ -789,17 +807,6 @@ FLOWの学生も歓迎します。お気軽にご参加下さい。
             <category>その他</category>
             <category>1年生</category>
             <category>2年生</category>
-        </item>
-        <item>
-            <title><![CDATA[【ピアサポートルームより】「ぐるっと門散歩」の開催のお知らせ（7/17(金)17:00-19:00）]]></title>
-            <link>https://ut-psr.net/2026/07/01/0717gatetour/</link>
-            <guid isPermaLink="false">1783004400000+https://ut-psr.net/2026/07/01/0717gatetour/</guid>
-            <pubDate>Thu, 02 Jul 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[（English below） 東京大学ピアサポートルームでは、東大生が満ち足りた学生生活を送るこ]]></description>
-            <category>その他</category>
-            <category>1年生</category>
-            <category>2年生</category>
-            <enclosure url="https://ut-psr.net/wp-content/uploads/2026/07/c8cebf8b8cf3bdff226f43146b2809af-724x1024.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
