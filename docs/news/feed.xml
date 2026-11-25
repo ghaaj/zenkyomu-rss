@@ -2,11 +2,32 @@
 <rss version="2.0">
     <channel>
         <title>前期課程（1・2年生） - 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/index.html#%22ad8e-66110cf905b17%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/index.html#%22ad3a-66112b1603398%22</link>
         <description></description>
-        <lastBuildDate>Wed, 25 Nov 2026 02:51:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2026 05:01:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[【学生支援課学生支援チームより】令和8年11月20日からの大雪にかかる災害で被災した世帯の学生の皆さんへ]]></title>
+            <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/261125_ooyuki.pdf</link>
+            <guid isPermaLink="false">1795532400000+https://www.c.u-tokyo.ac.jp/zenki/news/others/261125_ooyuki.pdf</guid>
+            <pubDate>Tue, 24 Nov 2026 15:00:00 GMT</pubDate>
+            <description><![CDATA[2026 年 11 月 25 日
+令和 8 年 11 月 20 日からの大雪にかかる災害で
+被災した世帯の学生の皆さんへ
+東京大学教養学部等事務部
+令和 8 年 11 月 20 日からの大雪により、各地に甚大な被害が発生しています。本学の学生の中にも、該当する
+地域ご出身の方がいらっしゃることと思います。皆様とそのご家族がご無事であることを切に願っております。
+大雪による災害が発生している地域ご出身の在学生の皆様におかれましては、以下により現在の状況について
+ご連絡いただけますようお願いいたします。
+○ お知らせいただきたい情報
+・ご自身の状況について
+※帰省中である場合は、ご自身の被災状況に…]]></description>
+            <category>その他</category>
+            <category>1年生</category>
+            <category>2年生</category>
+            <category>重要</category>
+        </item>
         <item>
             <title><![CDATA[【グローバリゼーションオフィスより】TOEFL説明会（12/2(水)19:00-20:00）のお知らせ]]></title>
             <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/all/2026/1125114058.html</link>
@@ -881,28 +902,6 @@ A1 【2026A1】英語一列②グループのお知らせ 2…]]></description>
             <category>その他</category>
             <category>1年生</category>
             <category>2年生</category>
-        </item>
-        <item>
-            <title><![CDATA[【進学選択】2027年度 進学先所属登録について《対象：法学部・経済学部・文学部（A群・G群）・教養学部（教養学科・学際科学科A群）内定者》（初掲10/8）]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/secondyear/2026/1008130638.html</link>
-            <guid isPermaLink="false">1791385200000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/secondyear/2026/1008130638.html</guid>
-            <pubDate>Wed, 07 Oct 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[○対象：法学部・経済学部・文学部（A群・G群）・教養学部（教養学科・学際科学科A群）内定者
-
-該当する進学単位の内定者は、次のとおり、所定期間にUTASで「進学先所属登録」をしてください。
-
-・ 法学部：「類」の登録
-・ 経済学部：「学科」の登録（経済学部内定者は本ページ最下部の通知も確認してください）
-・ 文学部人文学科A群：「専修課程」の登録
-・ 文学部人文学科G群：「専修課程」の登録
-・ 教養学部教養学科超域文化科学分科：「コース」の登録
-・ 教養学部教養学科地域文化研究分科：「コース」の登録
-・ 教養学部教養学科総合社会科学分科：「コース」の登録
-・ 教養学部学際科学科A群：「コース」の登録
-]]></description>
-            <category>進学</category>
-            <category>2年生</category>
-            <category>重要</category>
         </item>
     </channel>
 </rss>
