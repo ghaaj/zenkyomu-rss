@@ -2,37 +2,21 @@
 <rss version="2.0">
     <channel>
         <title>前期課程（1・2年生） - 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/index.html#%22ad27-6611356fc981f%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/index.html#%22ad1c-6611378c03255%22</link>
         <description></description>
-        <lastBuildDate>Wed, 25 Nov 2026 05:51:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2026 06:01:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[【理学部学務課国際チームより】第13回理学部学生国際派遣プログラム（SVAP2027）募集のお知らせ]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/SVAP2027PosterPDF20261125.pdf</link>
-            <guid isPermaLink="false">1795532400000+https://www.c.u-tokyo.ac.jp/zenki/news/others/SVAP2027PosterPDF20261125.pdf</guid>
+            <link>https://www.s.u-tokyo.ac.jp/ja/offices/ilo/svap/application.html</link>
+            <guid isPermaLink="false">1795532400000+https://www.s.u-tokyo.ac.jp/ja/offices/ilo/svap/application.html</guid>
             <pubDate>Tue, 24 Nov 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[SVAP2027 第13回理学部
-学生国際派遣
-プログラム
-海外大学や研究機関の
-INTERNSHIP・
-SUMMER
-SCHOOL等に
-LET’S GO !
-滞在費・往復渡
-航費を支援します。
-担当者：学務課国際チーム
-TEL: 03 -5841 -7953
-intl.s@gs.mail.u -tokyo.ac.jp
-応募締切
-2027年2月17日（水）正午
-指定URLへアップロード
-email
-web]]></description>
+            <description><![CDATA[理学部学生国際派遣プログラム Study and Visit Abroad Program (SVAP) 募集について]]></description>
             <category>その他</category>
             <category>1年生</category>
             <category>2年生</category>
+            <enclosure url="https://www.s.u-tokyo.ac.jp/ja/images/ogp.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[【学生支援課学生支援チームより】令和8年11月20日からの大雪にかかる災害で被災した世帯の学生の皆さんへ]]></title>
