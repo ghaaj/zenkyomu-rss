@@ -2,11 +2,20 @@
 <rss version="2.0">
     <channel>
         <title>前期課程（1・2年生） - 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/index.html#%22af5d-66110030ab7be%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/index.html#%22af76-66110455b71a7%22</link>
         <description></description>
-        <lastBuildDate>Wed, 25 Nov 2026 01:51:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2026 02:11:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[【本部学生相談支援課キャリアサポートチームより】「東大センパイトーク」（12/3(木)17：00-18：40）イベントのお知らせ]]></title>
+            <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/todaisenpaitalk.pdf</link>
+            <guid isPermaLink="false">1795532400000+https://www.c.u-tokyo.ac.jp/zenki/news/others/todaisenpaitalk.pdf</guid>
+            <pubDate>Tue, 24 Nov 2026 15:00:00 GMT</pubDate>
+            <category>その他</category>
+            <category>1年生</category>
+            <category>2年生</category>
+        </item>
         <item>
             <title><![CDATA[【教職】進路セミナー「学校の先生という仕事」（12/15(火)18:00～19:00）のお知らせ]]></title>
             <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/all/2026/1125102417.html</link>
@@ -876,19 +885,6 @@ https://ksc.edu.k.u-tokyo.ac.jp/
             <category>履修</category>
             <category>2年生</category>
             <category>PDF</category>
-        </item>
-        <item>
-            <title><![CDATA[【国際工学教育推進機構より】東京大学スペシャル・イングリッシュ・レッスン（SEL）のお知らせ]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/all/2026/1002140425.html</link>
-            <guid isPermaLink="false">1790866800000+https://www.c.u-tokyo.ac.jp/zenki/news/others/all/2026/1002140425.html</guid>
-            <pubDate>Thu, 01 Oct 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[東京大学スペシャル・イングリッシュ・レッスン（SEL）は、外部英語学校を学内に誘致し、東大生・教職員の英語力向上を目指すプログラムです。大学院工学系研究科・国際工学教育推進機構・国際教育部門監督の下、英会話講座、TOEFL(R)講座、職員講座がアフタースクールにオンライン、またはキャンパス内で開講されており、受講料も比較的低価格に設定されています。東大生であれば学部・研究科・学年を問わず受講可能です。2026年度Aセメスター講座は、10月26日（月）〜12月22日（火）の期間中に実施いたします（TOEFLオンデマンドビデオ講座は2027年1月18日まで）。
-
-●全体説明会（Zoomと対面）
-]]></description>
-            <category>その他</category>
-            <category>1年生</category>
-            <category>2年生</category>
         </item>
     </channel>
 </rss>
