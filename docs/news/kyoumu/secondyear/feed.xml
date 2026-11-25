@@ -2,11 +2,38 @@
 <rss version="2.0">
     <channel>
         <title>教務課からのお知らせ（2年生）- 前期課程（1・2年生） - 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/secondyear/index.html#%22b5d0-66102ac1150d1%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/secondyear/index.html#%22b571-6610fc874af44%22</link>
         <description></description>
-        <lastBuildDate>Tue, 24 Nov 2026 10:01:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2026 01:31:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[【教職】進路セミナー「学校の先生という仕事」（12/15(火)18:00～19:00）のお知らせ]]></title>
+            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/all/2026/1125102417.html</link>
+            <guid isPermaLink="false">1795532400000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/all/2026/1125102417.html</guid>
+            <pubDate>Tue, 24 Nov 2026 15:00:00 GMT</pubDate>
+            <description><![CDATA[現役の先生方をお招きして「学校の先生という仕事」について実際の教育現場の視点からご講演いただきます。
+教員を目指す方、教育現場に少しでも興味のある方は、生の声を聞くことができるよい機会です。
+是非、ご参加ください！
+
+↑ クリックして拡大
+
+イベント名：進路セミナー「学校の先生という仕事」
+開催日：2026（令和8）年12月15日（火）18:00～19:30
+対象者：本学の全学部・研究科、全学年
+形式：オンライン（Zoom）
+
+【内容】
+◆講演「学校の先生という仕事」～教育の現場から～
+◆質疑応答
+
+【講師】
+越後 望実（えちご のぞみ）先生 【FC今治高等学校里山校 教諭】
+大野 智久（おお…]]></description>
+            <category>教職</category>
+            <category>1年生</category>
+            <category>2年生</category>
+        </item>
         <item>
             <title><![CDATA[【試験】2026年度Ａセメスター（A1・A2ターム）定期試験実施について（10/14初掲、11/19更新）]]></title>
             <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/all/2026/1119090000.html</link>
@@ -1060,23 +1087,6 @@ PEAK合計
             <category>1年生</category>
             <category>2年生</category>
             <category>PDF</category>
-        </item>
-        <item>
-            <title><![CDATA[2026年度Ａセメスター（A1ターム・A2ターム）のUTASシラバス公開について]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/all/2026/0914110000.html</link>
-            <guid isPermaLink="false">1789311600000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/all/2026/0914110000.html</guid>
-            <pubDate>Sun, 13 Sep 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[シラバスの公開について
-
-9月14日より、2026年度Ａセメスター（A1ターム・A2ターム）に開講される科目のシラバスを公開しました。各授業の詳細についてはシラバスを確認してください。
-シラバスは UTAS のほか、電子ブック形式で公開しています。電子ブックは「シラバス -> 2026年度」からご確認ください。同ページにて時間割表（PDF）も公開しています。
-※時間割表（冊子）の配布は9月24日よりアドミニストレーション棟1階ロビーにて行います。
-※シラバスの内容は今後変更となる可能性があり、電子ブック・時間割表には反映されません。必ずUTASから最新の情報を確認してください。
-※教室の情報に…]]></description>
-            <category>授業</category>
-            <category>1年生</category>
-            <category>2年生</category>
-            <category>重要</category>
         </item>
     </channel>
 </rss>

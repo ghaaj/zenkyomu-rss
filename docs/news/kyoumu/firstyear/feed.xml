@@ -2,11 +2,38 @@
 <rss version="2.0">
     <channel>
         <title>教務課からのお知らせ（1年生） - 前期課程（1・2年生）- 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/firstyear/index.html#%22b693-66102abc9a908%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/firstyear/index.html#%22b690-6610fc81df41a%22</link>
         <description></description>
-        <lastBuildDate>Tue, 24 Nov 2026 10:01:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2026 01:31:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[【教職】進路セミナー「学校の先生という仕事」（12/15(火)18:00～19:00）のお知らせ]]></title>
+            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/all/2026/1125102417.html</link>
+            <guid isPermaLink="false">1795532400000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/all/2026/1125102417.html</guid>
+            <pubDate>Tue, 24 Nov 2026 15:00:00 GMT</pubDate>
+            <description><![CDATA[現役の先生方をお招きして「学校の先生という仕事」について実際の教育現場の視点からご講演いただきます。
+教員を目指す方、教育現場に少しでも興味のある方は、生の声を聞くことができるよい機会です。
+是非、ご参加ください！
+
+↑ クリックして拡大
+
+イベント名：進路セミナー「学校の先生という仕事」
+開催日：2026（令和8）年12月15日（火）18:00～19:30
+対象者：本学の全学部・研究科、全学年
+形式：オンライン（Zoom）
+
+【内容】
+◆講演「学校の先生という仕事」～教育の現場から～
+◆質疑応答
+
+【講師】
+越後 望実（えちご のぞみ）先生 【FC今治高等学校里山校 教諭】
+大野 智久（おお…]]></description>
+            <category>教職</category>
+            <category>1年生</category>
+            <category>2年生</category>
+        </item>
         <item>
             <title><![CDATA[【工学部より】1年生向け進学選択ガイダンスについて（11/26(木)開催）（初掲：11/6、講義題目変更による差替11/24）]]></title>
             <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/engineering_guidance20261126_2.pdf</link>
@@ -1008,23 +1035,6 @@ A1」に切り替えて抽選結果を確認してください。「当選」と
 1年生：8月27日（木）正午～9月9日（水）成績発表時刻まで]]></description>
             <category>成績</category>
             <category>1年生</category>
-        </item>
-        <item>
-            <title><![CDATA[アドバンスト理科・アドバンスト⽂理融合 合同イベントのご案内（8/24(月)11：30～）]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/Ad_Sci_ArtSci_2026.pdf</link>
-            <guid isPermaLink="false">1785078000000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/Ad_Sci_ArtSci_2026.pdf</guid>
-            <pubDate>Sun, 26 Jul 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[アドバンスト理科・アドバンスト⽂理融合 合同イベントのご案内
-東京⼤学教養学部では新しい授業の取り組みとして、2019 年度からアドバンスト理科
-（基礎科⽬・総合科⽬・研究⼊⾨）、2021 年度からアドバンスト⽂理融合を開講しています。
-この度、アドバンスト理科とアドバンスト⽂理融合について前期課程の学⽣に知っていた
-だくため、2026 年 8 ⽉ 24 ⽇（⽉）に合同イベントを開催いたします。特に、2026 年度 A
-セメスターに開講されるアドバンスト理科・構造化学α、アドバンスト理科・研究⼊⾨（基
-礎実験科⽬の単位互換科⽬）、アドバンスト⽂理融合の履修を検討している 1 年⽣の皆様の
-]]></description>
-            <category>その他</category>
-            <category>1年生</category>
-            <category>2年生</category>
         </item>
     </channel>
 </rss>
