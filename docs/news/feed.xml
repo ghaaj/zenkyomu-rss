@@ -2,11 +2,49 @@
 <rss version="2.0">
     <channel>
         <title>前期課程（1・2年生） - 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/index.html#%22ad0c-661376f882fbc%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/index.html#%22aca2-661393d74cbf5%22</link>
         <description></description>
-        <lastBuildDate>Fri, 27 Nov 2026 00:51:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Nov 2026 03:01:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[【窓口】2026年12月（年末年始含む）の窓口業務時間]]></title>
+            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/officehour202612.pdf</link>
+            <guid isPermaLink="false">1795705200000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/officehour202612.pdf</guid>
+            <pubDate>Thu, 26 Nov 2026 15:00:00 GMT</pubDate>
+            <description><![CDATA[2026年12月（年末年始含む）の窓口業務時間
+学生支援課
+⑥～⑧
+Student Support
+Division
+教 務 課
+⓪～⑤
+Academic Affairs Division
+ｱﾄﾞﾐﾆｽﾄﾚｰｼｮﾝ棟1階
+証 明 書
+自動発行機
+1F, Administration
+Building
+Automatic Certificate
+Issuing Machine
+月日
+Date
+③前期課程
+チーム
+③Junior
+Division
+Section
+⓪国際交流支援チーム
+②国際化推進チーム
+④後期課程チーム
+⑤総合文化大学院チーム
+⓪International Student Section
+]]></description>
+            <category>窓口</category>
+            <category>1年生</category>
+            <category>2年生</category>
+            <category>PDF</category>
+        </item>
         <item>
             <title><![CDATA[【本部情報基盤課学術情報リテラシー担当より】辞書・事典ツール活用講座「JapanKnowledge Lib をレポート・論文作成で活用しよう」（12/8 (火) 15:00-16:00）]]></title>
             <link>https://www.lib.u-tokyo.ac.jp/ja/library/literacy/event/20261208</link>
@@ -897,21 +935,6 @@ UTASの「成績・定期試験」→「成績状況確認」画面から確認�
             <category>その他</category>
             <category>1年生</category>
             <category>2年生</category>
-        </item>
-        <item>
-            <title><![CDATA[★まとめ★2026A前期課程ウェブサイト「お知らせ」掲載中の履修と授業に関する通知一覧表（初回掲載：9/14、最終更新：10/9）　]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026A_rishuu_summary.pdf</link>
-            <guid isPermaLink="false">1791471600000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026A_rishuu_summary.pdf</guid>
-            <pubDate>Thu, 08 Oct 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[現在までに前期課程ウェブサイト「お知らせ」に掲載中の2025年度Ａセメスター（A1ターム・A2ターム）の履修および授業に関する通知を一覧にまとめました。通知を熟読し、締切日時等を確認のうえ、手続きを行ってください。 更新 2026/10/09
-科目区分 対象学期 新着 タイトル 初回掲載日 最終更新日
-基礎科目 外国語 英語一列② A1/A2 【2026A1・A2】英語一列②を受講する皆さんへ 2026/09/15 ―
-A1 【2026A1】英語一列②の他クラス聴講・工学部編入生の履修登録について（9/15公開） 2026/09/15 ―
-A1 【2026A1】英語一列②グループのお知らせ 2…]]></description>
-            <category>履修</category>
-            <category>1年生</category>
-            <category>2年生</category>
-            <category>PDF</category>
         </item>
     </channel>
 </rss>

@@ -2,11 +2,49 @@
 <rss version="2.0">
     <channel>
         <title>教務課からのお知らせ（1年生） - 前期課程（1・2年生）- 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/firstyear/index.html#%22b6b5-6613770d09dbf%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/firstyear/index.html#%22b728-661393e56ee97%22</link>
         <description></description>
-        <lastBuildDate>Fri, 27 Nov 2026 00:51:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Nov 2026 03:01:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[【窓口】2026年12月（年末年始含む）の窓口業務時間]]></title>
+            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/officehour202612.pdf</link>
+            <guid isPermaLink="false">1795705200000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/officehour202612.pdf</guid>
+            <pubDate>Thu, 26 Nov 2026 15:00:00 GMT</pubDate>
+            <description><![CDATA[2026年12月（年末年始含む）の窓口業務時間
+学生支援課
+⑥～⑧
+Student Support
+Division
+教 務 課
+⓪～⑤
+Academic Affairs Division
+ｱﾄﾞﾐﾆｽﾄﾚｰｼｮﾝ棟1階
+証 明 書
+自動発行機
+1F, Administration
+Building
+Automatic Certificate
+Issuing Machine
+月日
+Date
+③前期課程
+チーム
+③Junior
+Division
+Section
+⓪国際交流支援チーム
+②国際化推進チーム
+④後期課程チーム
+⑤総合文化大学院チーム
+⓪International Student Section
+]]></description>
+            <category>窓口</category>
+            <category>1年生</category>
+            <category>2年生</category>
+            <category>PDF</category>
+        </item>
         <item>
             <title><![CDATA[（再掲）【2026A2】「英語二列Ｓ（FLOW）」各授業科目への割り振りについて（他クラス聴講及び降年生・留年生の履修手続きについて記載あり）（初回掲載：11/9）]]></title>
             <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/2026A2_English2S_assignment.pdf</link>
@@ -1023,18 +1061,6 @@ A1」に切り替えて抽選結果を確認してください。「当選」と
             <category>1年生</category>
             <category>PDF</category>
             <category>重要</category>
-        </item>
-        <item>
-            <title><![CDATA[成績表の閲覧停止期間（1年生）]]></title>
-            <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/firstyear/2026/0820100000.html</link>
-            <guid isPermaLink="false">1787151600000+https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/firstyear/2026/0820100000.html</guid>
-            <pubDate>Wed, 19 Aug 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[UTAS「成績状況確認」画面は以下の期間、閲覧できません。
-必要に応じ、事前にPDFファイルを保存・印刷するなどにより、ご対応ください。
-
-1年生：8月27日（木）正午～9月9日（水）成績発表時刻まで]]></description>
-            <category>成績</category>
-            <category>1年生</category>
         </item>
     </channel>
 </rss>
