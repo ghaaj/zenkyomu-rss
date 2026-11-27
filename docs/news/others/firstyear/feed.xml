@@ -2,11 +2,25 @@
 <rss version="2.0">
     <channel>
         <title>その他のお知らせ（1年生） - 前期課程（1・2年生） - 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/firstyear/index.html#%22a92f-661375f22ddb2%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/firstyear/index.html#%22a96e-6613ad7297c7f%22</link>
         <description></description>
-        <lastBuildDate>Fri, 27 Nov 2026 00:51:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Nov 2026 05:01:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[【KOMEX国際連携部門より】＜学内限定・要申込＞全学自由研究ゼミナール『文化遺産のポリティクス』授業内特別講義　「原爆と朝鮮戦争を生き抜いた」友田典弘さん（12/17・駒場）]]></title>
+            <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/all/2026/1127134250.html</link>
+            <guid isPermaLink="false">1795705200000+https://www.c.u-tokyo.ac.jp/zenki/news/others/all/2026/1127134250.html</guid>
+            <pubDate>Thu, 26 Nov 2026 15:00:00 GMT</pubDate>
+            <description><![CDATA[国を超えた強い絆 核も戦争もアカンを世界中へ
+
+↑ クリックして拡大
+
+広島の被爆者・友田典弘さんをお招きし、授業内特別講義を行います。2024年に、友田さんは、爆心地500m以内で生存する最後の被爆者となりました。友田さんは、原爆で母と弟を亡くされ、直後に渡った朝鮮半島で朝鮮戦争を生き抜き、1960年に帰国されました。その体験を、ご本人の言葉で直接伺いながら、友田さんについて著書がおありの吾郷修司さんによるスライドを用いた解説がございます。また、2019年から友田さんを支援している徳丸達也さんによるお話もあり、被爆者の方々の体験が語り継がれる実態を伺います。 今年90歳になられた友田さんが東…]]></description>
+            <category>その他</category>
+            <category>1年生</category>
+            <category>2年生</category>
+        </item>
         <item>
             <title><![CDATA[【本部情報基盤課学術情報リテラシー担当より】辞書・事典ツール活用講座「JapanKnowledge Lib をレポート・論文作成で活用しよう」（12/8 (火) 15:00-16:00）]]></title>
             <link>https://www.lib.u-tokyo.ac.jp/ja/library/literacy/event/20261208</link>
@@ -801,20 +815,6 @@ https://bit.ly/4btNWS6
             <category>1年生</category>
             <category>2年生</category>
             <category>重要</category>
-        </item>
-        <item>
-            <title><![CDATA[【情報理工学系研究科 企画室・広報室より】＜参加者募集＞7/31（金）「情報系進学ってどんなもの？女性学部生向け相談会＠駒場」を開催]]></title>
-            <link>https://www.i.u-tokyo.ac.jp/news/events/2026/202607132860.shtml</link>
-            <guid isPermaLink="false">1784041200000+https://www.i.u-tokyo.ac.jp/news/events/2026/202607132860.shtml</guid>
-            <pubDate>Tue, 14 Jul 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[イベント・各種募集案内
-            2026/07/13
-            【参加者募集】7/31（金）「情報系進学ってどんなもの？女性学部生向け相談会＠駒場」を開催
-            情報理工学系研究科では、女性学生が情報系分野でより学びやすい環境づくりを進める一環として、駒場キャンパスで7月31日（金）、カジュアルな進路相談会を開きます。
-情報系の分野は、最先端のAI理論や量子コンピュータ、メタバース、サイバーセキュリティ、ビッグデータ解析、ロボティクスなどはもちろん、最新技術による心理学の研究、社会課題解決に直結する生活工学など非常に幅広く、さまざまな領域とかけ合…]]></description>
-            <category>その他</category>
-            <category>1年生</category>
-            <category>2年生</category>
         </item>
     </channel>
 </rss>

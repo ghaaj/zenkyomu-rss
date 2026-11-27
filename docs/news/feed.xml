@@ -2,11 +2,25 @@
 <rss version="2.0">
     <channel>
         <title>前期課程（1・2年生） - 東京大学 大学院総合文化研究科・教養学部</title>
-        <link>https://www.c.u-tokyo.ac.jp/zenki/news/index.html#%22aca2-6613a47561425%22</link>
+        <link>https://www.c.u-tokyo.ac.jp/zenki/news/index.html#%22acd4-6613ad62914e5%22</link>
         <description></description>
-        <lastBuildDate>Fri, 27 Nov 2026 04:21:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Nov 2026 05:01:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[【KOMEX国際連携部門より】＜学内限定・要申込＞全学自由研究ゼミナール『文化遺産のポリティクス』授業内特別講義　「原爆と朝鮮戦争を生き抜いた」友田典弘さん（12/17・駒場）]]></title>
+            <link>https://www.c.u-tokyo.ac.jp/zenki/news/others/all/2026/1127134250.html</link>
+            <guid isPermaLink="false">1795705200000+https://www.c.u-tokyo.ac.jp/zenki/news/others/all/2026/1127134250.html</guid>
+            <pubDate>Thu, 26 Nov 2026 15:00:00 GMT</pubDate>
+            <description><![CDATA[国を超えた強い絆 核も戦争もアカンを世界中へ
+
+↑ クリックして拡大
+
+広島の被爆者・友田典弘さんをお招きし、授業内特別講義を行います。2024年に、友田さんは、爆心地500m以内で生存する最後の被爆者となりました。友田さんは、原爆で母と弟を亡くされ、直後に渡った朝鮮半島で朝鮮戦争を生き抜き、1960年に帰国されました。その体験を、ご本人の言葉で直接伺いながら、友田さんについて著書がおありの吾郷修司さんによるスライドを用いた解説がございます。また、2019年から友田さんを支援している徳丸達也さんによるお話もあり、被爆者の方々の体験が語り継がれる実態を伺います。 今年90歳になられた友田さんが東…]]></description>
+            <category>その他</category>
+            <category>1年生</category>
+            <category>2年生</category>
+        </item>
         <item>
             <title><![CDATA[【窓口】2026年12月（年末年始含む）の窓口業務時間]]></title>
             <link>https://www.c.u-tokyo.ac.jp/zenki/news/kyoumu/officehour202612.pdf</link>
@@ -925,16 +939,6 @@ UTASの「成績・定期試験」→「成績状況確認」画面から確認�
             <category>進学</category>
             <category>2年生</category>
             <category>PDF</category>
-        </item>
-        <item>
-            <title><![CDATA[【 グローバリゼーションオフィスより  】 10/13（火）英語講演会「英国の国教会、国家、君主政 ～ ヘンリー8世からチャールズ3世まで」  のお知らせ]]></title>
-            <link>https://www.globalkomaba.c.u-tokyo.ac.jp/event/nid00002324.html</link>
-            <guid isPermaLink="false">1791471600000+https://www.globalkomaba.c.u-tokyo.ac.jp/event/nid00002324.html</guid>
-            <pubDate>Thu, 08 Oct 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[グローバル駒場サイトは東京大学 大学院総合文化研究科・教養学部によるグローバルサイトです。駒場キャンパスで学ばれる方、駒場キャンパスから留学したい方、国際交流を希望の方へ向けた情報発信や国際関連リソースを配信しております。]]></description>
-            <category>その他</category>
-            <category>1年生</category>
-            <category>2年生</category>
         </item>
     </channel>
 </rss>
